@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Thomas Wilkey journal on board the U.S.S. Delaware
+                    <num>LCP.Wilkey</num>
+                </titleproper>
+                <titleproper type="filing">Wilkey, Thomas (journal on board the U.S.S. Delaware)</titleproper>
+                <sponsor>The creation of the collection level record was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2012 March 10</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:13-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Wilkey journal on board the U.S.S. 
+                <emph render="italic">Delaware</emph></unittitle>
+            <unitid>LCP.Wilkey</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 volume</extent>
+            </physdesc>
+            <unitdate>1798</unitdate>
+            <abstract id="ref2" label="Abstract">Thomas Wilkey served under Stephen Decatur (1752-1808) in the United States Navy during the Quasi-War with France aboard the U.S.S. 
+                <emph render="italic">Delaware</emph>. During the course of the Quasi-War, the U.S.S. 
+                <emph render="italic">Delaware</emph> sailed between New York and the West Indies, protecting American ships from the French privateers. Wilkey’s journal contains daily records of the U.S.S. 
+                <emph render="italic">Delaware</emph>’s voyages in 1798, including weather conditions, courses set, latitude and longitude, daily activities, and encounters with other ships, including privateers.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Wilkey, Thomas</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Stephen Decatur (1752-1808) served in the United States Navy during the Quasi-War with France and commanded the U.S.S. 
+                <emph render="italic">Delaware</emph>. Originally a merchant shipper, Decatur served as a captain in the navy during the Revolutionary War. Following peace with Great Britain, Decatur returned to work with Gurney and Smith of Philadelphia and raised his family, including son, Stephen Decatur, Jr. (1779-1820) who would become a commodore of the United States Navy during the War of 1812. According to Parsons, “at the close of hostilities, when the officers, men and vessels of the navy were greatly reduced under the Peace Establishment Act, October 22nd, 1801, he was honorably discharged and retired to property he owned at Frankford, near Philadelphia.”</p>
+            <p>The U.S.S. 
+                <emph render="italic">Delaware</emph> was purchased by the United States Navy on May 5, 1798 and sold in June 1801. According to the Dictionary of American Naval Fighting Ships, the U.S.S. 
+                <emph render="italic">Delaware</emph> “cruised to protect American merchant shipping from French privateers; guarded convoys during their approach to Philadelphia and New York; patrolled the West Indies; and escorted convoys into Havana,” (Naval Historical Center). During the course of the Quasi-War, the U.S.S. 
+                <emph render="italic">Delaware</emph> captured the French privateer 
+                <emph render="italic">La Croyable</emph> on July 7, 1798 as well as several other privateering ships, including 
+                <emph render="italic">Le Sans Pareil</emph> and 
+                <emph render="italic">Le Marsuin</emph>, and with the U.S.S. 
+                <emph render="italic">United States</emph>, the 
+                <emph render="italic">la Jaloux</emph>.</p>
+            <p>Little is known about Thomas Wilkey who sailed on the U.S.S. 
+                <emph render="italic">Delaware</emph> under Decatur during 1798. However, it appears that he also served under Decatur on the U.S.S. 
+                <emph render="italic">Philadelphia</emph> and kept a log dating from May 28, 1800 to January 25, 1801 (log available at the Naval Historical Center).</p>
+            <p>
+                <emph render="bold">Bibliography: </emph></p>
+            <p>Naval Historical Center. Dictionary of American Naval Fighting Ships. http://www.history.navy.mil/danfs/d3/delaware-ii.htm (accessed March 8, 2012)</p>
+            <p>Parsons, William Decatur. 
+                <emph render="italic">The Decatur Genealogy</emph>. New York, 1921. http://www.archive.org/stream/decaturgeneal00pars/decaturgeneal00pars_djvu.txt (accessed March 8, 2012)</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of a single journal, written by Thomas Wilkey, that contains daily records of the U.S.S. 
+                <emph render="italic">Delaware</emph>’s voyages in 1798, including weather conditions, courses set, latitude and longitude, daily activities, and encounters with other ships including privateers.</p>
+        </scopecontent>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>Naval Historical Center:</p>
+            <p>Inventory of the Naval Records Collection of the Office of Naval Records and Library, R.G. 45.</p>
+        </relatedmaterial>
+        <accessrestrict id="ref6">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <prefercite id="ref8">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], Thomas Wilkey journal on board the U.S.S. 
+                <emph render="italic">Delaware</emph>, 1798, Library Company of Philadelphia.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="ingest">Decatur, Stephen, 1752-1808</persname>
+            <corpname source="ingest">Delaware (Ship).</corpname>
+            <corpname source="ingest">United States. Navy.</corpname>
+            <genreform source="aat">Journals (accounts)</genreform>
+            <subject source="lcsh">Privateering</subject>
+            <subject source="lcsh">Sailors</subject>
+            <subject source="lcsh">United States--History--1797-1801</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref9" level="file">
+                <did>
+                    <unittitle>Journal</unittitle>
+                    <container id="cid1003" type="Volume" label="Text">1</container>
+                    <unitdate>1798</unitdate>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

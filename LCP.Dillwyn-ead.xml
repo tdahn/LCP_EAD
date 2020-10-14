@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Dillwyn and Emlen family correspondence
+                    <num>LCP.Dillwyn</num>
+                </titleproper>
+                <titleproper type="filing">Dillwyn and Emlen family correspondence</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Holly Mengel.</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2010.10.20</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Volume 1, 1770-1793; Volume 2, 1794-1799; Volume 3, 1800-1803; Volume 4, 1804-1810; Volume 6, 1811-1818</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:07-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Dillwyn and Emlen family correspondence</unittitle>
+            <unitid>LCP.Dillwyn</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.0 containers</extent>
+            </physdesc>
+            <unitdate normal="1770/1818" type="inclusive">1770-1818</unitdate>
+            <abstract id="ref2" label="Abstract">The Dillwyn and Emlen family was joined in 1795 when Susanna Dillwyn married Samuel Emlen, Jr. Both the Dillwyn and Emlen families were prominent in early America as Quakers and advocates for abolition. This collection consists of five disbound volumes of letters written to and from William Dillwyn of London and his daughter Susanna Dillwyn in America from 1770 to 1795; and thereafter until 1818, to and from Susanna and her husband Samuel Emlen, Jr. of Burlington County, New Jersey. Although Susanna lived almost her entire life apart from her father, their letters are frequent and deal primarily with family matters and kin. However, there is frequent comment concerning such topics as yellow fever; abolitionism and slavery; Native Americans; breast cancer; and American and European politics, including the Napoleonic wars and the embargo, as well as their effects upon trade and merchants in Philadelphia and London.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Dillwyn, William, 1743-1824</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Emlen, Samuel, Jr., 1766-1837</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Emlen, Susanna Dillwyn, 1769-1819</persname>
+            </origination>
+        </did>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Guielma M. Howland, 1884.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box/folder number], Dillwyn and Emlen family correspondence, 1770-1818, Library Company of Philadelphia.</p>
+        </prefercite>
+        <scopecontent id="ref8">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of five disbound volumes of letters written to and from William Dillwyn of London and his daughter Susanna Dillwyn in America from 1770 to 1795; and thereafter until 1818, to and from Susanna and her husband Samuel Emlen, Jr. of Burlington County, New Jersey. Although Susanna lived almost her entire life apart from her father, their letters are frequent and deal primarily with family matters and kin. However, there is frequent comment concerning such topics as yellow fever; abolitionism and slavery; and American and European politics, including the Napoleonic wars and the embargo, as well as their effects upon trade and merchants in Philadelphia and London. Moreover, events such as the Federal Convention of 1787 and topics such as the health of Benjamin Franklin, the popularity of President Washington and the trials of a new republic are addressed throughout the correspondence.</p>
+            <p>This collection is largely arranged in chronological order. However, because each letter was assigned a catalog number and catalog numbers are referenced in publications, the arrangement of the collection was not disturbed. As a result, there are letters from 1803, 1808, 1809 and 1811 that are not in correct chronological order. Researchers are advised to peruse the entire collection for any misfiled correspondence.</p>
+            <p>The first volume, housed in boxes 1 and 2, includes letters dating from 1770 to 1793. The first letter, written January 5, 1770, is marked as "my dear father's first letter to me," and describes Sarah Logan Smith, Susanna's mother who died when Susanna was only one month old. By the time that Susanna was eight years old, William Dillwyn had moved permanently to England and remarried. The letters in this volume are largely regarding family--they were written to and from a child, but as the years progress and Susanna grows into a woman, the tone of the letters changes. There is much information in these letters about Susanna's half siblings, which may prove valuable to researchers studying Lewis Weston Dillwyn (1778-1855), son of William and Sarah Weston Dillwyn, who became a noted naturalist and Whig Minister of Parliament. The letters also describe Susanna's life including the books she read, her Quaker faith, visits to family members' homes, and sending squirrels to England for her siblings. William Dillwyn writes of his travels to Holland with Samuel Emlen (father of Susanna's future husband) and her uncle. Susanna writes several letters to her father in 1792 regarding relations with Native Americans, particularly regarding Cherokee and Oneida representatives who visited Philadelphia. In 1793, Susanna writes of the Indian treaty at Sandusky.</p>
+            <p>Included in this first volume are also letters regarding the 1793 yellow fever epidemic. In a letter dating September 9, 1793, Susanna writes, "I wish from time to time to give some account of the dreadful distemper which common report will inform you has become so prevalent in Philadelphia. It is indeed, my dear father, such a time of anxiety and deep distress as I believe was scarce ever known before in this country--almost every family, even here, either laments the loss of some near connection or suffers great apprehension on account of their remaining friends who have not left the city. And for those who have no particular connection with this city cannot be unmoved at the continual tales of distress and death we every day hear. In short there seems no prospect but of the entire desolation of the town, not home but from the mercy of divine Providence." Indeed, she states, "my thoughts are full of the subject. It is difficult to disengage them to obtain even that momentary relief that seems necessary to health." These letters are full of compassion, not only for the patients and families of yellow fever victims, but of the doctors trying so desperately to control the disease. She frequently mentions Dr. Benjamin Rush and his efforts during the epidemic. By September 29, 1793, Susanna writes to her father, "the disease is called the yellow fever. It has spread into I believe all parts of the city and taken away great numbers, among whom are many of the most valuable members of the community, and a great many young people of our society and others. Almost a total suspension of all business has taken place: the distresses of the poor, from sickness, [and] want of business."</p>
+            <p>The second volume dates from 1794 to 1799. During this time frame, there is significant correspondence regarding the engagement and marriage of Susanna to Samuel Emlen, Jr. Samuel Emlen, Jr. wrote to William Dillwyn asking permission to marry Susanna in March and May 1794, and in June 1794, he received permission. By July, Susanna and Samuel had received a certificate of William Dillwyn's consent to the marriage. Around the same time, they received a similar certificate from Samuel Emlen, Sr. From 1796 to 1797, William Dillwyn writes to Susanna and Samuel regarding his travels through Ireland. There are also letters during this time from Susanna and Samuel regarding the illness of Samuel Emlen, Sr, who died on December 30, 1799.</p>
+            <p>Letters from 1800 to 1806 are housed in the third volume and letters from 1807 to 1810 are housed in the fourth volume. Researchers will find letters from November to December 1803 out of chronological order in Box 5, Folder 6. Letters are filled with news of family and friends. In 1807, Susanna writes of the marriage of John Syng Dorsey, and in 1808 she writes of her cousin Susan Cox's marriage to Joseph Parrish. Dr. Philip Syng Physick was married to Samuel Emlen, Jr.'s half-sister Elizabeth (he was also later legally separated from her), and he is discussed with some frequency throughout the correspondence. The letters occasionally include descriptions of her family and friends. In a July 5, 1809 letter to her father, Susanna writes, "Dr. Pysick, a person I sincerely love, is ... naturally grave, constantly engaged in occupations that call for his whole attention, and daily a spectator of evils he can only at best, partially relieve, [and] he has acquired what seems to me so gloomy a view of life, that I tell him, I could not live if I did not entertain more cheerful sentiments." Researchers will find letters from 1808, 1809 and 1811 out of chronological order in Box 6, Folder 18.</p>
+            <p>The final volume contains letters from 1811 to 1818. During the year of 1815, many letters discuss Susanna's breast cancer and demonstrate not only her fear, but the concern and support of her entire family. During this time frame, Susanna's faith is particularly well demonstrated via her letters to her family. Her writing, however, is typically honest and she describes her experience from the time that she "perceived a tumour in [her] left breast, irregularly shaped, about the size of a partridge egg," to her operation without anesthesia, to the relief of recovery when she writes, " the Physicians all agreed that the disease was completely eradicated." Susanna and Samuel's correspondence does not focus solely on her illness, even during the height of the problems, but continues, as throughout the entire collection of correspondence to pay tribute to Quakerism, family, friends and their community. From late 1816 to mid 1818, Samuel and Susanna Emlen visited her father in England. As a result, the depth of correspondence is somewhat reduced during that time period.</p>
+            <p>This collection should be consulted by any researcher interested in colonial America, the early United States, Quakerism, abolition, Native Americans, history of medicine, women's history, and Philadelphia and New Jersey history. Beyond, the general description of life through the eyes of Quakers in Philadelphia, New Jersey, and England from 1770 to 1818, this family witnessed national events, epidemics, and wars. Susanna's descriptions, in particular, are compassionate and honest and may provide new perspectives on known events in American history.</p>
+        </scopecontent>
+        <relatedmaterial id="ref9">
+            <head>Related Archival Materials note</head>
+            <p>Haverford College: Emlen Institution for the Benefit of Children of African and Indian descent records, 1765-1956 (bulk 1838-1956), Ms. Coll. 999; Edward Wanton Smith collection, circa 1837-1848, Ms. Coll. 955 (see box 3); and Howland collection.</p>
+            <p>Historical Society of Pennsylvania: Cox, Parrish and Wharton papers, Historical Society of Pennsylvania; Logan family papers; and Vaux papers. National Library of Wales: William Dillwyn diaries, 1774-1790.</p>
+        </relatedmaterial>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>The Dillwyn and Emlen family was joined in 1795 when Susanna Dillwyn married Samuel Emlen, Jr. Both the Dillwyn and Emlen families were prominent in early America as Quakers and advocates for abolition.</p>
+            <p>William Dillwyn was born in Philadelphia on July 21, 1743, the son of John Dillwyn and Susanna Painter. According to Clarkson, William Dillwyn was “a pupil of the venerable [Anthony] Benezet, who took pains very early to interest his feeling on [abolition],” (Clarkson). A Quaker merchant, Dillwyn married Sarah Logan Smith (1749-1769) on May 19, 1768 in Burlington County, New Jersey. On March 31, 1769, their daughter, Susanna, was born, and roughly a month later, Sarah died.</p>
+            <p>In 1772, William Dillwyn traveled (by Benezet’s arrangement) to Carolina to further study slavery, which was “of great use … in fixing him as the friend of these oppressed people, for he saw so much of their cruel treatment in the course of it, that he felt an anxiety ever afterwards, amounting to a duty to do everything in his power for their relief,” (Clarkson). By 1773, he, along with Richard Smith and Daniel Wells, wrote 
+                <emph render="italic">Brief considerations on slavery, and the expediency of its abolition: with some hints on the means whereby it may be gradually effected</emph>.</p>
+            <p>In 1774, he traveled to England in order to campaign against slavery. In 1777, he married Sarah Weston, making his stay in England permanent, and they lived at Higham Lodge, Walthamstow, Essex. Throughout his time in England, he helped to establish an anti-slavery committee in London in 1787 and toured parts of England and South Wales. In 1783, 
+                <emph render="italic">The case of our fellow-creatures, the oppressed Africans, respectfully recommended to the serious consideration of the legislature of Great-Britain, by the people called Quakers</emph>, was published, with William Dillwyn as author along with John Lloyd and Anthony Benezet. In 1803, he wrote, with Mary and Joshua Cresson, 
+                <emph render="italic">Meditations written during the prevalence of the yellow fever in the city of Philadelphia, in the year 1793: which proved fatal to upwards of 4000 of its inhabitants</emph>. During one of his tours of South Wales in 1807, he purchased the lease of the Cambrian Pottery, Swansea, Glamorganshire from George Haynes, who continued to manage the pottery works. William Dillwyn and Sarah Weston Dillwyn were the parents of eight children. He died, aged 81, on September 28, 1824 and was buried in the Friends’ Burial Ground in Tottenham, Middlesex.</p>
+            <p>William’s daughter from his marriage to Sarah Logan Smith, Susanna, was born on March 31, 1769 in Houghton, New Jersey, about a month before her mother died. She was raised in Burlington, New Jersey at Oxmead by her aunt Susanna Dillwyn Cox with the additional family support of her uncle and aunt, George and Sarah Hill Dillwyn who were travelling Quaker ministers. On April 16, 1795, Susanna, frequently called Susan or Sukey, married Samuel Emlen, Jr. (1766-1837) and they lived in Philadelphia. They moved to Burlington, to a newly built home, West Hill, during the 1797 yellow fever epidemic. Like William Dillwyn and his own father, Samuel Emlen, Susanna’s husband was “an influential Friend himself [and] concerned himself particularly with the issues of slavery and Indian affairs within the Society of Friends,” (Leavitt, page 70). As a result of their Quaker community, business connections, and extensive family relations, the Emlen household resulted in “a close-knit circle of family and friends, radiating outward from Susan Emlen’s home at West Hill to Burlington, Philadelphia, and England,” (Leavitt, page 71).</p>
+            <p>Towards the end of 1813, at the age of 44, Susanna discovered a tumor in her breast; and after some time of deliberation, determined that she needed to seek professional medical help. On June 4, 1814, the tumor was removed by five doctors: Philip Syng Physick (Susanna’s brother-in-law), John Syng Dorsey (serving as principal surgeon), [Caspar] Wistar, Joseph Parrish and Dr. Tucker, and a nurse at the Dillwyn home. Susanna recovered from the surgery, despite several lingering issues such as weakness in her left arm and “pain in the operative scar,” (Aronowitz, page 34). In 1816, the Emlens traveled to England to visit William Dillwyn and his family. While in England, Susanna discovered that a new tumor had appeared. According to Robert A. Anonowitz, “further surgery was not an option that she wanted to seriously consider,” and instead opted for “mind therapies like warmed sea water, vigilance, and carful observation,” (Anonowitz, page 38). Eventually, a more stringent approach was seen as necessary, and Susanna was treated with compression therapy. The Emlens returned to New Jersey during the summer of 1818, her health declining until her death on November 24, 1819.</p>
+            <p>Samuel Emlen, Jr. lived until 1837. During his life, he served as assistant clerk to the Burlington Monthly Meeting from 1800 to 1806 and as clerk to the meeting from 1807 to 1814. At the time of his death in 1837, Samuel Emlen, Jr. “established a trust of $20,000 for an agricultural school, The Emlen Institute for the Benefit of Children of African and Indian Descent,” (Leavitt, page 70). The school was originally located in Ohio, but moved to Bucks County, Pennsylvania.</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>Aronowitz, Robert A. 
+                <emph render="italic">Unnatural History: Breast Cancer and American Society</emph>. Cambridge: Cambridge University Press, 2007.</p>
+            <p>Clarkson, Thomas. 
+                <emph render="italic">The History of the Abolition of the African Slave-Trade by the British Parliament, 2 volumes</emph>. London: L. Taylor, 1808.</p>
+            <p>Leavitt, Judith Walzer. 
+                <emph render="italic"> Women and Health in America: Historical Readings</emph>. Madison, WI: University of Wisconsin Press, 1999.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Dillwyn, William, 1743-1824</persname>
+            <persname source="ingest">Emlen, Samuel, 1730-1799</persname>
+            <persname source="ingest">Emlen, Samuel, Jr., 1766-1837</persname>
+            <persname source="ingest">Emlen, Susanna Dillwyn, 1769-1819</persname>
+            <subject source="lcsh">Abolitionists</subject>
+            <subject source="lcsh">Breast--Cancer</subject>
+            <geogname source="lcsh">Burlington (N.J.)</geogname>
+            <genreform source="aat">Correspondence</genreform>
+            <geogname source="lcsh">Great Britain</geogname>
+            <subject source="lcsh">Indians of North America</subject>
+            <subject source="lcsh">Napoleonic Wars, 1800-1815</subject>
+            <subject source="lcsh">Native Americans</subject>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <subject source="lcsh">Quaker women</subject>
+            <subject source="lcsh">Quakers</subject>
+            <subject source="lcsh">Society of Friends</subject>
+            <subject source="lcsh">United States--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">United States--History--War of 1812</subject>
+            <subject source="lcsh">Yellow fever</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Volume 1</unittitle>
+                    <unitdate normal="1770/1793" type="inclusive">1770-1793</unitdate>
+                    <physdesc id="ref12" label="General Physical Description note">
+                        <extent>Yi2 7302</extent></physdesc>
+                </did>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2851" type="Box" label="Text">1</container>
+                        <container parent="cid2851" type="Folder">1</container>
+                        <unitdate normal="1770/1783" type="inclusive">1770-1783</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2850" type="Box" label="Text">1</container>
+                        <container parent="cid2850" type="Folder">2</container>
+                        <unitdate>1784</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2849" type="Box" label="Text">1</container>
+                        <container parent="cid2849" type="Folder">3</container>
+                        <unitdate>1785</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2848" type="Box" label="Text">1</container>
+                        <container parent="cid2848" type="Folder">4</container>
+                        <unitdate>1786 January-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2847" type="Box" label="Text">1</container>
+                        <container parent="cid2847" type="Folder">5</container>
+                        <unitdate>1786 July-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2846" type="Box" label="Text">1</container>
+                        <container parent="cid2846" type="Folder">6</container>
+                        <unitdate>1787</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2845" type="Box" label="Text">1</container>
+                        <container parent="cid2845" type="Folder">7</container>
+                        <unitdate>1788 January-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2844" type="Box" label="Text">1</container>
+                        <container parent="cid2844" type="Folder">8</container>
+                        <unitdate>1788 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2843" type="Box" label="Text">1</container>
+                        <container parent="cid2843" type="Folder">9</container>
+                        <unitdate>1789 January-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2842" type="Box" label="Text">1</container>
+                        <container parent="cid2842" type="Folder">10</container>
+                        <unitdate>1789 June-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2841" type="Box" label="Text">1</container>
+                        <container parent="cid2841" type="Folder">11</container>
+                        <unitdate>1789 November-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2840" type="Box" label="Text">1</container>
+                        <container parent="cid2840" type="Folder">12</container>
+                        <unitdate>1790 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2839" type="Box" label="Text">1</container>
+                        <container parent="cid2839" type="Folder">13</container>
+                        <unitdate>1790 April-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2838" type="Box" label="Text">2</container>
+                        <container parent="cid2838" type="Folder">1</container>
+                        <unitdate>1790 August-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2837" type="Box" label="Text">2</container>
+                        <container parent="cid2837" type="Folder">2</container>
+                        <unitdate>1791 January-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2836" type="Box" label="Text">2</container>
+                        <container parent="cid2836" type="Folder">3</container>
+                        <unitdate>1791 July-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2835" type="Box" label="Text">2</container>
+                        <container parent="cid2835" type="Folder">4</container>
+                        <unitdate>1791 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2834" type="Box" label="Text">2</container>
+                        <container parent="cid2834" type="Folder">5</container>
+                        <unitdate>1792 January-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2833" type="Box" label="Text">2</container>
+                        <container parent="cid2833" type="Folder">6</container>
+                        <unitdate>1792 June-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2832" type="Box" label="Text">2</container>
+                        <container parent="cid2832" type="Folder">7</container>
+                        <unitdate>1792 July-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2831" type="Box" label="Text">2</container>
+                        <container parent="cid2831" type="Folder">8</container>
+                        <unitdate>1793 January-April</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2830" type="Box" label="Text">2</container>
+                        <container parent="cid2830" type="Folder">9</container>
+                        <unitdate>1793 May-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2829" type="Box" label="Text">2</container>
+                        <container parent="cid2829" type="Folder">10</container>
+                        <unitdate>1793 August-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2828" type="Box" label="Text">2</container>
+                        <container parent="cid2828" type="Folder">11</container>
+                        <unitdate>1793 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Fragments</unittitle>
+                        <container id="cid2827" type="Box" label="Text">2</container>
+                        <container parent="cid2827" type="Folder">12</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref38" level="series">
+                <did>
+                    <unittitle>Volume 2</unittitle>
+                    <unitdate normal="1794/1799" type="inclusive">1794-1799</unitdate>
+                    <physdesc id="ref39" label="General Physical Description note">
+                        <extent>Yi2 7303</extent></physdesc>
+                </did>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2826" type="Box" label="Text">3</container>
+                        <container parent="cid2826" type="Folder">1</container>
+                        <unitdate>1794 January-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2825" type="Box" label="Text">3</container>
+                        <container parent="cid2825" type="Folder">2</container>
+                        <unitdate>1794 June-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2824" type="Box" label="Text">3</container>
+                        <container parent="cid2824" type="Folder">3</container>
+                        <unitdate>1794 November-1795 April</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2823" type="Box" label="Text">3</container>
+                        <container parent="cid2823" type="Folder">4</container>
+                        <unitdate>1795 April-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2822" type="Box" label="Text">3</container>
+                        <container parent="cid2822" type="Folder">5</container>
+                        <unitdate>1795 August-1796 February</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2821" type="Box" label="Text">3</container>
+                        <container parent="cid2821" type="Folder">6</container>
+                        <unitdate>1796 February-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2820" type="Box" label="Text">3</container>
+                        <container parent="cid2820" type="Folder">7</container>
+                        <unitdate>1796 July-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2819" type="Box" label="Text">3</container>
+                        <container parent="cid2819" type="Folder">8</container>
+                        <unitdate>1796 November-1797 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2818" type="Box" label="Text">3</container>
+                        <container parent="cid2818" type="Folder">9</container>
+                        <unitdate>1797 May-November</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2817" type="Box" label="Text">3</container>
+                        <container parent="cid2817" type="Folder">10</container>
+                        <unitdate>1797 November-1798 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2816" type="Box" label="Text">3</container>
+                        <container parent="cid2816" type="Folder">11</container>
+                        <unitdate>1798 May-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2815" type="Box" label="Text">3</container>
+                        <container parent="cid2815" type="Folder">12</container>
+                        <unitdate>1799 January-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2814" type="Box" label="Text">3</container>
+                        <container parent="cid2814" type="Folder">13</container>
+                        <unitdate>1799 October-December</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref53" level="series">
+                <did>
+                    <unittitle>Volume 3</unittitle>
+                    <unitdate normal="1800/1806" type="inclusive">1800-1806</unitdate>
+                    <physdesc id="ref54" label="General Physical Description note">
+                        <extent>Yi2 7304</extent></physdesc>
+                </did>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2813" type="Box" label="Text">4</container>
+                        <container parent="cid2813" type="Folder">1</container>
+                        <unitdate>1800 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2812" type="Box" label="Text">4</container>
+                        <container parent="cid2812" type="Folder">2</container>
+                        <unitdate>1800 April-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2811" type="Box" label="Text">4</container>
+                        <container parent="cid2811" type="Folder">3</container>
+                        <unitdate>1800 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2810" type="Box" label="Text">4</container>
+                        <container parent="cid2810" type="Folder">4</container>
+                        <unitdate>1800 July-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2809" type="Box" label="Text">4</container>
+                        <container parent="cid2809" type="Folder">5</container>
+                        <unitdate>1800 September</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2808" type="Box" label="Text">4</container>
+                        <container parent="cid2808" type="Folder">6</container>
+                        <unitdate>1800 October-1801 March</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2807" type="Box" label="Text">4</container>
+                        <container parent="cid2807" type="Folder">7</container>
+                        <unitdate>1801 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2806" type="Box" label="Text">4</container>
+                        <container parent="cid2806" type="Folder">8</container>
+                        <unitdate>1801 April-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2805" type="Box" label="Text">4</container>
+                        <container parent="cid2805" type="Folder">9</container>
+                        <unitdate>1801 June-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2804" type="Box" label="Text">4</container>
+                        <container parent="cid2804" type="Folder">10</container>
+                        <unitdate>1801 September-1802 June</unitdate>
+                    </did>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2803" type="Box" label="Text">4</container>
+                        <container parent="cid2803" type="Folder">11</container>
+                        <unitdate>1802 August-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2802" type="Box" label="Text">4</container>
+                        <container parent="cid2802" type="Folder">12</container>
+                        <unitdate>1803 January-April</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2801" type="Box" label="Text">4</container>
+                        <container parent="cid2801" type="Folder">13</container>
+                        <unitdate>1803 May-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2800" type="Box" label="Text">4</container>
+                        <container parent="cid2800" type="Folder">14</container>
+                        <unitdate>1803 June-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2799" type="Box" label="Text">4</container>
+                        <container parent="cid2799" type="Folder">15</container>
+                        <unitdate>1803 November</unitdate>
+                    </did>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2798" type="Box" label="Text">5</container>
+                        <container parent="cid2798" type="Folder">1</container>
+                        <unitdate>1804 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2797" type="Box" label="Text">5</container>
+                        <container parent="cid2797" type="Folder">2</container>
+                        <unitdate>1804 March-April</unitdate>
+                    </did>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2796" type="Box" label="Text">5</container>
+                        <container parent="cid2796" type="Folder">3</container>
+                        <unitdate>1804 April-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2795" type="Box" label="Text">5</container>
+                        <container parent="cid2795" type="Folder">4</container>
+                        <unitdate>1804 June-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2794" type="Box" label="Text">5</container>
+                        <container parent="cid2794" type="Folder">5</container>
+                        <unitdate>1804 August-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2793" type="Box" label="Text">5</container>
+                        <container parent="cid2793" type="Folder">6</container>
+                        <unitdate>1803 November-December, 1804 November-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2792" type="Box" label="Text">5</container>
+                        <container parent="cid2792" type="Folder">7</container>
+                        <unitdate>1804 January, 1805 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref77" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2791" type="Box" label="Text">5</container>
+                        <container parent="cid2791" type="Folder">8</container>
+                        <unitdate>1805 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref78" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2790" type="Box" label="Text">5</container>
+                        <container parent="cid2790" type="Folder">9</container>
+                        <unitdate>1805 March-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref79" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2789" type="Box" label="Text">5</container>
+                        <container parent="cid2789" type="Folder">10</container>
+                        <unitdate>1805 June-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2788" type="Box" label="Text">5</container>
+                        <container parent="cid2788" type="Folder">11</container>
+                        <unitdate>1805 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2787" type="Box" label="Text">5</container>
+                        <container parent="cid2787" type="Folder">12</container>
+                        <unitdate>1805 December-1806 February</unitdate>
+                    </did>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2786" type="Box" label="Text">5</container>
+                        <container parent="cid2786" type="Folder">13</container>
+                        <unitdate>1806 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref83" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2785" type="Box" label="Text">5</container>
+                        <container parent="cid2785" type="Folder">14</container>
+                        <unitdate>1806 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2784" type="Box" label="Text">5</container>
+                        <container parent="cid2784" type="Folder">15</container>
+                        <unitdate>1806 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref85" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2783" type="Box" label="Text">5</container>
+                        <container parent="cid2783" type="Folder">16</container>
+                        <unitdate>1806 August-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref86" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2782" type="Box" label="Text">5</container>
+                        <container parent="cid2782" type="Folder">17</container>
+                        <unitdate>1806 October-December</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref87" level="series">
+                <did>
+                    <unittitle>Volume 4</unittitle>
+                    <unitdate normal="1804/1810" type="inclusive">1807-1810</unitdate>
+                    <physdesc id="ref88" label="General Physical Description note">
+                        <extent>Yi2 7305</extent></physdesc>
+                </did>
+                <c id="ref89" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2781" type="Box" label="Text">6</container>
+                        <container parent="cid2781" type="Folder">1</container>
+                        <unitdate>1807 January-February</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2780" type="Box" label="Text">6</container>
+                        <container parent="cid2780" type="Folder">2</container>
+                        <unitdate>1807 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref91" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2779" type="Box" label="Text">6</container>
+                        <container parent="cid2779" type="Folder">3</container>
+                        <unitdate>1807 May-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2778" type="Box" label="Text">6</container>
+                        <container parent="cid2778" type="Folder">4</container>
+                        <unitdate>1807 July-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref93" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2777" type="Box" label="Text">6</container>
+                        <container parent="cid2777" type="Folder">5</container>
+                        <unitdate>1807 August-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref94" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2776" type="Box" label="Text">6</container>
+                        <container parent="cid2776" type="Folder">6</container>
+                        <unitdate>1807 December-1808 February</unitdate>
+                    </did>
+                </c>
+                <c id="ref95" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2775" type="Box" label="Text">6</container>
+                        <container parent="cid2775" type="Folder">7</container>
+                        <unitdate>1808 March-April</unitdate>
+                    </did>
+                </c>
+                <c id="ref96" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2774" type="Box" label="Text">6</container>
+                        <container parent="cid2774" type="Folder">8</container>
+                        <unitdate>1808 May-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref97" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2773" type="Box" label="Text">6</container>
+                        <container parent="cid2773" type="Folder">9</container>
+                        <unitdate>1808 July-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref98" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2772" type="Box" label="Text">6</container>
+                        <container parent="cid2772" type="Folder">10</container>
+                        <unitdate>1808 September-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref99" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2771" type="Box" label="Text">6</container>
+                        <container parent="cid2771" type="Folder">11</container>
+                        <unitdate>1808 December-1809 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref100" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2770" type="Box" label="Text">6</container>
+                        <container parent="cid2770" type="Folder">12</container>
+                        <unitdate>1809 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref101" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2769" type="Box" label="Text">6</container>
+                        <container parent="cid2769" type="Folder">13</container>
+                        <unitdate>1809 March-April</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2768" type="Box" label="Text">6</container>
+                        <container parent="cid2768" type="Folder">14</container>
+                        <unitdate>1809 May-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2767" type="Box" label="Text">6</container>
+                        <container parent="cid2767" type="Folder">15</container>
+                        <unitdate>1809 July-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2766" type="Box" label="Text">6</container>
+                        <container parent="cid2766" type="Folder">16</container>
+                        <unitdate>1809 September-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref105" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2765" type="Box" label="Text">6</container>
+                        <container parent="cid2765" type="Folder">17</container>
+                        <unitdate>1809 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref106" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2764" type="Box" label="Text">6</container>
+                        <container parent="cid2764" type="Folder">18</container>
+                        <unitdate>1808 December, 1809 December, 1811 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref107" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2763" type="Box" label="Text">6</container>
+                        <container parent="cid2763" type="Folder">19</container>
+                        <unitdate>1810 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref108" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2762" type="Box" label="Text">6</container>
+                        <container parent="cid2762" type="Folder">20</container>
+                        <unitdate>1810 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref109" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2761" type="Box" label="Text">6</container>
+                        <container parent="cid2761" type="Folder">21</container>
+                        <unitdate>1810 May-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref110" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2760" type="Box" label="Text">6</container>
+                        <container parent="cid2760" type="Folder">22</container>
+                        <unitdate>1810 July-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref111" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2759" type="Box" label="Text">6</container>
+                        <container parent="cid2759" type="Folder">23</container>
+                        <unitdate>1810 September-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2758" type="Box" label="Text">6</container>
+                        <container parent="cid2758" type="Folder">24</container>
+                        <unitdate>1810 September-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref113" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2757" type="Box" label="Text">6</container>
+                        <container parent="cid2757" type="Folder">25</container>
+                        <unitdate>1810 December</unitdate>
+                    </did>
+                </c>
+                <c id="ref114" level="file">
+                    <did>
+                        <unittitle>Extraneous material found in volume 4</unittitle>
+                        <container id="cid2756" type="Box" label="Text">6</container>
+                        <container parent="cid2756" type="Folder">26</container>
+                        <unitdate>1816, undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref115" level="series">
+                <did>
+                    <unittitle>Volume 5</unittitle>
+                    <unitdate normal="1811/1818" type="inclusive">1811-1818</unitdate>
+                    <physdesc id="ref116" label="General Physical Description note">
+                        <extent>Yi2 7306</extent></physdesc>
+                </did>
+                <c id="ref117" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2755" type="Box" label="Text">7</container>
+                        <container parent="cid2755" type="Folder">2</container>
+                        <unitdate>1811 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2754" type="Box" label="Text">7</container>
+                        <container parent="cid2754" type="Folder">3</container>
+                        <unitdate>1811 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2753" type="Box" label="Text">7</container>
+                        <container parent="cid2753" type="Folder">4</container>
+                        <unitdate>1811 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref120" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2752" type="Box" label="Text">7</container>
+                        <container parent="cid2752" type="Folder">5</container>
+                        <unitdate>1811 May-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2751" type="Box" label="Text">7</container>
+                        <container parent="cid2751" type="Folder">6</container>
+                        <unitdate>1811 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref122" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2750" type="Box" label="Text">7</container>
+                        <container parent="cid2750" type="Folder">7</container>
+                        <unitdate>1811 July-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2749" type="Box" label="Text">7</container>
+                        <container parent="cid2749" type="Folder">8</container>
+                        <unitdate>1811October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2748" type="Box" label="Text">7</container>
+                        <container parent="cid2748" type="Folder">9</container>
+                        <unitdate>1811 December-1812 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref125" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2747" type="Box" label="Text">7</container>
+                        <container parent="cid2747" type="Folder">10</container>
+                        <unitdate>1812 January-February</unitdate>
+                    </did>
+                </c>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2746" type="Box" label="Text">7</container>
+                        <container parent="cid2746" type="Folder">11</container>
+                        <unitdate>1812 February-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2745" type="Box" label="Text">7</container>
+                        <container parent="cid2745" type="Folder">12</container>
+                        <unitdate>1812 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref128" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2744" type="Box" label="Text">7</container>
+                        <container parent="cid2744" type="Folder">13</container>
+                        <unitdate>1812 May-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2743" type="Box" label="Text">7</container>
+                        <container parent="cid2743" type="Folder">14</container>
+                        <unitdate>1812 July-August</unitdate>
+                    </did>
+                </c>
+                <c id="ref130" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2742" type="Box" label="Text">7</container>
+                        <container parent="cid2742" type="Folder">15</container>
+                        <unitdate>1812 September-November</unitdate>
+                    </did>
+                </c>
+                <c id="ref131" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2741" type="Box" label="Text">7</container>
+                        <container parent="cid2741" type="Folder">16</container>
+                        <unitdate>1812 November-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref132" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2740" type="Box" label="Text">7</container>
+                        <container parent="cid2740" type="Folder">17</container>
+                        <unitdate>1813 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2739" type="Box" label="Text">7</container>
+                        <container parent="cid2739" type="Folder">18</container>
+                        <unitdate>1813 March-May</unitdate>
+                    </did>
+                </c>
+                <c id="ref134" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2738" type="Box" label="Text">7</container>
+                        <container parent="cid2738" type="Folder">19</container>
+                        <unitdate>1813 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2737" type="Box" label="Text">7</container>
+                        <container parent="cid2737" type="Folder">20</container>
+                        <unitdate>1813 August-October</unitdate>
+                    </did>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2736" type="Box" label="Text">7</container>
+                        <container parent="cid2736" type="Folder">21</container>
+                        <unitdate>1813 November-1814 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref137" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2735" type="Box" label="Text">7</container>
+                        <container parent="cid2735" type="Folder">22</container>
+                        <unitdate>1814 January-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2734" type="Box" label="Text">7</container>
+                        <container parent="cid2734" type="Folder">23</container>
+                        <unitdate>1814 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2733" type="Box" label="Text">7</container>
+                        <container parent="cid2733" type="Folder">24</container>
+                        <unitdate>1814 August-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref140" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2732" type="Box" label="Text">7</container>
+                        <container parent="cid2732" type="Folder">25</container>
+                        <unitdate>1814 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref141" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2731" type="Box" label="Text">7</container>
+                        <container parent="cid2731" type="Folder">26</container>
+                        <unitdate>1814 December-1815 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref142" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2730" type="Box" label="Text">7</container>
+                        <container parent="cid2730" type="Folder">27</container>
+                        <unitdate>1815 May-September</unitdate>
+                    </did>
+                </c>
+                <c id="ref143" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2729" type="Box" label="Text">7</container>
+                        <container parent="cid2729" type="Folder">28</container>
+                        <unitdate>1815 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2728" type="Box" label="Text">7</container>
+                        <container parent="cid2728" type="Folder">29</container>
+                        <unitdate>1816 January-June</unitdate>
+                    </did>
+                </c>
+                <c id="ref145" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2727" type="Box" label="Text">7</container>
+                        <container parent="cid2727" type="Folder">30</container>
+                        <unitdate>1816 June-July</unitdate>
+                    </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2726" type="Box" label="Text">7</container>
+                        <container parent="cid2726" type="Folder">31</container>
+                        <unitdate>1816 July-1817 September</unitdate>
+                    </did>
+                </c>
+                <c id="ref147" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2725" type="Box" label="Text">7</container>
+                        <container parent="cid2725" type="Folder">32</container>
+                        <unitdate>1817 October-December</unitdate>
+                    </did>
+                </c>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2724" type="Box" label="Text">7</container>
+                        <container parent="cid2724" type="Folder">33</container>
+                        <unitdate>1818 August-1820 April</unitdate>
+                    </did>
+                </c>
+                <c id="ref149" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid2723" type="Box" label="Text">7</container>
+                        <container parent="cid2723" type="Folder">34</container>
+                        <unitdate>1818 June-December</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

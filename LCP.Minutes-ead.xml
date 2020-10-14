@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Library Company of Philadelphia minute books
+                    <num>LCP.Minutes</num>
+                </titleproper>
+                <titleproper type="filing">Library Company of Philadelphia minute books</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Holly Mengel.</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2010.10.07</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Directors' Minutes; Rough minutes of Directors' meetings; Minutes of the Trustees of the Loganian Library; Minutes of the Committee for Fixing the Value of Lost Books.</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:10-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Library Company of Philadelphia minute books</unittitle>
+            <unitid>LCP.Minutes</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>46.0 volumes</extent>
+            </physdesc>
+            <unitdate normal="1731/2000" type="inclusive">1731-2000</unitdate>
+            <abstract id="ref2" label="Abstract">In 1731, Benjamin Franklin and a group of intellectual Philadelphians established the Library Company of Philadelphia, a subscription library supported by its shareholders. The Library Company flourished because it adopted a purchasing policy responsive to the needs of its intellectually alert, economically ambitious, but non-elite membership. The Library Company of Philadelphia is now an independent research library specializing in American society and culture from the 17th to 19th centuries. The history of this organization is best documented by its minute books dating from 1731 to 2000. The collection consists of minute books documenting the meetings of the Directors (both the final approved version of the minutes and the rough drafts of the minutes), 1731 to 2000; the Trustees of the Loganian Library, 1853 to 1876; and the Committee for Fixing the Value of Lost Books, 1785 to 1848. In addition to meeting minutes, the minute books include financial reports, and supporting materials such as excerpts from annual reports, exhibition announcements, menus and correspondence. These volumes effectively tell the history of the Library Company of Philadelphia and document the establishment of and challenges of a 200 year old institution's struggles to maintain its mission, resources, and quality through financial and societal changes. Researchers interested in the history of the Library Company of Philadelphia, Philadelphia history, or libraries will find this collection to be of great value.</abstract>
+            <origination label="creator">
+                <corpname source="ingest">Library Company of Philadelphia.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use at the Library Company of Philadelphia, 1314 Locust Street, Philadelphia, PA 19107. For access, please contact the Library Company’s Chief of Reference at 215-546-3181 ext. 121 or email cking@librarycompany.org</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box and folder number], Library Company of Philadelphia minute books, 1731-2000, Library Company of Philadelphia.</p>
+        </prefercite>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>On July 1, 1731, Benjamin Franklin and a number of his fellow members of the Junto drew up "Articles of Agreement" to found a library. The Junto was a discussion group of young men seeking social, economic, intellectual, and political advancement. When they foundered on a point of fact, they needed a printed authority to settle the divergence of opinion. In colonial Pennsylvania at the time there were not many books. Standard English reference works were expensive and difficult to obtain. Franklin and his friends were mostly mechanics of moderate means. None alone could have afforded a representative library, nor, many imported books. However, by pooling their resources in pragmatic Franklinian fashion, they could. The contribution of each created the book capital of all.</p>
+            <p>Fifty subscribers invested forty shillings each and promised to pay ten shillings a year thereafter to buy books and maintain a shareholder's library. Thus "the Mother of all American Subscription Libraries" was established. The first list of desiderata to stock the shelves was sent to London on March 31, 1732, and by autumn, that order, less a few books found to be unobtainable, arrived. James Logan, "the best Judge of Books in these parts," had assisted in the choice.</p>
+            <p>By the time the library issued its earliest surviving printed catalogue of 1741, the general mix of its collection was established for over a century. Excluding gifts, historical works broadly defined accounted for approximately one-third of the total holdings. Literature comprised a little more than twenty percent, approximately the same proportion as science. Theology accounted for only a tenth of the titles. This was in marked contrast to the earlier libraries of Harvard and Yale, but a harbinger of other popular libraries which were founded later. To conclude the selection, it should be noted that philosophy matched theology in numbers, and that economics and such social sciences, the arts, linguistics, and the indefinables accounted for the rest. Bought for many years through the agency of the Quaker mercer-naturalist of London, Peter Collinson, this was and long remained the basic weighting of book selection until the decline of the proprietary libraries in the last half of the nineteenth century.</p>
+            <p>The Library Company flourished because it adopted a purchasing policy responsive to the needs of its intellectually alert, economically ambitious, but non-elite membership. Its successful example was quickly copied along the Atlantic seaboard from Salem to Charleston. It was Franklin's opinion that "these Libraries have improved the general Conversation of Americans, made the common Tradesmen and Farmers as intelligent as most Gentlemen from other Countries, and perhaps have contributed in some Degree to the Stand so generally made throughout the Colonies in Defence of their Priviledges."</p>
+            <p>The Library soon became not only an increasing collection of books but also a full-fledged cabinet of curiosities in the Renaissance mode. In accordance with its role as an all-embracing cultural institution, the Library Company also participated in the increasingly popular scientific experimentation of its day.</p>
+            <p>At first housed in a room in the librarian's lodgings, the burgeoning accumulation became too much for private quarters. Arrangements were made to move the books and curiosities into rooms on the second floor of the newly finished west wing of the State House (now Independence Hall). It was there that Franklin and his associates performed their first experiments in electricity.</p>
+            <p>Suitably settled, the library could turn its attention to making known its holdings. An existing small octavo of fifty-six pages, printed by Franklin and issued in 1741, lists the 375 titles then in the library. Franklin wrote "A Short Account of the Library" to fill a final blank page. Members could borrow books freely and without charge. Nonmembers could borrow books by depositing their value as security "and paying a small Acknowledgment for the Reading."</p>
+            <p>With a catalogue available, the books shelved in the State House wing, regular orders of books sent to the volunteer agent Collinson, and annual shipments received from London, the Library Company sought the patronage of the proprietors of Pennsylvania. On March 24, 1742, a charter from John, Thomas and Richard Penn, was issued in their name by Governor George Thomas. By it, since the members had "at great expense, purchased a large and valuable collection of useful books, in order to erect a library for the advancement of knowledge and literature in the city of Philadelphia," there was created "one body corporate and politic in deed." The charter was printed in 1746, together with the by-laws and a supplementary catalogue.</p>
+            <p>The first librarian, Louis Timothée, or Timothy as he became, left after a short tenure to become Franklin's printing partner in Charleston. For a very brief period, Franklin himself took on the bibliothecal responsibility. He was succeeded by William Parsons, who served from 1734 to 1746. He was followed as librarian by Robert Greenway, who remained in office for seventeen years. The more important functionary of the institution was the secretary, at first the scrivener and amateur botanist Joseph Breintnall. He kept the minutes and wrote the letters ordering books to Collinson, who faithfully carried out the Library Company's requests for over a quarter of a century. After Breintnall's death in 1746, it was Franklin who performed the secretarial duties. Despite his mythical reputation as the careful methodical "Poor Richard," he was careless about the Library Company's records. When he went to England in 1757, first the schoolmaster Francis Alison and then young Francis Hopkinson served as secretary. When the latter took custody of the Library Company's box, he found that the notes of minutes taken on separate pieces of paper during the printer-politician's years in office were scattered and imperfect. To create a permanent record Hopkinson copied into a book all the minutes of the Library Company from the beginning, although lacunae exist for some periods in the 1740s and 1750s.</p>
+            <p>Among those who guided the destinies of the Library Company in the years before the Revolution were the silversmith Philip Syng, Dr. Thomas Cadwalader, the schoolmaster Francis Alison, the builder-architect Samuel Rhoads, secretary Richard Peters of the Governor's Council, and a bit later the merchant-patriot Charles Thomson and John Dickinson, the "Pennsylvania Farmer." On May 9, 1769, Sarah Wistar became the first woman to be voted a share.</p>
+            <p>In 1772 the library had "become large &amp; valuable, a Source of Instruction to Individuals and conducive of Reputation to the Public," and much too crowded in its State House rooms. After much consideration and no alleviation of the space problem, agreement was reached with the Carpenters' Company in 1773 to rent the second floor of their new hall off Chestnut Street near Fourth. It was a historic move. On September 5, 1774, the First Continental Congress met on the first floor of Carpenters' Hall. John Adams reported that the site committee had taken "a View of the Room, and of the Chamber where is an excellent Library." In anticipation of the meeting, the Library Company had ordered that "the Librarian furnish the Gentlemen who are to meet in Congress in this City with the use of such Books as they may have occasion for during their sitting taking a Receipt for them.” The offer of the use of the collections was renewed when the Second Continental Congress met the following spring, and again when the delegates to the Constitutional Convention met in 1787. In fact, for a quarter century, from 1774 until the national capital was established in Washington, D.C., in 1800, the Library Company, long the most important book resource for colonial Philadelphians, served as the de facto Library of Congress before there was one de jure.</p>
+            <p>In 1775, in the months of growing turmoil, the directors tried to continue normal procedures. Just when the news of Lexington and Concord reached Philadelphia, a supplement to the 1770 catalogue was delivered by Robert Aitken, who later also printed the "Bible of the Revolution." Nonetheless, the affairs of the Library Company were overwhelmed by events. At the end of the year it was announced that books had to be obtained from the librarian's house, because the first floor of Carpenters' Hall was being used as an infirmary for sick soldiers. The occupation of the city by the British also interrupted the routine; the directors did not meet between October 1777 and March 1778, but then things seem to have gone on smoothly. Just before the British left, the Tory bookseller of New York, James Rivington, sent the library "all the Books to be procured at present in this place." Insofar as the Minutes reflect what was going on, the Library Company seemed insulated from the trials and successes of the new nation.</p>
+            <p>During the war years, importation of books from abroad had ceased. With the peace in 1783 a flurry of orders went to London agents Joseph Woods and William Dillwyn. Although the contents of the museum and the scientific instruments of the Library Company remained in its possession for some time, gifts to the cabinet fell off. Growth had continued and the library's rented quarters became inadequate. In 1789 the Library Company bought a piece of land on Fifth Street near Chestnut across from the State House Square. A competition for the design of a building was held. An amateur architect, Dr. William Thornton, won it with plans for a handsome Palladian red-brick structure with white pilasters and a balustrade surmounted by urns.</p>
+            <p>When the new library was in operation, conversations were held seeking an arrangement with the Loganian Library. By the time he died in 1751, James Logan had gathered over 2,600 volumes, chiefly in Latin and Greek, which was the best collection of books in colonial America. In his later years he had decided to leave his books for the use of the public and established a library, an American Bodleian. By an act of March 31, 1792, the books and assets of the Loganian Library were transferred into the custody of the Library Company. An addition to its just completed building was quickly erected as an east wing. There were almost 4,000 volumes in the Loganian Library which, after it was moved into new quarters, were listed in a new catalogue published in 1795.</p>
+            <p>A succession of functionaries of brief incumbency, including John Todd, Jr., the first husband of Dolly Madison, handled the operation of the library until Zachariah Poulson, Jr. became the librarian in 1785. Poulson was a printer, newspaper publisher, and excellent keeper of books and records. He compiled and printed an indexed catalogue in 1789, kept admirable accounts of books borrowed, and set up "A Chronological Register" of shares which retrospectively listed the original and successive owners of each share from 1731 on. The register has been kept up and is still in use.</p>
+            <p>The number of shareholders had reached 100 in 1763 and remained at that level until the merger with the Union Library in 1769, when it jumped to 400. Poulson, who was responsible for getting the operational affairs of the institution on a workmanlike basis, served as librarian for over two decades.</p>
+            <p>The library's role in the life of Philadelphia was maintained. It was, and remained until late in the nineteenth century, "the City Library" or the "the Philadelphia Library." Men of prominence were its members. Nine signers of the Declaration of Independence - Benjamin Franklin, Benjamin Rush, Francis Hopkinson, Robert Morris, George Clymer, John Morton, James Wilson, Thomas McKean, and George Ross - owned shares, and some of them served as directors. At the turn of the century, those most active in the management of the Library Company were Richard Wells, Benjamin R. Morgan, William Rawle, Joseph Parker Norris, Robert Waln, and Samuel M. Fox, all of whom were leaders or participants in the civic and philanthropic activities of the city.</p>
+            <p>In 1806, Zachariah Poulson resigned as librarian and was succeeded by George Campbell, who remained in office until 1829. These were the days of printed catalogues. In the spring of 1829, John Jay Smith was elected librarian. He was a man of broad culture and considerable energy, with a host of extracurricular activities. He was a descendant of James Logan through Logan's daughter Hannah and was proud of his ancestry. After more than two decades as librarian, John Jay Smith resigned in 1851 and his son, Lloyd Pearsall Smith, succeeded him. Lloyd Smith was the first to look upon librarianship as a career. The library continued to grow. Concern about the inadequacy of the Fifth Street building increased in pace with acquisitions. "Subscriptions for the erection of a Fire-Proof Building for the Library" were sought. The destruction of much of the Library of Congress made many institutions fire-conscious. By 1869, a substantial fund, including a legacy of almost $50,000 from Joseph Fisher, had been raised; some lots were purchased in an attempt to assemble sufficient ground at the corner of Juniper and Locust Streets.</p>
+            <p>During the Civil War, the struggle of the nation made the operation of the library of secondary importance. When the Confederate Army under Lee threatened Pennsylvania in 1863, Lloyd P. Smith joined the Germantown Company of volunteers, leaving the servicing of books in the hands of fifteen-year-old George Maurice Abbot, who had just joined the staff, and Smith's now aged father. A map was set up in the reading room with colored pins to show the changing positions of the armies as campaigns ebbed and flowed.</p>
+            <p>In 1869, Dr. James Rush died. He was the son of the physician-patriot Benjamin Rush and husband and heir of Phoebe Ann Ridgway Rush, who had inherited a portion of her father Jacob Ridgway's immense fortune and had predeceased her husband. In accordance with his will as presented to the directors of the Library Company by Henry J. Williams, Rush's brother-in-law, sole executor, and long-time director of the Library Company, Rush left an estate of nearly a million dollars to the Library Company - under certain conditions. The original will had been drawn up in 1860, and in the remaining years of his life Dr. Rush added codicil upon codicil until he succeeded in obscuring his own somewhat eccentric wishes in a fog of words and admonitory clauses. His original intention was clear. With his money, the Library Company was to purchase a plot of adequate size "situated between Fourth and Fifteenth and Spruce and Race Streets" and there build a "fire-proof building sufficiently large to accommodate and contain all the books of the Library Company of Philadelphia . . . and to provide for its future extension." Matters, however, were not permitted to rest there. In his second codicil, Dr. Rush authorized his executor, at his discretion, to do whatever he thought fit. Mr. Williams asserted that on his deathbed, Dr. Rush had expressed his specific desire that the library be built on a lot at Broad and Christian Streets toward the purchase of which he had made a payment. The executor announced his intention of carrying out the testator's last oral wishes.</p>
+            <p>At a meeting in October 1869, the membership voted to "accept the legacy of Dr. James Rush according to the terms expressed in his will." The directors of the Library Company were torn between a desire to benefit from the million-dollar bequest and their disapproval of Williams' plans for the site and the building. After several years, much bitterness, and a number of lawsuits, the huge Parthenon-like structure designed by Addison Hutton was erected at Broad and Christian Streets. In 1878, the Library Company reluctantly accepted the impressive edifice, named the Ridgway Library in honor of the original source of the funds which made it possible, and the Rush bequest.</p>
+            <p>By the time the Ridgway Library was completed, plans, energetically forwarded by Henry Wharton, William Henry Rawle, and John S. Newbold, were well advanced for another building at Juniper and Locust Streets, a location more central and more convenient for most of the members. It was decided to use the Ridgway Library as a kind of storage house, although it was never so crudely phrased. On February 24, 1880, the new Juniper and Locust Street library opened its doors.</p>
+            <p>In acknowledgment of the increasing number of women who became members throughout the nineteenth century, the plans for the Juniper and Locust Street building included a ladies' sitting room. The Library Company also hired its first woman librarian, Elizabeth McClellan, who had charge of the Women's Room (and attended exclusively to the wants of female readers) from 1880 until her death in 1920.</p>
+            <p>After the Civil War, the position of the Library Company and of similar American subscription libraries was gradually but inexorably altered. The Library Company noticed that far more nonmembers than members were beginning to use its resources. It was a recognition of the changing times which impelled Dr. S. Weir Mitchell, author and physician, to suggest in 1886 that a study be made "to consider whether it may not be possible to make of the Philadelphia Library a Library free to all."</p>
+            <p>With two buildings to operate, Lloyd P. Smith had at first divided his time between the Locust Street and Christian Street libraries. George Maurice Abbot, who had been hired as a boy to help in the old Library Hall, was soon sent down to supervise the Ridgway Library. J. Bunford Samuel was taken on as a stack boy and messenger there. Smith's successors - James G. Barnwell from 1887 to 1907 and Abbot from 1907 to 1929 - emigrated as soon as they could to the more socially rewarding milieu of Locust Street. Few of the directors and few of the members gave much thought to the dusty vastness of the gray Greek temple in which James and Phoebe Ann Rush were entombed and, it sometimes seemed, in which the books were entombed also. They were satisfied to have Samuel take over the curatorship of the Ridgway Library.</p>
+            <p>The main concern of the directors and the head librarian was seeing that the members were supplied with the most recent books for their leisure-time reading. After the Free Library of Philadelphia opened its main building on Chestnut Street in 1895 and later moved to 13th and Locust Streets, the Library Company was destined to drift, its members resigned to seeing it an institution of undistinguished gentility. It was recorded in 1895 that fewer persons had used the library and fewer books were taken out than usual. As an afterthought they added that, however, as a library for the student and the thoughtful reader" its position remained preeminent. This statement summarized the library's history for the first part of the twentieth century.</p>
+            <p>In 1929 Austin K. Gray became librarian. A gentle, cultured Englishman and literary historian, he attempted to rouse the library from its lethargy with lectures and exhibitions. However, he was unable to prevent the Library Company from inching toward bankruptcy as the depression deepened. The publication of a history of the Library Company, written and considerably romanticized by Gray, sparked a gallant fund-raising effort and membership campaign which managed to keep the institution afloat until the situation became too desperate for palliative measures.</p>
+            <p>In 1935, under the leadership of Owen Wister, then president of the Library Company, the directors urged that the Juniper and Locust Street building be given up and all the books concentrated in the Ridgway Library. They recommended "a policy whereby theLibrary, from being a general circulating library of current and ephemeral books, becomes a Library dedicated to the care of and making additions to its remarkable collections of valuable books." If such a policy did not please the majority of the shareholders, it was inevitable that such a policy would prevail.</p>
+            <p>A further thrust in the direction of change was given by a grant from the Carnegie Corporation to recatalogue and reshelve the library so that its scholarly resources would be more readily available. Unfortunately, the program carried out with WPA (Works Progress Administration) help was not well conceived or executed. At the time, no one looked upon the results of the Carnegie grant as anything but strengthening the status and stature of the Ridgway Library and its research materials.</p>
+            <p>At the annual meeting on May 1, 1939, the members unanimously agreed that the directors be given authority to sell or lease the Locust Street property. A small circulating library was to be retained in the center of the city for the convenience of the members.</p>
+            <p>During the following year all the books were moved to the basement of the Ridgway Library under the supervision of Barney Chesnick. He had been hired to assist Samuel at Broad and Christian Streets and succeeded him in charge of the old collections then being used by a comparatively few discerning and imaginative scholars. The two-centuries-old Library Company was at the nadir of its fortunes. About this time, two studies looked at the Library Company's holdings and operations. They came to similar conclusions: that the circulation of modern books to members and subscribers was an obsolete service, and that the Library Company should become a research library, preferably in association with one of the city's other institutions. This required long-term planning. For the moment, the rent from the parking lot and income from endowment funds were not sufficient to pay for all the library's operating expenses. This situation, World War II, and Austin Gray's resignation as Librarian impelled the directors in 1943 to make arrangement with the Free Library of Philadelphia whereby that institution became the corporate librarian of the Library Company, responsible (for a fee) for the administration of the library. At about the same time, the Library Company's endowment funds were reorganized and brilliantly reinvested by Moncure Biddle, who in concert with the treasurer, W. Logan Fox, began to build a solid financial base for the institution.</p>
+            <p>The resurgent feeling that "something should be done" had been repressed during the 1930s and 1940s because the financial difficulties of the Library Company precluded any constructive change. Edwin Wolf 2nd was engaged to make a survey of the collections, to assess their scope, size, and importance, and to suggest means to improve their care and usefulness. Then, four eminent librarians - Lloyd A. Brown of the Peabody Institute, William A. Jackson of Harvard, Paul North Rice of the New York Public Library, and Clifford K. Shipton of the American Antiquarian Society - were invited to inspect the Library Company and consult with the directors about its future.</p>
+            <p>Unanimously, the experts agreed that the Library Company's greatest strength lay in its rare books and manuscripts, and that its greatest contribution to society would be as a scholarly research library with special emphasis on American history and culture. There was no doubt that the rare books and manuscripts were far more numerous and more valuable than had been generally believed. The first and immediate step the consultants urged was a program of rehabilitation. The most valuable books should be taken from the scattered locations, recatalogued, repaired, and temporarily reshelved in a room to be refitted and air-conditioned. Then the experts recommended that the Library Company reduce and refine its mass of late-nineteenth- and twentieth-century books, keeping only those which would supplement as reference works the basic historical collections.</p>
+            <p>These steps were, however, considered preliminary to a decision to move out of the Ridgway Library. That structure, once considered fireproof, was judged instead to be a fire-trap. Furthermore, the roof leaked, the basement was damp, and the building's location in the city was unfortunate. The consensus was that the Library Company should move to modern quarters in or adjacent to another compatible library as soon as possible.</p>
+            <p>By 1955, with income from the parking garage increasing, the Library Company could stand on its own feet. In December of that year, the arrangement with the Free Library was amicably terminated. Wolf became Librarian. He shared the excitement of rediscovery and revitalization with an audience of bookmen - librarians, collectors, booksellers, and, of course, members of the Library Company - through his paradoxically light yet scholarly essays in the Annual Reports.</p>
+            <p>The experts' primary recommendation - to move from the totally inadequate and unsuitable Ridgway Library - had not been forgotten. A location next to the Historical Society was favored. The steps necessary to bring the plan to fruition were interlocking and complicated. Fortunately, at the critical time the City of Philadelphia made a satisfactory offer for the building and land. The Library Company was given permission to make the sale and also to use such other funds as were part of the Rush estate to build the new library. Three nineteenth-century brownstone houses, owned by and contiguous to the Historical Society, were purchased and torn down. Plans for a modern eight-story building were drawn by the architectural firm of Carroll, Grisdale, and Van Alen, and construction began in 1964. Meanwhile, in order to carry out another of the original recommendations concerning the future of the Library Company and to avoid moving unwanted books, a sweep of the shelves was undertaken. With formal authorization from the directors and the membership as a whole, Wolf culled and disposed of such works printed after 1880 as were deemed not germane to the Library Company's main collections.</p>
+            <p>With the Library Company's holdings down to an estimated 375,000 volumes, the Library Company was ready to return to the center of the city. The new building was completed by the end of 1965. The difficult transfer of the books nevertheless provided an opportunity to revamp the shelving arrangement and gather together subject classes which the space problems in the old building had fragmented. Because approximately two-thirds of the funds for the new library derived from the Rush estate, the building, like its predecessor, was named the Ridgway Library. The building was opened to the public in April 1966. A reciprocal arrangement was reached with the neighboring Historical Society whereby its rare books are shelved and used by readers in the Library Company, and the latter's manuscripts are shelved and used by readers in the Historical Society.</p>
+            <p>An interest in eighteenth-century intellectual history led Wolf in 1956 to begin the reconstruction of three colonial private libraries which had been partly or wholly incorporated into the Library Company - those of James Logan, Benjamin Franklin, and William Byrd of Westover, Virginia. He published a definitive catalogue of Logan's library in 1974. The other two libraries had been scattered by 1800, but he was able to locate substantial parts of them on the Library Company's shelves and in other collections across the country.</p>
+            <p>Comparing the Library Company's holdings with already-published subject bibliographies uncovered still more collections of surprising strength in areas such as technology, Judaica, household and cookery books, courtesy books, gift books, and architecture. In the process of strengthening and extending the Library Company's core collection, unnecessary or expensive duplication of the holdings of other local libraries was always avoided. This principle was applied not only to individual books but to whole areas of collecting. All acquisitions still build on the core collection acquired between 1731 and 1880. The collection is constantly growing, but its essential character has not changed.</p>
+            <p>The move to the new Ridgway Library proved fruitful for the print collection of the Library Company as well. With the appointment of Stefanie A. Munsing as curator of prints in 1971, the Print Department was born and quickly became a center of activity. A vast task faced the new curator of reorganizing and cataloguing the accumulation of Philadelphia views, portraits, American political cartoons, and early photographs. In 1975, Bernard Reilly moved from the Reading Room to the Print Department. It was during his tenure and due to his initiative that the Library Company's remarkable collection of nineteenth-century Philadelphia photographs began to be appreciated.</p>
+            <p>In 1977, Kenneth Finkel took over the Print Department. Under his aggressive and imaginative curatorship from 1977 to 1994, the collection increased at a phenomenal rate. With the exhibition and simultaneous publication in 1980 of 
+                <emph render="italic">Nineteenth-Century Photography in Philadelphia</emph>, the Print Department became the center for the study of early photography in Philadelphia.</p>
+            <p>Conservation of the ever-growing collections grew in importance over the years. A bindery was first set up at the Library Company in 1954 by the German master bookbinder Fritz Eberhardt to repair and rebind in chronological order the vast collection of pamphlet Americana. After Eberhardt left in 1957, Kaspar Reder was hired to continue the work. The care of the print collection was taken up in 1971 with the bindery staff working under the guidance of Curator of Prints Stefanie Munsing. Under Chief of Conservation Jennifer Woods Rosner, the staff began to move systematically through the entire rare book collection, and its range of treatments has widened to include making protective boxes, reattaching covers detached from leather bindings, repairing cloth bindings of the 19th century, and replacing old library bindings with new ones made of high-quality archival materials.</p>
+            <p>Under the direction of Librarian Wolf, the Library Company assumed a leading role in the cultural and intellectual community of Philadelphia and established a reputation of scholarly service both locally and internationally. Franklinian common sense, with a dash of thrift, was its guide, as befit a library struggling to be reborn. Wolf retired at the end of 1984 and was succeeded by John C. Van Horne, who came to the Library Company from the American Philosophical Society. Under Van Horne's guidance the Library Company struck out in several new directions. The Library Company began to attract more scholars to the collections by instituting an endowed research fellowship program in 1987 that provides modest stipends to enable graduate students and senior scholars to travel to Philadelphia to conduct research at the Library Company. The Library Company also created a revolving Publication Fund that supports the publication of a variety of works, usually carrying the joint imprint of the Library Company and a commercial or university press co-publisher. These books are generally based on the collections or relate to special projects or programs.</p>
+            <p>In the second half of the twentieth century, the Library Company has been utterly transformed from a dusty mausoleum filled with books that were deteriorating from heat, damp, and dust, to a busy and vital center for research and education of national importance. The Library Company remains open and free of charge to any serious scholar, but the collections are now housed in closed stacks, and no rare materials circulate except as loans for exhibition in other institutions. The collections are constantly and vigorously expanded and enriched, and they are fully accessible through card catalogues and other in-house finding aids.</p>
+            <p>All these changes have been made in order to carry out the Library Company's new mission as articulated in the 1950s: to collect, preserve, and make available books, graphics, and other primary source materials for the study of American history and culture up to the closing years of the 19th century. Much has changed and will change, but one thing remains constant: the collections are the focus of all the library's energies, and the reason for its existence.</p>
+            <p>
+                <emph render="bold">Bibliography: </emph></p>
+            <p>Quoted directly, in segments from: 
+                <emph render="italic">At the Instance of Benjamin Franklin: A Brief History of The Library Company of Philadelphia, 1995</emph> [full document available at: http://librarycompany.org/about/Instance.pdf]</p>
+        </bioghist>
+        <processinfo id="ref7">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>Library Company of Philadelphia: Library Company of Philadelphia Shareholders records, 1732-2000.</p>
+        </relatedmaterial>
+        <scopecontent id="ref9">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of minute books documenting the meetings of the Directors (both final minutes and rough minutes), 1731 to 2000; the Trustees of the Loganian Library, 1853 to 1876; and the Committee for Fixing the Value of Lost Books, 1785 to 1848. Included in these volumes are financial reports and supporting materials such as excerpts from annual reports, exhibition announcements, menus and correspondence.</p>
+            <p>The "Directors' Minutes" are housed in volumes 1 to 24. Entries generally include: policies, book lists, copies of letters sent to the Library Company of Philadelphia, current financial status, members present for meetings, and committees created and the members appointed to those committees. Minutes books from 1731 to approximately 1938 are hand written, thereafter, the minutes are typed. Original letters and the report of the president are frequently pasted into the typed minutes. The proceedings of the Annual Meeting held on May 6, 1929 was transcribed and is included in this series.</p>
+            <p>The "Rough Minutes of the Directors' Meetings" run from 1850 to 1932 and appear to be the notes taken during the actual meeting which were later transcribed into the official record housed in "Directors' Minutes." Therefore, the information contained within these volumes is duplicate to the material contained in the previous series, however; these volumes do not contain original auxiliary material.</p>
+            <p>The "Minutes of the Trustees of the Loganian Library," consist of two volumes of minutes from 1792 to 1935, and two folders of rough minutes from 1853 to 1876. Again, these rough minutes were probably notes taken during the meeting, which were copied into the final minute books. When the Loganian Library was added to the collections of the Library Company of Philadelphia, in addition to the directors of the Library Company serving as Trustees, the eldest male descendent of James Logan and two others appointed by him were also to serve as Trustees. These minutes document the transactions of the meetings addressing specific Loganian Library issues.</p>
+            <p>The "Minutes of the Committee for Fixing the Value of Lost Books" consists of one volume dating from 1785 to 1848.</p>
+            <p>These volumes effectively tell the history of the Library Company of Philadelphia and document the establishment of and challenges of a 200 year old institution's struggles to maintain its mission, resources, and quality through financial and societal changes. Researchers interested in the history of the Library Company of Philadelphia, Philadelphia history, or libraries will find this collection to be of great value.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname source="ingest">Library Company of Philadelphia.</corpname>
+            <corpname source="ingest">Loganian Library.</corpname>
+            <subject source="lcsh">Libraries</subject>
+            <genreform source="aat">Minutes</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <subject source="lcsh">Research libraries</subject>
+            <subject source="lcsh">Subscription libraries</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref10" level="series">
+                <did>
+                    <unittitle>Series I. Directors' Minutes</unittitle>
+                </did>
+                <c id="ref11" level="file">
+                    <did>
+                        <unittitle>Volume 1</unittitle>
+                        <container id="cid3730" type="Volume" label="Text">1</container>
+                        <unitdate normal="1731/1742" type="inclusive">1731-1742</unitdate>
+                    </did>
+                </c>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>Volume 1 (photostat copy)</unittitle>
+                        <container id="cid3729" type="Volume" label="Text">1a</container>
+                        <unitdate normal="1731/1742" type="inclusive">1731-1742</unitdate>
+                    </did>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>Volume 2</unittitle>
+                        <container id="cid3728" type="Volume" label="Text">2</container>
+                        <unitdate normal="1768/1785" type="inclusive">1768-1785</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>Volume 3</unittitle>
+                        <container id="cid3727" type="Volume" label="Text">3</container>
+                        <unitdate normal="1785/1794" type="inclusive">1785-1794</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Volume 4</unittitle>
+                        <container id="cid3726" type="Volume" label="Text">4</container>
+                        <unitdate normal="1794/1816" type="inclusive">1794-1816</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>Volume 5</unittitle>
+                        <container id="cid3725" type="Volume" label="Text">5</container>
+                        <unitdate normal="1816/1832" type="inclusive">1816-1832</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Volume 6</unittitle>
+                        <container id="cid3724" type="Volume" label="Text">6</container>
+                        <unitdate normal="1832/1850" type="inclusive">1832-1850</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>Volume 7</unittitle>
+                        <container id="cid3723" type="Volume" label="Text">7</container>
+                        <unitdate normal="1850/1875" type="inclusive">1850-1875</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>Volume 8</unittitle>
+                        <container id="cid3722" type="Volume" label="Text">8</container>
+                        <unitdate normal="1875/1885" type="inclusive">1875-1885</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>Volume 9</unittitle>
+                        <container id="cid3721" type="Volume" label="Text">9</container>
+                        <unitdate normal="1885/1901" type="inclusive">1885-1901</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Volume 10</unittitle>
+                        <container id="cid3720" type="Volume" label="Text">10</container>
+                        <unitdate normal="1901/1912" type="inclusive">1901-1912</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Volume 11</unittitle>
+                        <container id="cid3719" type="Volume" label="Text">11</container>
+                        <unitdate normal="1912/1924" type="inclusive">1912-1924</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Volume 12</unittitle>
+                        <container id="cid3718" type="Volume" label="Text">12</container>
+                        <unitdate normal="1924/1932" type="inclusive">1924-1932</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Transcription of Annual Meeting</unittitle>
+                        <container id="cid3717" type="Volume" label="Text">13</container>
+                        <unitdate>1929 May 6</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Volume 13</unittitle>
+                        <container id="cid3716" type="Volume" label="Text">14</container>
+                        <unitdate normal="1932/1938" type="inclusive">1932-1938</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Volume 14</unittitle>
+                        <container id="cid3715" type="Volume" label="Text">15</container>
+                        <unitdate normal="1938/1941" type="inclusive">1938-1941</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Volume 15</unittitle>
+                        <container id="cid3714" type="Volume" label="Text">16</container>
+                        <unitdate normal="1941/1848" type="inclusive">1941-1848</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Volume 16</unittitle>
+                        <container id="cid3713" type="Volume" label="Text">17</container>
+                        <unitdate normal="1948/1958" type="inclusive">1948-1958</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Volume 17</unittitle>
+                        <container id="cid3712" type="Volume" label="Text">18</container>
+                        <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Volume 18</unittitle>
+                        <container id="cid3711" type="Volume" label="Text">19</container>
+                        <unitdate normal="1964/1970" type="inclusive">1964-1970</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Volume 19</unittitle>
+                        <container id="cid3710" type="Volume" label="Text">20</container>
+                        <unitdate normal="1970/1979" type="inclusive">1970-1979</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Volume 20</unittitle>
+                        <container id="cid3709" type="Volume" label="Text">21</container>
+                        <unitdate normal="1979/1985" type="inclusive">1979-1985</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Volume 21</unittitle>
+                        <container id="cid3708" type="Volume" label="Text">22</container>
+                        <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Volume 22</unittitle>
+                        <container id="cid3707" type="Volume" label="Text">23</container>
+                        <unitdate normal="1994/1997" type="inclusive">1994-1997</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Volume 23</unittitle>
+                        <container id="cid3706" type="Volume" label="Text">24</container>
+                        <unitdate normal="1998/2000" type="inclusive">1998-2000</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Microfilm of Volumes 1-3</unittitle>
+                        <container id="cid3705" type="Reel" label="Text">1</container>
+                    </did>
+                </c>
+            </c>
+            <c id="ref37" level="series">
+                <did>
+                    <unittitle>Series II. Rough Minutes of Directors' Meetings</unittitle>
+                </did>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3704" type="Volume" label="Text">25</container>
+                        <unitdate>1850 May 9-1856 May 1</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3703" type="Volume" label="Text">26</container>
+                        <unitdate>1859 March 3-1864 December 4</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3702" type="Volume" label="Text">27</container>
+                        <unitdate>1868 November 5-1870 May 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3701" type="Volume" label="Text">28</container>
+                        <unitdate>1870 April 7-1873 May 1</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3700" type="Volume" label="Text">29</container>
+                        <unitdate>1873 May 5-1876 April 27</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3699" type="Volume" label="Text">30</container>
+                        <unitdate>1877 May 3-1877 June 7</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3698" type="Volume" label="Text">31</container>
+                        <unitdate>1881 June 6-1891 January 2</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3697" type="Volume" label="Text">32</container>
+                        <unitdate>1891 April 3-1900 November 1</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3696" type="Volume" label="Text">33</container>
+                        <unitdate>1900 December 6-1903 April 30</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3695" type="Volume" label="Text">34</container>
+                        <unitdate>1903 May 7-1906 May 3</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3694" type="Volume" label="Text">35</container>
+                        <unitdate>1906 June 7-1907 April 7</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3693" type="Volume" label="Text">36</container>
+                        <unitdate>1910-1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3692" type="Volume" label="Text">37</container>
+                        <unitdate>1915 December 2-1922 April 6</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3691" type="Volume" label="Text">38</container>
+                        <unitdate normal="1922/1931" type="inclusive">1922-1931</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3690" type="Volume" label="Text">39</container>
+                        <unitdate>1932</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Directors and Loganian Trustees</unittitle>
+                        <container id="cid3689" type="Volume" label="Text">40</container>
+                        <unitdate normal="1924/1926" type="inclusive">1924-1926</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref54" level="series">
+                <did>
+                    <unittitle>Series III. Minutes of the Trustees of the Loganian Library</unittitle>
+                </did>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Volume 1</unittitle>
+                        <container id="cid3688" type="Volume" label="Text">41</container>
+                        <unitdate normal="1792/1870" type="inclusive">1792-1870</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>Volume 2</unittitle>
+                        <container id="cid3687" type="Volume" label="Text">42</container>
+                        <unitdate normal="1870/1936" type="inclusive">1870-1936</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3686" type="Volume" label="Text">43</container>
+                        <unitdate normal="1853/1861" type="inclusive">1853-1861</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3685" type="Volume" label="Text">44</container>
+                        <unitdate>1861 October 3-1876 February 3</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref59" level="series">
+                <did>
+                    <unittitle>Series IV. Minutes of the Committee for Fixing the Value of Lost Books</unittitle>
+                </did>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3684" type="Volume" label="Text">45</container>
+                        <unitdate normal="1785/1848" type="inclusive">1785-1848</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

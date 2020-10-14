@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever minutes
+                    <num>LCP.CAASAMF</num>
+                </titleproper>
+                <titleproper type="filing">Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever minutes</titleproper>
+                <sponsor>The creation of this collection level record was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2012 March 12</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:07-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever minutes</unittitle>
+            <unitid>LCP.CAASAMF</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 volume</extent>
+            </physdesc>
+            <unitdate normal="1793/1794" type="inclusive">1793-1794</unitdate>
+            <abstract id="ref2" label="Abstract">On September 14, 1793, Matthew Clarkson, the mayor of Philadelphia called a meeting that created the Committee to Attend to and Alleviate the Suffering of the Afflicted with the Malignant Fever Prevalent in the City and Its Vicinity. This committee of volunteer citizens took responsibility for the city during the crisis and guided its recovery following the epidemic's end. The collection consists of a volume containing the minutes of this organization and dates from 1793 to 1794.</abstract>
+            <origination label="creator">
+                <corpname source="ingest">Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of one volume containing the minutes of the "Proceedings of the Committee, Appointed on the 14th of September, 1793, by the Citizens of Philadelphia, the Northern Liberties, and the District of Southwark." The collection dates from 1793 to 1794 and includes an appendix. The minutes include a list of Bush Hill patients and records of their convalescence or death.</p>
+        </scopecontent>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Presented by Charles A. Poulson.</p>
+        </acqinfo>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Soon after Dr. Benjamin Rush announced the onset of the yellow fever epidemic in Philadelphia in August of 1793, there was an exodus of Philadelphians. According to Martin S. Pernick, "between 19 August and 15 November, ten to fifteen percent of the estimated 45, 000 Philadelphians perished, while another 20,000, including most government officials, simply fled," (Estes, page 199). Thus, on September 14, 1793, Matthew Clarkson, the mayor of Philadelphia called a meeting to create a committee to take responsibility for the city during the crisis. Described as "an extraordinary citizen's committee to supervise the city's response to the epidemic, ... this committee of volunteers, with Clarkson presiding, stood as virtually the only public authority in Philadelphia at the height of the fever [and] quickly gained a reputation for practicality, efficiency, and quiet heroism," (Estes, page 28).</p>
+            <p>The Committee was comprised of a range of citizens, from the very wealthy and prominent to the average working class, from Philadelphia, the Northern Liberties and Southwark. According to Estes, the Committee met each day from the middle of September to November, and "in the abdication of all other authority, and by virtue of the authority granted it by the town meeting, this group of volunteers assumed by tacit, but universal consent, all governmental functions," (Estes, page 52). Members of the Committee included Andrew Adgate, Samuel Benge, Mathew Carey, Mayor Matthew Clarkson, Henry Deforest, Samuel M. Fox, Stephen Girard, Peter Helm, Joseph Inskeep, Israel Israel, James Kerr, John Letchworth, Caleb Lownes, Thomas Savery, James Sharswood, James Swain, Samuel Wetherill, and Thomas Wister. Mayor Clarkson served as president, Samuel Wetherill served as vice-president, Thomas Wistar served as treasurer, and Caleb Lownes served as secretary. Members of the Committee were not immune to the yellow fever--several stopped attending meetings because their families were ill, they were ill, and on a few occasions, they died of the disease.</p>
+            <p>Stephen Girard and Peter Helm volunteered and were tasked with streamlining work and sanitation at the make-ship hospital, Bush Hill. In addition, the Committee's duties included distributing food, medicine, firewood, and clothes to the sick and poor; distributing information to the newspapers; founding a home for children who were newly orphaned (ninety-three according to J.H. Powell) at the Loganian Library; burying the dead; and cleaning and disinfecting the city. They also handled donations from outside Philadelphia and requested funds to support their efforts. Finally, in the middle of November, "as the disease gradually began to abate, the Committee published notices prescribing measures for cleansing sites of illness and warning those in the country not to return prematurely," (p. 52).</p>
+            <p>In March 1794, the Committee on Malignant Fever was changed to the Committee of Health. As a result of this group of volunteers and "the notion that disease was related to cleanliness, ... [a] commitment to tightening standards grew out of discussions between the Committee on Malignant Fever and the state government during the fall of 1793," (Estes, page 100). Efforts were made to maintain cleaner streets and remove waste, particularly during the hot summer months.</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>Estes, J. Worth and Billy G. Smith, editors. 
+                <emph render="italic">A Melancholy Scene of Devastation: The Public Response the 1793 Philadelphia Yellow Fever Epidemic</emph>. Canton, MA: Science History Publications, 1997.</p>
+            <p>Powell, J.H. 
+                <emph render="italic">Bring Out Your Dead: The Great Plague of Yellow Fever in Philadelphia in 1793</emph>. Philadelphia: University of Pennsylvania Press, 1949.</p>
+        </bioghist>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>Library Company of Philadelphia: Rush family papers, 1748-1876.</p>
+        </relatedmaterial>
+        <prefercite id="ref9">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever minutes, 1793-1794, Library Company of Philadelphia.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="ingest">Committee to Attend to and Alleviate the Sufferings of the Afflicted with the Malignant Fever.</corpname>
+            <subject source="lcsh">Hospitals--United States</subject>
+            <subject source="lcsh">Medical care--United States</subject>
+            <subject source="lcsh">Medicine</subject>
+            <genreform source="aat">Minutes</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <subject source="lcsh">Philadelphia (Pa.)--Politics and government</subject>
+            <subject source="lcsh">Yellow fever</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref10" level="file">
+                <did>
+                    <unittitle>Minutes (includes an appendix)</unittitle>
+                    <container id="cid1004" type="Volume" label="Text">1</container>
+                    <unitdate normal="1793/1794" type="inclusive">1793-1794</unitdate>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

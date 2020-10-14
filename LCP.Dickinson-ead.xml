@@ -1,0 +1,2678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>John Dickinson papers
+                    <num>LCP.Dickinson</num>
+                </titleproper>
+                <titleproper type="filing">Dickinson, John (papers)</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Holly Mengel.</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2010.09.30</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>John Dickinson; Mary Norris Dickinson</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:07-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Dickinson papers</unittitle>
+            <unitid>LCP.Dickinson</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.2 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1753/1808" type="bulk">Bulk, 1753-1808</unitdate>
+            <unitdate normal="1676/1885" type="inclusive">1676-1885</unitdate>
+            <abstract id="ref2" label="Abstract">John Dickinson (1732-1808), a Philadelphia lawyer and politician, was a major figure in colonial Delaware and Pennsylvania governments and during the early national period. He was an active presence and prolific writer during the American Revolution and early Republic from the passage of the Sugar Act (1764) until the Jefferson presidency (1801 to 1809). He also served in the military as colonel, private, and brigadier general. He married Mary Norris in 1770. John Dickinson died in Delaware in 1808. The John Dickinson papers contains incoming and outgoing correspondence; drafts and original manuscript documents from the revolutionary and early national government, Revolutionary War, Delaware and Pennsylvania government; land papers; legal papers; bills and receipts; collected essays, notes and commonplace books; and estate material. The papers provide a clear picture of the way in which colonists envisioned their new country and how these new Americans worked, compromised and adapted in order to achieve their visions. Mary Norris Dickinson is documented in two volumes: one of letters and one of poems.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <extent>13 containers, 5 volumes</extent></physdesc>
+            <origination label="creator">
+                <persname source="ingest">Dickinson, John, 1732-1808</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>John Dickinson was born in Talbot County, Maryland on November 13, 1732 to Samuel Dickinson (1690-1760), whose father had emigrated from England in 1654, and his second wife, Mary Cadwalader Dickinson, who was the daughter of a Philadelphia Quaker merchant. John Dickinson had two brothers, Thomas, who died in infancy, and Philemon. The Dickinson family owned vast amounts of land throughout Maryland and Delaware, which is where the family relocated around 1740. John Dickinson was tutored at home in Kent County, Delaware by William Killen until the age of eighteen, at which time he moved to Philadelphia to read law for the former king's attorney, John Moland. From 1753 to 1756, Dickinson studied law at the Middle Temple in England, where he was admitted to the bar in 1757. Upon his return to the colonies that same year, he moved to Philadelphia to begin practicing law.</p>
+            <p>Dickinson was elected to the Delaware Assembly in 1759 and became speaker in 1760. In 1762, he was elected to the Pennsylvania General Assembly, where he served intermittently until 1776. As the relationship between the colonies and England became tense, the General Assembly chose Dickinson as their delegate at a meeting for the Stamp Act in New York in 1756. He joined John Morton and George Bryan in formulating a declaration of grievances. In 1767/1768, Dickinson published 
+                <emph render="italic">Letters from a Farmer in Pennsylvania to the Inhabitants of the British Colonies</emph>. These letters, which were printed in newspapers throughout the colonies, argued that the Townshend Acts were in direct conflict with the ideals of British liberties. When the letters were published in pamphlet form around the colonies, as well as England, France, Holland, and Ireland, Dickinson became the best known advocate of American rights. In 1786, he also wrote "The Liberty Song," America's first patriotic song.</p>
+            <p>In 1770, John Dickinson married Mary (Polly) Norris (1740-1803), who was the daughter of Isaac Norris II (1701-1766) and Sarah Logan Norris (1715-1744). Isaac Norris was a prominent Quaker and speaker of the General Assembly, and his wife Sarah was the eldest daughter of William Penn's secretary, James Logan (1674-1751). John and Mary Dickinson had two daughters who lived past infancy, Maria (1783-1860) and Sally (1771-1855). Maria Dickinson married Albanus Logan (1783-1854), the son of George Logan and Deborah Norris Logan.</p>
+            <p>John Dickinson was busy in the years leading up to the American Revolution. He was a member of the Stamp Act Congress in 1765 and the First and Second Continental Congresses from 1774 to 1776. He was occupied with publishing treatises on the American cause and penning resolutions and appeals to the King that he hoped would bring an end to the conflict. Because he believed that preparations for war must take place simultaneously with measures for peace, he raised the First Battalion of Associators in Philadelphia, of which he was colonel. Because separation from Britain appeared likely, he wrote the first draft of the Articles of Confederation. When independence was declared, he refused to vote on or sign the Declaration, because he still believed that reconciliation was possible. When the document received support from the majority of the delegates, Dickinson supported their decision by taking up arms and joining his battalion in New Jersey. Because of his dissent from the Declaration, he was not returned to the Pennsylvania Assembly. He resigned his commission in September and returned to the Assembly, where he led the resistance to the new Pennsylvania constitution. In November of 1776, he resigned his seat in protest of it. His next public office was in 1779 as a delegate from Delaware to the Confederation Congress, where he worked on peace negotiations.</p>
+            <p>In addition to being a colonel in the Pennsylvania militia, he also enlisted as a private in the Delaware militia, during which time he served at the Battle of Brandywine. He was given a commission as a brigadier general. Although he did not serve as an officer in the Continental Army, he nevertheless was made an honorary member of the Society of the Cincinnati.</p>
+            <p>Dickinson suffered many hardships during the Revolution. In addition to being harassed by the Pennsylvania revolutionary government and others who questioned his patriotism for not signing the Declaration of Independence, because the British perceived him as the leader of the resistance, Tories attacked his property in Delaware in 1777 and the British destroyed much of his estate in Philadelphia. These setbacks did not affect his political involvement. He served as president of both Delaware (1781-1782) and Pennsylvania (1782-1785), he was unanimously elected president of the Annapolis Convention in 1786 to amend the Articles of Confederation, and he took part in the Constitutional Convention of 1787.</p>
+            <p>John Dickinson returned to Delaware after the federal convention and in 1792 served as president of the Delaware constitutional convention. Into his later years, he continued to write on causes of concern to him, such as American relations with France and education. He lived the remainder of his life in Wilmington, where he died on February 14, 1808.</p>
+            <p>Dickinson was not formally affiliated with any religious group, but he identified most closely with the Religious Society of Friends (Quakers). He is buried in the Wilmington Friends burial ground next to his wife.</p>
+            <p>
+                <emph render="bold">Biographical note written by Jane Calvert, author of 
+                    <emph render="italic">Quaker Constitutionalism and the Political Thought of John Dickinson.</emph></emph></p>
+        </bioghist>
+        <processinfo id="ref4">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref6">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box and folder number], John Dickinson papers, 1676-1885, Library Company of Philadelphia.</p>
+        </prefercite>
+        <relatedmaterial id="ref8">
+            <head>Related Archival Materials note</head>
+            <p>Dickinson College: John Dickinson papers, MC 2001.13.</p>
+            <p>Delaware Public Archives: John Dickinson Letters.</p>
+            <p>John Dickinson Plantation, Delaware Historical and Cultural Affairs: Dickinson Research Files.</p>
+            <p>Historical Society of Pennsylvania: R.R. Logan collection of John Dickinson papers, 1671-1882 (bulk 1670-1800), Collection 383.</p>
+            <p>See also: 
+                <extref ns2:actuate="onLoad" ns2:show="embed" ns2:title="United States Congress Bioguide" ns2:href="http://bioguide.congress.gov/scripts/guidedisplay.pl?index=D000321"> http://bioguide.congress.gov/scripts/guidedisplay.pl?index=D000321</extref>.</p>
+        </relatedmaterial>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Mr. Robert R. Logan, February 1943.</p>
+        </acqinfo>
+        <scopecontent id="ref10">
+            <head>Scope and Contents note</head>
+            <p>This collection documents John Dickinson's roles in politics, business, law, nation building, and the American Revolution. The collection is arranged in two series: "John Dickinson" and "Mary Norris Dickinson," with the bulk of the collection contained within the "John Dickinson" series. This collection was organized into its current arrangement, probably in 1978. Prior to that, the collection was described to an item level in a calendar created by John H. Powell. While the 1978 re-arrangement has resulted in the physical order of the calendar being unusable, the information contained therein is of the utmost value and a pdf version of the calendar is attached to this finding aid.</p>
+            <p>The "John Dickinson" series is divided into eight subseries: "Correspondence," "Revolutionary and Early National government papers," "Revolutionary War documents," "Delaware government documents," "Pennsylvania government documents," "Land and business records," "Collected essays, notes, and commonplace books," and "John Dickinson estate records."</p>
+            <p>The "Correspondence" is divided into incoming and outgoing correspondence, and is arranged chronologically within each type. Correspondents to John Dickinson include various statesmen and Revolutionary leaders, among whom are Matthew Carey, Philadelphia bookseller and publisher; Samuel Chase, a signer of the Declaration of Independence from Maryland; Benjamin Chew; George Churchman, Quaker minister; Francois de Marbois, French politician; Philemon Dickinson, John Dickinson's brother; Elizabeth Graeme Fergusson, litterateur; Benjamin Franklin; Hannah Griffitts, poet and political satirist; Thomas Hartley, officer and Pennsylvania congressman; John Jones, army surgeon; Arthur Lee, American diplomat; Charles Lee, Revolutionary War general; Richard Henry Lee, Virginia statesman; William Lee, American diplomat; George Logan, Philadelphia physician, farmer, legislator and politician; Nathaniel Luff, Delaware officer; Samuel Miller, Presbyterian minister; Alex Nisbet; Charles Nisbet, first president of Dickinson College; Samuel Patterson, Delaware officer; John Pemberton; George Read; Caesar Rodney, Delaware president; Charles Thomson, Philadelphia patriot leader and secretary of the Continental Congress; James Tilton, army surgeon; John Vaughan, John Vining, Delaware politician; Daniel Walker; and James Wilkinson, army officer. There are also one or two letters, each, from Samuel Adams, Robert Morris, Benjamin Rush, and George Washington. These letters discuss issues such as abolition, the militia, the American Revolution, news from London, nation building, national finances, and state and national politics, to name only a few. There are also letters discussing business and land dealing, theology, plans for George Clymer's home, and family and personal matters, most of which date after 1790. Of interest may be Samuel Chase's letters to Dickinson; in particular, one from 1775 in which Chase writes of his reactions to the battles of Lexington and Concord. John Dickinson's letters were sent to Matthew Carey, the Delaware Assembly, Thomas Jenkins, George Logan, Thomas McKean, Samuel Miller, and Samuel Patterson, to name only a few. Of interest are seven folders of letters from John Dickinson to his parents, Samuel and Mary Dickinson, during his education in London at the Middle Temple, dating from 1753 to 1756.</p>
+            <p>Within "Revolutionary and Early National government papers" are materials on the Revolutionary period which address issues such as the Stamp Act Congress, the first Continental Congress, drafts of petitions to the King of England, the Address of Congress to the Inhabitants of Quebec, and Jay's Olive Branch Petition. Also included is the Address to John Dickinson from the Mechanics on June 27, 1774, in which Philadelphia mechanics exercised their political voice and rights within the system. These materials are arranged chronologically and show the efforts made to prevent war with Great Britain. The Early National period papers reveal Dickinson's and others' attempts to create a new nation: these papers address issues such as the National Bank, the Hartford Convention, foreign trade, regulations, the military, national finances, the Constitutional Convention, the Virginia and New Jersey Plans, the establishment of a national capital, and the mutiny in Philadelphia which occurred in 1783. Also included are copies of the Fabius letters which Dickinson wrote in support of the Constitution.</p>
+            <p>"Revolutionary War documents" provide a glimpse into Dickinson's responsibilities as a colonel in the Pennsylvania Militia. Included in this series are furlough recommendations, petitions for furloughs, hospital reports, militia returns and ammunition returns. Of interest in these records are Dickinson's notes on required provisions for soldiers, a reminder to researchers that this new country also had to create a new army. Also included in this series is a folder regarding the Articles of Peace including a letter from John Barclay making Dickinson aware of the proceedings.</p>
+            <p>The "Delaware government documents" document early Delaware politics from 1772 to 1789, including the period of time Dickinson served as President of Delaware. Issues addressed include papers on the Delaware River dispute in 1772; suggestions for reform of the Delaware court system, submitted by Justice William Killen in 1781; militia returns; budget figures; and various bill drafts and notes.</p>
+            <p>Intermittently, from 1764 to 1769, Dickinson served the Pennsylvania government, and papers from this time frame are found within "Pennsylvania government documents." Included are speeches by Dickinson while he served as president of the Supreme Executive Council of Pennsylvania; bills; materials on the Aaron Doane case, a significant case on the legality of the death penalty for outlawry; court martial records; materials on the Wyoming controversy, a long lasting land dispute between Connecticut and Pennsylvania settlers; and miscellaneous Dickinson notes on government affairs. Of particular interest in this series is the information regarding the national debt, taxing, payments to soldiers and information regarding soldiers' land claims. Information comparing exports of Pennsylvania products across several years may be valuable to researchers.</p>
+            <p>"Land and business records" include miscellaneous land and financial papers, legal papers, and bills and receipts. The miscellaneous land and financial papers, arranged chronologically, largely deal with Dickinson's management of his real estate holdings, primarily in Delaware, and include leases, agreements and memoranda regarding house construction, relations with tenants, property sales, farming techniques and production figures. These materials date from 1733 to 1807. The legal papers, also arranged chronologically, date from 1722 to 1785 and include wills of several Dickinson family members and information on Dickinson's law practice. Law practice materials include several cases argued before the High Court of Errors in Pennsylvania. The bills and receipts date from 1755 to 1807 and are arranged chronologically. Bills and receipts are for wine, vinegar and household materials, to name only a few.</p>
+            <p>The "Collected essays, notes and commonplace book" includes materials that may have been created by Dickinson as well as materials that were clearly collected by him. Included are writings in the hand of Isaac Norris; notes on genealogy of the Dickinson, Lloyd and Logan families; a copy of Conrad Weiser's journal; clippings; essays; and a speech on the founding of Dickinson College in 1783. These materials are arranged in chronological order.</p>
+            <p>The "John Dickinson estate records" include a journal and a ledger, both dating from 1808 to 1814, which note the settling of bills and other expenses in regard to the estate of John Dickinson. The final four pages of the ledger are entitled, "Sally Norris Dickinson in account with the estate," and give a chronological summary of the various account entries.</p>
+            <p>The "Mary Norris Dickinson" series contains two volumes, both of which were written before her marriage to John Dickinson, and are indicative of her intellect and creativity. The first volume consists of copies of letters between Hannah Griffitts (1727-1817), Hannah Harrison (1729-1807), and Mary Norris. These three young women were friends as well as relations and were well educated daughters or granddaughters of prominent judges and/or politicians, and involved in the society and pulse of colonial America. Hannah Griffitts was a poet and wrote under the name "Fidelia," Hannah Harrison was a wealthy socialite who married Charles Thomson in 1774 and wrote under the name "Sophronia." Mary Norris Dickinson wrote under the name of "Sophia." Griffitts, Harrison and Norris gave the people and places in their lives code names and used them to describe some seemingly ordinary events in fairy-tale fashion. Other names mentioned in the volume, such as Theophilus and Fellicia, refer to other members of the Norris and Logan families. This volume appears to be a copy of the original, probably made by Sally Norris Dickinson (daughter of Mary Norris Dickinson), and contains a brief introduction about "The Rural Circle or Band of Friendship, in familiar letters between several young ladies, Interspers'd with a variety of valuable characters," which may be the title of the volume. The volume also contains annotations by Sally Norris Dickinson and an endnote by Dickinson which explains the characters and the volume, which was meant as a testament to the girls' friendship. The second volume consists of poems, reflections, vignettes and other prose writings, written and copied by Mary Norris and her sister Sarah. This volume also contains annotations by Sally Norris Dickinson. The two volumes together provide an unusually rich documentation of friendship and literary imagination among a circle of teenage Quakers girls in the mid-eighteenth century.</p>
+            <p>This collection of John and Mary Dickinson materials will prove valuable to any researchers interested in John Dickinson, Mary Norris Dickinson, colonial Delaware and Pennsylvania governments, the American Revolution, nation building, the early national period, military history, land management, legal cases, and political theory and policy. Dickinson's correspondence with many of the most prominent figures in Revolutionary and the early national period provide diverse insights into the creation and development of the United States of America.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="ingest">Chase, Samuel, 1741-1811</persname>
+            <corpname source="ingest">Dickinson College.</corpname>
+            <persname source="ingest">Dickinson, John, 1732-1808</persname>
+            <persname source="ingest">Dickinson, Mary Norris, 1740-1803</persname>
+            <persname source="ingest">Dickinson, Philemon, 1739-1809</persname>
+            <persname source="ingest">Fergusson, Elizabeth Graeme, 1737-1801</persname>
+            <persname source="ingest">Griffitts, Hannah, 1727-1817</persname>
+            <persname source="ingest">Jones, John, 1729-1791</persname>
+            <persname source="ingest">Killen, William, 1722-1805</persname>
+            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+            <persname source="ingest">Lee, Charles, 1731-1782</persname>
+            <persname source="ingest">Lee, Richard Henry, 1732-1794</persname>
+            <persname source="ingest">Lee, William, 1739-1795</persname>
+            <persname source="ingest">Nisbet, Charles, 1736-1804</persname>
+            <corpname source="ingest">Pennsylvania. Courts.</corpname>
+            <corpname source="ingest">Pennsylvania. High Court of Errors and Appeals.</corpname>
+            <corpname source="ingest">Pennsylvania. Militia.</corpname>
+            <corpname source="ingest">Pennsylvania. Provincial Assembly.</corpname>
+            <corpname source="ingest">Pennsylvania. Supreme Executive Council.</corpname>
+            <persname source="ingest">Read, George, 1733-1798</persname>
+            <persname source="ingest">Rodney, Caesar, 1728-1784</persname>
+            <corpname source="ingest">Stamp Act Congress (1765 : New York, N.Y.).</corpname>
+            <persname source="ingest">Thomson, Charles, 1729-1824</persname>
+            <persname source="ingest">Thomson, Hannah</persname>
+            <persname source="ingest">Tilton, James, 1745-1822</persname>
+            <corpname source="ingest">United States. Constitutional Convention (1787).</corpname>
+            <corpname source="ingest">United States. Continental Congress.</corpname>
+            <genreform source="aat">Business records</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Deeds</genreform>
+            <geogname source="lcsh">Delaware</geogname>
+            <subject source="lcsh">Delaware--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">Delaware--Politics and government--1775-1783</subject>
+            <genreform source="aat">Estate records</genreform>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Genealogical tables</genreform>
+            <genreform source="aat">Legal documents</genreform>
+            <genreform source="aat">Manuscripts</genreform>
+            <genreform source="aat">Notes</genreform>
+            <geogname source="lcsh">Pennsylvania</geogname>
+            <subject source="lcsh">Pennsylvania--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">Pennsylvania--Politics and government--1775-1783</subject>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <genreform source="aat">Poems</genreform>
+            <genreform source="aat">Property records</genreform>
+            <subject source="lcsh">Quaker women</subject>
+            <subject source="lcsh">Real property</subject>
+            <genreform source="aat">Receipts (financial records)</genreform>
+            <genreform source="aat">Speeches</genreform>
+            <subject source="lcsh">United States--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">United States--History--Revolution, 1775-1783</subject>
+            <subject source="lcsh">United States--Politics and government</subject>
+            <genreform source="aat">Wills</genreform>
+            <geogname source="lcsh">Wilmington (Del.)</geogname>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Series I. John Dickinson</unittitle>
+                </did>
+                <c id="ref12" level="subseries">
+                    <did>
+                        <unittitle>Subseries I. Correspondence</unittitle>
+                    </did>
+                    <c id="ref13" level="otherlevel">
+                        <did>
+                            <unittitle>A. Incoming</unittitle>
+                        </did>
+                        <c id="ref14" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2722" type="Box" label="Text">1</container>
+                                <container parent="cid2722" type="Folder">1</container>
+                                <unitdate normal="1759/1766" type="inclusive">1759-1766</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref15" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2721" type="Box" label="Text">1</container>
+                                <container parent="cid2721" type="Folder">2</container>
+                                <unitdate normal="1768/1769" type="inclusive">1768-1769</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref16" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2720" type="Box" label="Text">1</container>
+                                <container parent="cid2720" type="Folder">3</container>
+                                <unitdate>1770</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref17" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2719" type="Box" label="Text">1</container>
+                                <container parent="cid2719" type="Folder">4</container>
+                                <unitdate normal="1771/1772" type="inclusive">1771-1772</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref18" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2718" type="Box" label="Text">1</container>
+                                <container parent="cid2718" type="Folder">5</container>
+                                <unitdate>1773 January-1774 April 2</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref19" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2717" type="Box" label="Text">1</container>
+                                <container parent="cid2717" type="Folder">6</container>
+                                <unitdate>1774 July 25-December 14</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref20" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2716" type="Box" label="Text">1</container>
+                                <container parent="cid2716" type="Folder">7</container>
+                                <unitdate>1775 January 7-February 6</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref21" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2715" type="Box" label="Text">1</container>
+                                <container parent="cid2715" type="Folder">8</container>
+                                <unitdate>1775 February 13-March 28</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref22" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2714" type="Box" label="Text">1</container>
+                                <container parent="cid2714" type="Folder">9</container>
+                                <unitdate>1775 April 4-May 9</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref23" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2713" type="Box" label="Text">1</container>
+                                <container parent="cid2713" type="Folder">10</container>
+                                <unitdate>1775 May 22-July 6</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref24" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2712" type="Box" label="Text">1</container>
+                                <container parent="cid2712" type="Folder">11</container>
+                                <unitdate>1775 July 12-September 10</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref25" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2711" type="Box" label="Text">1</container>
+                                <container parent="cid2711" type="Folder">12</container>
+                                <unitdate>1776 January 3-July 3</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref26" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2710" type="Box" label="Text">1</container>
+                                <container parent="cid2710" type="Folder">13</container>
+                                <unitdate>1776 July 4-July 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref27" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2709" type="Box" label="Text">1</container>
+                                <container parent="cid2709" type="Folder">14</container>
+                                <unitdate>1776 July 30-August 1</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref28" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2708" type="Box" label="Text">1</container>
+                                <container parent="cid2708" type="Folder">15</container>
+                                <unitdate>1776 August 3-August 11</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref29" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2707" type="Box" label="Text">1</container>
+                                <container parent="cid2707" type="Folder">16</container>
+                                <unitdate>1776 August 14-1777 June 18</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref30" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2706" type="Box" label="Text">1</container>
+                                <container parent="cid2706" type="Folder">17</container>
+                                <unitdate>1778 March 20-1779 April 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref31" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2705" type="Box" label="Text">1</container>
+                                <container parent="cid2705" type="Folder">18</container>
+                                <unitdate>1779 May 10-October 17</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref32" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2704" type="Box" label="Text">1</container>
+                                <container parent="cid2704" type="Folder">19</container>
+                                <unitdate>1780</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref33" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2703" type="Box" label="Text">1</container>
+                                <container parent="cid2703" type="Folder">20</container>
+                                <unitdate>1781</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref34" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2702" type="Box" label="Text">1</container>
+                                <container parent="cid2702" type="Folder">21</container>
+                                <unitdate>1782 January 4-March 6</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref35" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2701" type="Box" label="Text">1</container>
+                                <container parent="cid2701" type="Folder">22</container>
+                                <unitdate>1782 March 24-June 23</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref36" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2700" type="Box" label="Text">2</container>
+                                <container parent="cid2700" type="Folder">1</container>
+                                <unitdate>1782 August 24-October 8</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref37" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2699" type="Box" label="Text">2</container>
+                                <container parent="cid2699" type="Folder">2</container>
+                                <unitdate>1782 November 5-27</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref38" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2698" type="Box" label="Text">2</container>
+                                <container parent="cid2698" type="Folder">3</container>
+                                <unitdate>1782 December 2-31</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref39" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2697" type="Box" label="Text">2</container>
+                                <container parent="cid2697" type="Folder">4</container>
+                                <unitdate>1783 January 4-April 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref40" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2696" type="Box" label="Text">2</container>
+                                <container parent="cid2696" type="Folder">5</container>
+                                <unitdate>1783 May 16-December 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref41" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2695" type="Box" label="Text">2</container>
+                                <container parent="cid2695" type="Folder">6</container>
+                                <unitdate>1784 February 2-May 8</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref42" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2694" type="Box" label="Text">2</container>
+                                <container parent="cid2694" type="Folder">7</container>
+                                <unitdate>1784 May 24-August 16</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref43" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2693" type="Box" label="Text">2</container>
+                                <container parent="cid2693" type="Folder">8</container>
+                                <unitdate>1784 September 24-December 24</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref44" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2692" type="Box" label="Text">2</container>
+                                <container parent="cid2692" type="Folder">9</container>
+                                <unitdate>1785 January 15-February 15</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref45" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2691" type="Box" label="Text">2</container>
+                                <container parent="cid2691" type="Folder">10</container>
+                                <unitdate>1785 March 2-April 16</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref46" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2690" type="Box" label="Text">2</container>
+                                <container parent="cid2690" type="Folder">11</container>
+                                <unitdate>1785 May 3-July 19</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref47" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2689" type="Box" label="Text">2</container>
+                                <container parent="cid2689" type="Folder">12</container>
+                                <unitdate>1785 August 1-October 25</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref48" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2688" type="Box" label="Text">2</container>
+                                <container parent="cid2688" type="Folder">13</container>
+                                <unitdate>1786 March 10-July 8</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref49" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2687" type="Box" label="Text">2</container>
+                                <container parent="cid2687" type="Folder">14</container>
+                                <unitdate>1786 August 1-October 3</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref50" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2686" type="Box" label="Text">2</container>
+                                <container parent="cid2686" type="Folder">15</container>
+                                <unitdate>1786 October 6-November 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref51" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2685" type="Box" label="Text">2</container>
+                                <container parent="cid2685" type="Folder">16</container>
+                                <unitdate>1787 January 10-December 20</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref52" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2684" type="Box" label="Text">2</container>
+                                <container parent="cid2684" type="Folder">17</container>
+                                <unitdate>1788 January 20-April 7</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref53" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2683" type="Box" label="Text">2</container>
+                                <container parent="cid2683" type="Folder">18</container>
+                                <unitdate>1788 April 9-June 30</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref54" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2682" type="Box" label="Text">2</container>
+                                <container parent="cid2682" type="Folder">19</container>
+                                <unitdate>1788 July 2-October 15</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref55" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2681" type="Box" label="Text">2</container>
+                                <container parent="cid2681" type="Folder">20</container>
+                                <unitdate>1788 November 3-1789 April 28</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref56" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2680" type="Box" label="Text">2</container>
+                                <container parent="cid2680" type="Folder">21</container>
+                                <unitdate>1789 May 11-December 18</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref57" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2679" type="Box" label="Text">3</container>
+                                <container parent="cid2679" type="Folder">1</container>
+                                <unitdate>1790</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref58" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2678" type="Box" label="Text">3</container>
+                                <container parent="cid2678" type="Folder">2</container>
+                                <unitdate>1791</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref59" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2677" type="Box" label="Text">3</container>
+                                <container parent="cid2677" type="Folder">3</container>
+                                <unitdate>1792</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref60" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2676" type="Box" label="Text">3</container>
+                                <container parent="cid2676" type="Folder">4</container>
+                                <unitdate>1793 February 14-April 9</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref61" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2675" type="Box" label="Text">3</container>
+                                <container parent="cid2675" type="Folder">5</container>
+                                <unitdate>1793 May 20-October 14</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref62" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2674" type="Box" label="Text">3</container>
+                                <container parent="cid2674" type="Folder">6</container>
+                                <unitdate>1794 February 13-April 24</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref63" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2673" type="Box" label="Text">3</container>
+                                <container parent="cid2673" type="Folder">7</container>
+                                <unitdate>1794 May 1-July 9</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref64" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2672" type="Box" label="Text">3</container>
+                                <container parent="cid2672" type="Folder">8</container>
+                                <unitdate>1794 August 2-November 9</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref65" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2671" type="Box" label="Text">3</container>
+                                <container parent="cid2671" type="Folder">9</container>
+                                <unitdate>1794 November 12-March 16</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref66" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2670" type="Box" label="Text">3</container>
+                                <container parent="cid2670" type="Folder">10</container>
+                                <unitdate>1795 April 7-May 10</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref67" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2669" type="Box" label="Text">3</container>
+                                <container parent="cid2669" type="Folder">11</container>
+                                <unitdate>1795 May 12-November 27</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref68" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2668" type="Box" label="Text">3</container>
+                                <container parent="cid2668" type="Folder">12</container>
+                                <unitdate>1796 January 4-February 22</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref69" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2667" type="Box" label="Text">3</container>
+                                <container parent="cid2667" type="Folder">13</container>
+                                <unitdate>1796 March 5-December 18</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref70" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2666" type="Box" label="Text">3</container>
+                                <container parent="cid2666" type="Folder">14</container>
+                                <unitdate>1797 January 23-July 11</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref71" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2665" type="Box" label="Text">3</container>
+                                <container parent="cid2665" type="Folder">15</container>
+                                <unitdate>1797 August 4-December 26</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref72" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2664" type="Box" label="Text">3</container>
+                                <container parent="cid2664" type="Folder">16</container>
+                                <unitdate>1798 January 10-March 24</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref73" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2663" type="Box" label="Text">3</container>
+                                <container parent="cid2663" type="Folder">17</container>
+                                <unitdate>1798 April 3-June 3</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref74" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2662" type="Box" label="Text">3</container>
+                                <container parent="cid2662" type="Folder">18</container>
+                                <unitdate>1798 June 11-November 2</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref75" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2661" type="Box" label="Text">3</container>
+                                <container parent="cid2661" type="Folder">19</container>
+                                <unitdate>1799 January 19-April 23</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref76" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2660" type="Box" label="Text">4</container>
+                                <container parent="cid2660" type="Folder">1</container>
+                                <unitdate>1799 May 22-June 8</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref77" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2659" type="Box" label="Text">4</container>
+                                <container parent="cid2659" type="Folder">2</container>
+                                <unitdate>1799 June 14-December 23</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref78" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2658" type="Box" label="Text">4</container>
+                                <container parent="cid2658" type="Folder">3</container>
+                                <unitdate>1800 January 6-March 2</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref79" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2657" type="Box" label="Text">4</container>
+                                <container parent="cid2657" type="Folder">4</container>
+                                <unitdate>1800 March 18-December 20</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref80" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2656" type="Box" label="Text">4</container>
+                                <container parent="cid2656" type="Folder">5</container>
+                                <unitdate>1801 January 13-June 13</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref81" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2655" type="Box" label="Text">4</container>
+                                <container parent="cid2655" type="Folder">6</container>
+                                <unitdate>1801 July 22-1802 February 4</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref82" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2654" type="Box" label="Text">4</container>
+                                <container parent="cid2654" type="Folder">7</container>
+                                <unitdate>1802 February 15-April 13</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref83" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2653" type="Box" label="Text">4</container>
+                                <container parent="cid2653" type="Folder">8</container>
+                                <unitdate>1802 May 17-December 14</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref84" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2652" type="Box" label="Text">4</container>
+                                <container parent="cid2652" type="Folder">9</container>
+                                <unitdate>1803 January 13-March 1</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref85" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2651" type="Box" label="Text">4</container>
+                                <container parent="cid2651" type="Folder">10</container>
+                                <unitdate>1803 April 6-August 15</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref86" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2650" type="Box" label="Text">4</container>
+                                <container parent="cid2650" type="Folder">11</container>
+                                <unitdate>1803 September 2-1804 February 6</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref87" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2649" type="Box" label="Text">4</container>
+                                <container parent="cid2649" type="Folder">12</container>
+                                <unitdate>1804 February 10-April 28</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref88" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2648" type="Box" label="Text">4</container>
+                                <container parent="cid2648" type="Folder">13</container>
+                                <unitdate>1804 April 28-November 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref89" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2647" type="Box" label="Text">4</container>
+                                <container parent="cid2647" type="Folder">14</container>
+                                <unitdate>1805 February 4-May 14</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref90" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2646" type="Box" label="Text">4</container>
+                                <container parent="cid2646" type="Folder">15</container>
+                                <unitdate>1805 June 10-August 14</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref91" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2645" type="Box" label="Text">4</container>
+                                <container parent="cid2645" type="Folder">16</container>
+                                <unitdate>1805 October 7-December 11</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref92" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2644" type="Box" label="Text">4</container>
+                                <container parent="cid2644" type="Folder">17</container>
+                                <unitdate>1806 February 21-May 21</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref93" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2643" type="Box" label="Text">4</container>
+                                <container parent="cid2643" type="Folder">18</container>
+                                <unitdate>1806 June 6-February 17</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref94" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2642" type="Box" label="Text">4</container>
+                                <container parent="cid2642" type="Folder">19</container>
+                                <unitdate>1807 February 18-September 25</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref95" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2641" type="Box" label="Text">4</container>
+                                <container parent="cid2641" type="Folder">20</container>
+                                <unitdate>1807 October-1809 December 18</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref96" level="file">
+                            <did>
+                                <unittitle>Letters to William Livingston from [Joshua] and Isaac Vanderbuck; to Thomas Mifflin from George Ross; and to Caesar Rodney from Nathaniel Greene</unittitle>
+                                <container id="cid2640" type="Box" label="Text">4</container>
+                                <container parent="cid2640" type="Folder">21</container>
+                                <unitdate>1782, undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref97" level="file">
+                            <did>
+                                <unittitle>A-F</unittitle>
+                                <container id="cid2639" type="Box" label="Text">5</container>
+                                <container parent="cid2639" type="Folder">1</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref98" level="file">
+                            <did>
+                                <unittitle>G</unittitle>
+                                <container id="cid2638" type="Box" label="Text">5</container>
+                                <container parent="cid2638" type="Folder">2</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref99" level="file">
+                            <did>
+                                <unittitle>H</unittitle>
+                                <container id="cid2637" type="Box" label="Text">5</container>
+                                <container parent="cid2637" type="Folder">3</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref100" level="file">
+                            <did>
+                                <unittitle>I-K</unittitle>
+                                <container id="cid2636" type="Box" label="Text">5</container>
+                                <container parent="cid2636" type="Folder">4</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref101" level="file">
+                            <did>
+                                <unittitle>L</unittitle>
+                                <container id="cid2635" type="Box" label="Text">5</container>
+                                <container parent="cid2635" type="Folder">5</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref102" level="file">
+                            <did>
+                                <unittitle>M-N</unittitle>
+                                <container id="cid2634" type="Box" label="Text">5</container>
+                                <container parent="cid2634" type="Folder">6</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref103" level="file">
+                            <did>
+                                <unittitle>R</unittitle>
+                                <container id="cid2633" type="Box" label="Text">5</container>
+                                <container parent="cid2633" type="Folder">7</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref104" level="file">
+                            <did>
+                                <unittitle>S-Z and anonymous</unittitle>
+                                <container id="cid2632" type="Box" label="Text">5</container>
+                                <container parent="cid2632" type="Folder">8</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref105" level="file">
+                            <did>
+                                <unittitle>Envelopes and calling cards</unittitle>
+                                <container id="cid2631" type="Box" label="Text">5</container>
+                                <container parent="cid2631" type="Folder">9</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref106" level="file">
+                            <did>
+                                <unittitle>Notes made by Sally Norris Dickinson regarding John Dickinson's incoming correspondence</unittitle>
+                                <container id="cid2630" type="Box" label="Text">5</container>
+                                <container parent="cid2630" type="Folder">10</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="ref107" level="otherlevel">
+                        <did>
+                            <unittitle>B. Outgoing</unittitle>
+                        </did>
+                        <c id="ref108" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2629" type="Box" label="Text">5</container>
+                                <container parent="cid2629" type="Folder">11</container>
+                                <unitdate>1753 December 8-1754 March 8</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref109" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2628" type="Box" label="Text">5</container>
+                                <container parent="cid2628" type="Folder">12</container>
+                                <unitdate>1754 March 29-May 25</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref110" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2627" type="Box" label="Text">5</container>
+                                <container parent="cid2627" type="Folder">13</container>
+                                <unitdate>1754 August 1-October 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref111" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2626" type="Box" label="Text">5</container>
+                                <container parent="cid2626" type="Folder">14</container>
+                                <unitdate>1755 January 21-February 19</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref112" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2625" type="Box" label="Text">5</container>
+                                <container parent="cid2625" type="Folder">15</container>
+                                <unitdate>1755 April 8-September 30</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref113" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2624" type="Box" label="Text">5</container>
+                                <container parent="cid2624" type="Folder">16</container>
+                                <unitdate>1756 January 8-June 6</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref114" level="file">
+                            <did>
+                                <unittitle>Letters to his parents from London, the Middle Temple</unittitle>
+                                <container id="cid2623" type="Box" label="Text">5</container>
+                                <container parent="cid2623" type="Folder">17</container>
+                                <unitdate>1756 June 6-August 7</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref115" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2622" type="Box" label="Text">5</container>
+                                <container parent="cid2622" type="Folder">18</container>
+                                <unitdate normal="1758/1780" type="inclusive">1758-1780</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref116" level="file">
+                            <did>
+                                <unittitle>1781</unittitle>
+                                <container id="cid2621" type="Box" label="Text">5</container>
+                                <container parent="cid2621" type="Folder">19</container>
+                            </did>
+                        </c>
+                        <c id="ref117" level="file">
+                            <did>
+                                <unittitle>1782</unittitle>
+                                <container id="cid2620" type="Box" label="Text">5</container>
+                                <container parent="cid2620" type="Folder">20</container>
+                            </did>
+                        </c>
+                        <c id="ref118" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2619" type="Box" label="Text">5</container>
+                                <container parent="cid2619" type="Folder">21</container>
+                                <unitdate normal="1783/1784" type="inclusive">1783-1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref119" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2618" type="Box" label="Text">5</container>
+                                <container parent="cid2618" type="Folder">22</container>
+                                <unitdate normal="1785/1789" type="inclusive">1785-1789</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref120" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2617" type="Box" label="Text">5</container>
+                                <container parent="cid2617" type="Folder">23</container>
+                                <unitdate normal="1792/1798" type="inclusive">1792-1798</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref121" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2616" type="Box" label="Text">5</container>
+                                <container parent="cid2616" type="Folder">24</container>
+                                <unitdate normal="1800/1802" type="inclusive">1800-1802</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref122" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2615" type="Box" label="Text">5</container>
+                                <container parent="cid2615" type="Folder">25</container>
+                                <unitdate normal="1803/1804" type="inclusive">1803-1804</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref123" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2614" type="Box" label="Text">5</container>
+                                <container parent="cid2614" type="Folder">26</container>
+                                <unitdate normal="1805/1806" type="inclusive">1805-1806</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref124" level="file">
+                            <did>
+                                <unittitle>1807</unittitle>
+                                <container id="cid2613" type="Box" label="Text">5</container>
+                                <container parent="cid2613" type="Folder">27</container>
+                            </did>
+                        </c>
+                        <c id="ref125" level="file">
+                            <did>
+                                <unittitle>A-Z</unittitle>
+                                <container id="cid2612" type="Box" label="Text">5</container>
+                                <container parent="cid2612" type="Folder">28</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c id="ref126" level="subseries">
+                    <did>
+                        <unittitle>Subseries II. Revolutionary and Early National Government papers</unittitle>
+                    </did>
+                    <c id="ref127" level="otherlevel">
+                        <did>
+                            <unittitle>A. Revolutionary period</unittitle>
+                            <unitdate normal="1765/1780" type="inclusive">1765-1780</unitdate>
+                        </did>
+                        <c id="ref128" level="file">
+                            <did>
+                                <unittitle>Papers concerning the Stamp Act Congress</unittitle>
+                                <container id="cid2611" type="Box" label="Text">6</container>
+                                <container parent="cid2611" type="Folder">1</container>
+                                <unitdate>1765</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref129" level="file">
+                            <did>
+                                <unittitle>Thomas Jenning's opinion on Maryland poll tax, extract from Virginia Committee of Correspondence proceedings</unittitle>
+                                <container id="cid2610" type="Box" label="Text">6</container>
+                                <container parent="cid2610" type="Folder">2</container>
+                                <unitdate>1773</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref130" level="file">
+                            <did>
+                                <unittitle>Notes from first Continental Congress, Address of Congress to the Inhabitants of Quebec</unittitle>
+                                <container id="cid2609" type="Box" label="Text">6</container>
+                                <container parent="cid2609" type="Folder">3</container>
+                                <unitdate>1774</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref131" level="file">
+                            <did>
+                                <unittitle>Address to John Dickinson from the Mechanics</unittitle>
+                                <container id="cid2608" type="Box" label="Text">6</container>
+                                <container parent="cid2608" type="Folder">4</container>
+                                <unitdate>1774 June 27</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref132" level="file">
+                            <did>
+                                <unittitle>Draft of Patrick Henry's petition to the King</unittitle>
+                                <container id="cid2607" type="Box" label="Text">6</container>
+                                <container parent="cid2607" type="Folder">5</container>
+                                <unitdate>1774</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref133" level="file">
+                            <did>
+                                <unittitle>Dickinson's draft of first petition to the King</unittitle>
+                                <container id="cid2606" type="Box" label="Text">6</container>
+                                <container parent="cid2606" type="Folder">6</container>
+                                <unitdate>1774</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref134" level="file">
+                            <did>
+                                <unittitle>Jay's draft of the Olive Branch Petition; resolution on a motion by Lord North</unittitle>
+                                <container id="cid2605" type="Box" label="Text">6</container>
+                                <container parent="cid2605" type="Folder">7</container>
+                                <unitdate>1775</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref135" level="file">
+                            <did>
+                                <unittitle>Dickinson's note on Constitutional revisions</unittitle>
+                                <container id="cid2604" type="Box" label="Text">6</container>
+                                <container parent="cid2604" type="Folder">8</container>
+                                <unitdate>1776</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref136" level="file">
+                            <did>
+                                <unittitle>Burke's motions in the House of Commons</unittitle>
+                                <container id="cid2603" type="Box" label="Text">6</container>
+                                <container parent="cid2603" type="Folder">9</container>
+                                <unitdate>1777</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref137" level="file">
+                            <did>
+                                <unittitle>State tax resolution</unittitle>
+                                <container id="cid2602" type="Box" label="Text">6</container>
+                                <container parent="cid2602" type="Folder">10</container>
+                                <unitdate>1779 October 7</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref138" level="file">
+                            <did>
+                                <unittitle>New Jersey protest of Virginia land policies</unittitle>
+                                <container id="cid2601" type="Box" label="Text">6</container>
+                                <container parent="cid2601" type="Folder">11</container>
+                                <unitdate>1780 December 29</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref139" level="file">
+                            <did>
+                                <unittitle>Counterfeit money and description of detection</unittitle>
+                                <container id="cid2600" type="Box" label="Text">6</container>
+                                <container parent="cid2600" type="Folder">12</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref140" level="file">
+                            <did>
+                                <unittitle>East India Tea Company accounts</unittitle>
+                                <container id="cid2599" type="Box" label="Text">6</container>
+                                <container parent="cid2599" type="Folder">13</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="ref141" level="otherlevel">
+                        <did>
+                            <unittitle>B. Early National period</unittitle>
+                            <unitdate normal="1781/1800" type="inclusive">1781-1800</unitdate>
+                        </did>
+                        <c id="ref142" level="file">
+                            <did>
+                                <unittitle>Charter for the National Bank</unittitle>
+                                <container id="cid2598" type="Box" label="Text">6</container>
+                                <container parent="cid2598" type="Folder">14</container>
+                                <unitdate>1781</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref143" level="file">
+                            <did>
+                                <unittitle>Papers relating to the Hartford Convention; early land policies</unittitle>
+                                <container id="cid2597" type="Box" label="Text">6</container>
+                                <container parent="cid2597" type="Folder">15</container>
+                                <unitdate>1781</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref144" level="file">
+                            <did>
+                                <unittitle>Regulations on private armed vessels</unittitle>
+                                <container id="cid2596" type="Box" label="Text">6</container>
+                                <container parent="cid2596" type="Folder">16</container>
+                                <unitdate>1782</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref145" level="file">
+                            <did>
+                                <unittitle>Act of Assembly on General Steuben; proposed amendments on bills of credit and tax payments</unittitle>
+                                <container id="cid2595" type="Box" label="Text">6</container>
+                                <container parent="cid2595" type="Folder">17</container>
+                                <unitdate>1782</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref146" level="file">
+                            <did>
+                                <unittitle>Letter concerning relations with Great Britain</unittitle>
+                                <container id="cid2594" type="Box" label="Text">6</container>
+                                <container parent="cid2594" type="Folder">18</container>
+                                <unitdate>1783 June 24</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref147" level="file">
+                            <did>
+                                <unittitle>On moving Congress from Philadelphia to Annapolis, Maryland (because of the Mutiny of 1783)</unittitle>
+                                <container id="cid2593" type="Box" label="Text">6</container>
+                                <container parent="cid2593" type="Folder">19</container>
+                                <unitdate>1783 August 13</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref148" level="file">
+                            <did>
+                                <unittitle>Extract of a letter from the Count de Vergennes to Chevalier de la Luzerne</unittitle>
+                                <container id="cid2592" type="Box" label="Text">6</container>
+                                <container parent="cid2592" type="Folder">20</container>
+                                <unitdate>1783 February 27</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref149" level="file">
+                            <did>
+                                <unittitle>Dickinson's note on the mutiny in Philadelphia; Indian treaty; and extract of letter with Franklin's advice on foreign relations</unittitle>
+                                <container id="cid2591" type="Box" label="Text">6</container>
+                                <container parent="cid2591" type="Folder">21</container>
+                                <unitdate>1783</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref150" level="file">
+                            <did>
+                                <unittitle>Newspaper clippings on the National Bank and overseas trade</unittitle>
+                                <container id="cid2590" type="Box" label="Text">6</container>
+                                <container parent="cid2590" type="Folder">22</container>
+                                <unitdate>1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref151" level="file">
+                            <did>
+                                <unittitle>Hartley's recommendations on commercial treaty</unittitle>
+                                <container id="cid2589" type="Box" label="Text">6</container>
+                                <container parent="cid2589" type="Folder">23</container>
+                                <unitdate>1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref152" level="file">
+                            <did>
+                                <unittitle>Copies of acts on foreign trade, Western lands, and import duties</unittitle>
+                                <container id="cid2588" type="Box" label="Text">6</container>
+                                <container parent="cid2588" type="Folder">24</container>
+                                <unitdate>1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref153" level="file">
+                            <did>
+                                <unittitle>Ordinance on the Department of Finance</unittitle>
+                                <container id="cid2587" type="Box" label="Text">6</container>
+                                <container parent="cid2587" type="Folder">25</container>
+                                <unitdate>1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref154" level="file">
+                            <did>
+                                <unittitle>Report on Western lands</unittitle>
+                                <container id="cid2586" type="Box" label="Text">6</container>
+                                <container parent="cid2586" type="Folder">26</container>
+                                <unitdate>[1784]</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref155" level="file">
+                            <did>
+                                <unittitle>Dickinson's notes for speeches at the Constitutional Convention</unittitle>
+                                <container id="cid2585" type="Box" label="Text">6</container>
+                                <container parent="cid2585" type="Folder">27</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref156" level="file">
+                            <did>
+                                <unittitle>Dickinson's notes for speeches at the Constitutional Convention</unittitle>
+                                <container id="cid2584" type="Box" label="Text">6</container>
+                                <container parent="cid2584" type="Folder">28</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref157" level="file">
+                            <did>
+                                <unittitle>Dickinson's notes on modification of the Randolph Plan</unittitle>
+                                <container id="cid2583" type="Box" label="Text">6</container>
+                                <container parent="cid2583" type="Folder">29</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref158" level="file">
+                            <did>
+                                <unittitle>Virginia Plan papers</unittitle>
+                                <container id="cid2582" type="Box" label="Text">6</container>
+                                <container parent="cid2582" type="Folder">30</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref159" level="file">
+                            <did>
+                                <unittitle>Notes on the New Jersey Plan, Constitutional Convention</unittitle>
+                                <container id="cid2581" type="Box" label="Text">6</container>
+                                <container parent="cid2581" type="Folder">31</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref160" level="file">
+                            <did>
+                                <unittitle>New Jersey Plan papers</unittitle>
+                                <container id="cid2580" type="Box" label="Text">6</container>
+                                <container parent="cid2580" type="Folder">32</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref161" level="file">
+                            <did>
+                                <unittitle>Barclay's recommendations</unittitle>
+                                <container id="cid2579" type="Box" label="Text">6</container>
+                                <container parent="cid2579" type="Folder">33</container>
+                                <unitdate>1787</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref162" level="file">
+                            <did>
+                                <unittitle>Dickinson opinion on states' rights to dissent</unittitle>
+                                <container id="cid2578" type="Box" label="Text">6</container>
+                                <container parent="cid2578" type="Folder">34</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref163" level="file">
+                            <did>
+                                <unittitle>On the establishment of the capital at Washington, real estate and stamp taxes</unittitle>
+                                <container id="cid2577" type="Box" label="Text">6</container>
+                                <container parent="cid2577" type="Folder">35</container>
+                                <unitdate normal="1798/1800" type="inclusive">1798-1800</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref164" level="file">
+                            <did>
+                                <unittitle>Copies of Fabius letters supporting the Constitution</unittitle>
+                                <container id="cid2576" type="Box" label="Text">6</container>
+                                <container parent="cid2576" type="Folder">36</container>
+                                <unitdate>1788</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref165" level="file">
+                            <did>
+                                <unittitle>Dickinson draft of a speech on the Jay Treaty</unittitle>
+                                <container id="cid2575" type="Box" label="Text">6</container>
+                                <container parent="cid2575" type="Folder">37</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref166" level="file">
+                            <did>
+                                <unittitle>Statement on the encouragement of American manufactures [by J.M.]</unittitle>
+                                <container id="cid2574" type="Box" label="Text">6</container>
+                                <container parent="cid2574" type="Folder">38</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref167" level="file">
+                            <did>
+                                <unittitle>Financial notes</unittitle>
+                                <container id="cid2573" type="Box" label="Text">6</container>
+                                <container parent="cid2573" type="Folder">39</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref168" level="file">
+                            <did>
+                                <unittitle>Draft on an act on supply commissions</unittitle>
+                                <container id="cid2572" type="Box" label="Text">6</container>
+                                <container parent="cid2572" type="Folder">40</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref169" level="file">
+                            <did>
+                                <unittitle>Dickinson's notes on the establishment of the national capital</unittitle>
+                                <container id="cid2571" type="Box" label="Text">6</container>
+                                <container parent="cid2571" type="Folder">41</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref170" level="file">
+                            <did>
+                                <unittitle>Dickinson's manuscript on a plan of government to replace the Articles of Confederation</unittitle>
+                                <container id="cid2570" type="Box" label="Text">6</container>
+                                <container parent="cid2570" type="Folder">42</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref171" level="file">
+                            <did>
+                                <unittitle>Dickinson's notes on government affairs</unittitle>
+                                <container id="cid2569" type="Box" label="Text">6</container>
+                                <container parent="cid2569" type="Folder">43</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref172" level="file">
+                            <did>
+                                <unittitle>Blank letters of marque</unittitle>
+                                <container id="cid2568" type="Box" label="Text">6</container>
+                                <container parent="cid2568" type="Folder">44</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c id="ref173" level="subseries">
+                    <did>
+                        <unittitle>Subseries III. Revolutionary War documents</unittitle>
+                    </did>
+                    <c id="ref174" level="file">
+                        <did>
+                            <unittitle>Furlough recommendations</unittitle>
+                            <container id="cid2567" type="Box" label="Text">7</container>
+                            <container parent="cid2567" type="Folder">1-3</container>
+                            <unitdate>1776 Summer</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref175" level="file">
+                        <did>
+                            <unittitle>Petition for furlough</unittitle>
+                            <container id="cid2566" type="Box" label="Text">7</container>
+                            <container parent="cid2566" type="Folder">4</container>
+                            <unitdate>1776 Summer</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref176" level="file">
+                        <did>
+                            <unittitle>Hospital reports</unittitle>
+                            <container id="cid2565" type="Box" label="Text">7</container>
+                            <container parent="cid2565" type="Folder">5</container>
+                            <unitdate>1776 Summer</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref177" level="file">
+                        <did>
+                            <unittitle>Soldiers' provisions, ammunition account</unittitle>
+                            <container id="cid2564" type="Box" label="Text">7</container>
+                            <container parent="cid2564" type="Folder">6</container>
+                            <unitdate>1776 July, August</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref178" level="file">
+                        <did>
+                            <unittitle>Dickinson's notes on military movements; general orders, and memorandum on Longchamps case</unittitle>
+                            <container id="cid2563" type="Box" label="Text">7</container>
+                            <container parent="cid2563" type="Folder">7</container>
+                            <unitdate>1776 July-August, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref179" level="file">
+                        <did>
+                            <unittitle>Militia returns and Lancaster militia ammunition returns</unittitle>
+                            <container id="cid2562" type="Box" label="Text">7</container>
+                            <container parent="cid2562" type="Folder">8</container>
+                            <unitdate>1776 August 9-10</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref180" level="file">
+                        <did>
+                            <unittitle>Order for supplies and certificate of loyalty for Samuel Wharton, signed by Benjamin Franklin</unittitle>
+                            <container id="cid2561" type="Box" label="Text">7</container>
+                            <container parent="cid2561" type="Folder">9</container>
+                            <unitdate>1779, 1780</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref181" level="file">
+                        <did>
+                            <unittitle>Report on galley construction</unittitle>
+                            <container id="cid2560" type="Box" label="Text">7</container>
+                            <container parent="cid2560" type="Folder">10</container>
+                            <unitdate>1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref182" level="file">
+                        <did>
+                            <unittitle>Articles of Peace</unittitle>
+                            <container id="cid2559" type="Box" label="Text">7</container>
+                            <container parent="cid2559" type="Folder">11</container>
+                            <unitdate>1783</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref183" level="file">
+                        <did>
+                            <unittitle>Instructions on battle tactics</unittitle>
+                            <container id="cid2558" type="Box" label="Text">7</container>
+                            <container parent="cid2558" type="Folder">12</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref184" level="subseries">
+                    <did>
+                        <unittitle>Subseries IV. Delaware government documents</unittitle>
+                    </did>
+                    <c id="ref185" level="file">
+                        <did>
+                            <unittitle>Delaware River land dispute</unittitle>
+                            <container id="cid2557" type="Box" label="Text">7</container>
+                            <container parent="cid2557" type="Folder">13</container>
+                            <unitdate>1772</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref186" level="file">
+                        <did>
+                            <unittitle>William Killen resignation from the Supreme Court</unittitle>
+                            <container id="cid2556" type="Box" label="Text">7</container>
+                            <container parent="cid2556" type="Folder">14</container>
+                            <unitdate>1781</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref187" level="file">
+                        <did>
+                            <unittitle>Bill on a state tax and bills of credit</unittitle>
+                            <container id="cid2555" type="Box" label="Text">7</container>
+                            <container parent="cid2555" type="Folder">15</container>
+                            <unitdate>1781</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref188" level="file">
+                        <did>
+                            <unittitle>Suggestions for reform of the Delaware court system, submitted by William Killen</unittitle>
+                            <container id="cid2554" type="Box" label="Text">7</container>
+                            <container parent="cid2554" type="Folder">16</container>
+                            <unitdate>1781</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref189" level="file">
+                        <did>
+                            <unittitle>Bill to recruit a regiment in Delaware</unittitle>
+                            <container id="cid2553" type="Box" label="Text">7</container>
+                            <container parent="cid2553" type="Folder">17</container>
+                            <unitdate>1781</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref190" level="file">
+                        <did>
+                            <unittitle>Letters of congratulation regarding [presidency] and Dickinson's response to the Assembly</unittitle>
+                            <container id="cid2552" type="Box" label="Text">7</container>
+                            <container parent="cid2552" type="Folder">18</container>
+                            <unitdate normal="1781/1782" type="inclusive">1781-1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref191" level="file">
+                        <did>
+                            <unittitle>"An Account of the Rejoicings on the Birth of the Dauphin at Dover, June 22, 1782," describing the procession and triumphal arch</unittitle>
+                            <container id="cid2551" type="Box" label="Text">7</container>
+                            <container parent="cid2551" type="Folder">19</container>
+                            <unitdate>1782 June 19-22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref192" level="file">
+                        <did>
+                            <unittitle>Militia returns</unittitle>
+                            <container id="cid2550" type="Box" label="Text">7</container>
+                            <container parent="cid2550" type="Folder">20</container>
+                            <unitdate>1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref193" level="file">
+                        <did>
+                            <unittitle>John Lyle case</unittitle>
+                            <container id="cid2549" type="Box" label="Text">7</container>
+                            <container parent="cid2549" type="Folder">21</container>
+                            <unitdate>1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref194" level="file">
+                        <did>
+                            <unittitle>Memo regarding Navy finances and Congé for M. Hamilton</unittitle>
+                            <container id="cid2548" type="Box" label="Text">7</container>
+                            <container parent="cid2548" type="Folder">22</container>
+                            <unitdate>1782 August, October</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref195" level="file">
+                        <did>
+                            <unittitle>Paymaster and recruiting accounts</unittitle>
+                            <container id="cid2547" type="Box" label="Text">7</container>
+                            <container parent="cid2547" type="Folder">23</container>
+                            <unitdate>1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref196" level="file">
+                        <did>
+                            <unittitle>Dickinson's appointment to the Court of Appeals</unittitle>
+                            <container id="cid2546" type="Box" label="Text">7</container>
+                            <container parent="cid2546" type="Folder">24</container>
+                            <unitdate>1788 September 18</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref197" level="file">
+                        <did>
+                            <unittitle>Statement on William Killen, Supreme Court Justice</unittitle>
+                            <container id="cid2545" type="Box" label="Text">7</container>
+                            <container parent="cid2545" type="Folder">25</container>
+                            <unitdate>1789</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref198" level="file">
+                        <did>
+                            <unittitle>Budget figures</unittitle>
+                            <container id="cid2544" type="Box" label="Text">7</container>
+                            <container parent="cid2544" type="Folder">26</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref199" level="subseries">
+                    <did>
+                        <unittitle>Subseries V. Pennsylvania government documents</unittitle>
+                    </did>
+                    <c id="ref200" level="file">
+                        <did>
+                            <unittitle>Dickinson's speeches</unittitle>
+                            <container id="cid2543" type="Box" label="Text">8</container>
+                            <container parent="cid2543" type="Folder">1</container>
+                            <unitdate>[1760s]</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref201" level="file">
+                        <did>
+                            <unittitle>Dickinson's manuscript for "Protest in the Assembly against the clause for making paper bills of credit a legal tender in payment of all contracts"</unittitle>
+                            <container id="cid2542" type="Box" label="Text">8</container>
+                            <container parent="cid2542" type="Folder">2</container>
+                            <unitdate>1764 March</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref202" level="file">
+                        <did>
+                            <unittitle>Pennsylvania State Convention resolutions, military</unittitle>
+                            <container id="cid2541" type="Box" label="Text">8</container>
+                            <container parent="cid2541" type="Folder">3</container>
+                            <unitdate>1776 August 10</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref203" level="file">
+                        <did>
+                            <unittitle>Petition to the King regarding tea duty, and John Morris's appointment</unittitle>
+                            <container id="cid2540" type="Box" label="Text">8</container>
+                            <container parent="cid2540" type="Folder">4</container>
+                            <unitdate>1771 February 12, 1771 March 22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref204" level="file">
+                        <did>
+                            <unittitle>Materials regarding the Elizabeth Graeme Fergusson case</unittitle>
+                            <container id="cid2539" type="Box" label="Text">8</container>
+                            <container parent="cid2539" type="Folder">5</container>
+                            <unitdate>1778-1779</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref205" level="file">
+                        <did>
+                            <unittitle>Accounts of the class tax, land office and militia fines and opinion on enforcement of prisoners of war act</unittitle>
+                            <container id="cid2538" type="Box" label="Text">8</container>
+                            <container parent="cid2538" type="Folder">6</container>
+                            <unitdate>1782</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref206" level="file">
+                        <did>
+                            <unittitle>Letters regarding the financing of the Pennsylvania regiments</unittitle>
+                            <container id="cid2537" type="Box" label="Text">8</container>
+                            <container parent="cid2537" type="Folder">7</container>
+                            <unitdate>1783 January 4, 8</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref207" level="file">
+                        <did>
+                            <unittitle>Court fines</unittitle>
+                            <container id="cid2536" type="Box" label="Text">8</container>
+                            <container parent="cid2536" type="Folder">8</container>
+                            <unitdate>1783 January 4, 8</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref208" level="file">
+                        <did>
+                            <unittitle>Soldiers' land claims</unittitle>
+                            <container id="cid2535" type="Box" label="Text">8</container>
+                            <container parent="cid2535" type="Folder">9</container>
+                            <unitdate>1783 February 16</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref209" level="file">
+                        <did>
+                            <unittitle>Expenses of Robert Ralston and debtors' petition</unittitle>
+                            <container id="cid2534" type="Box" label="Text">8</container>
+                            <container parent="cid2534" type="Folder">10</container>
+                            <unitdate>1783 April 1, 1783 August 21</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref210" level="file">
+                        <did>
+                            <unittitle>Indian Treaty</unittitle>
+                            <container id="cid2533" type="Box" label="Text">8</container>
+                            <container parent="cid2533" type="Folder">11</container>
+                            <unitdate>1783 October 4</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref211" level="file">
+                        <did>
+                            <unittitle>A list of debts due by the State of Pennsylvania and an estimate of the expenses for the year 1783</unittitle>
+                            <container id="cid2532" type="Box" label="Text">8</container>
+                            <container parent="cid2532" type="Folder">12</container>
+                            <unitdate>1782 December 2</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref212" level="file">
+                        <did>
+                            <unittitle>Letters of congratulation regarding Dickinson's election to the Presidency of Pennsylvania, including responses</unittitle>
+                            <container id="cid2531" type="Box" label="Text">8</container>
+                            <container parent="cid2531" type="Folder">13</container>
+                            <unitdate>1783</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref213" level="file">
+                        <did>
+                            <unittitle>Celebration of the peace</unittitle>
+                            <container id="cid2530" type="Box" label="Text">8</container>
+                            <container parent="cid2530" type="Folder">14</container>
+                            <unitdate>1784 January 20</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref214" level="file">
+                        <did>
+                            <unittitle>Proposal for and correspondence regarding a Bank of Pennsylvania</unittitle>
+                            <container id="cid2529" type="Box" label="Text">8</container>
+                            <container parent="cid2529" type="Folder">15</container>
+                            <unitdate>1784 January-February</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref215" level="file">
+                        <did>
+                            <unittitle>Council notes</unittitle>
+                            <container id="cid2528" type="Box" label="Text">8</container>
+                            <container parent="cid2528" type="Folder">16</container>
+                            <unitdate>1784 March 22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref216" level="file">
+                        <did>
+                            <unittitle>Dickinson's draft of "Answer to the Council of Censors"</unittitle>
+                            <container id="cid2527" type="Box" label="Text">8</container>
+                            <container parent="cid2527" type="Folder">17</container>
+                            <unitdate>circa 1784 [July]</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref217" level="file">
+                        <did>
+                            <unittitle>Dickinson's speeches</unittitle>
+                            <container id="cid2526" type="Box" label="Text">8</container>
+                            <container parent="cid2526" type="Folder">18</container>
+                            <unitdate>1784 July 21, 1784 August 5</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref218" level="file">
+                        <did>
+                            <unittitle>Assembly bill on damaged goods and admiralty jurisdiction</unittitle>
+                            <container id="cid2525" type="Box" label="Text">8</container>
+                            <container parent="cid2525" type="Folder">19</container>
+                            <unitdate>1784 August</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref219" level="file">
+                        <did>
+                            <unittitle>Pennsylvania state financial statement and Indian Treaty</unittitle>
+                            <container id="cid2524" type="Box" label="Text">8</container>
+                            <container parent="cid2524" type="Folder">20</container>
+                            <unitdate>1784, 1784 October 22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref220" level="file">
+                        <did>
+                            <unittitle>Memo regarding Captain Stokely and Pennsylvania debt and revenue statements</unittitle>
+                            <container id="cid2523" type="Box" label="Text">8</container>
+                            <container parent="cid2523" type="Folder">21</container>
+                            <unitdate>1784</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref221" level="file">
+                        <did>
+                            <unittitle>Dickinson's message to the General Assembly regarding public lands</unittitle>
+                            <container id="cid2522" type="Box" label="Text">8</container>
+                            <container parent="cid2522" type="Folder">22</container>
+                            <unitdate>1784 December 4</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref222" level="file">
+                        <did>
+                            <unittitle>Dickinson's speech to the General Assembly</unittitle>
+                            <container id="cid2521" type="Box" label="Text">8</container>
+                            <container parent="cid2521" type="Folder">23</container>
+                            <unitdate>1784 December 15</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref223" level="file">
+                        <did>
+                            <unittitle>Tax accounts and salaries of Supreme Court justices</unittitle>
+                            <container id="cid2520" type="Box" label="Text">8</container>
+                            <container parent="cid2520" type="Folder">24</container>
+                            <unitdate>1784 December</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref224" level="file">
+                        <did>
+                            <unittitle>Dickinson's message on Pennsylvania's fiscal plan</unittitle>
+                            <container id="cid2519" type="Box" label="Text">8</container>
+                            <container parent="cid2519" type="Folder">25</container>
+                            <unitdate>1784</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref225" level="file">
+                        <did>
+                            <unittitle>Materials regarding the Aaron Doane case</unittitle>
+                            <container id="cid2518" type="Box" label="Text">8</container>
+                            <container parent="cid2518" type="Folder">26</container>
+                            <unitdate>1784 November-1785 January</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref226" level="file">
+                        <did>
+                            <unittitle>Dickinson's message to the General Assembly</unittitle>
+                            <container id="cid2517" type="Box" label="Text">8</container>
+                            <container parent="cid2517" type="Folder">27</container>
+                            <unitdate>1785 February 1</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref227" level="file">
+                        <did>
+                            <unittitle>Payment of soldiers</unittitle>
+                            <container id="cid2516" type="Box" label="Text">8</container>
+                            <container parent="cid2516" type="Folder">28</container>
+                            <unitdate>1785 February 22</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref228" level="file">
+                        <did>
+                            <unittitle>Materials regarding Major James Evans' court martial</unittitle>
+                            <container id="cid2515" type="Box" label="Text">8</container>
+                            <container parent="cid2515" type="Folder">29</container>
+                            <unitdate>1875 March 24</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref229" level="file">
+                        <did>
+                            <unittitle>Materials regarding Captain Joseph Hoover's court martial</unittitle>
+                            <container id="cid2514" type="Box" label="Text">8</container>
+                            <container parent="cid2514" type="Folder">30</container>
+                            <unitdate>1785 April 6</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref230" level="file">
+                        <did>
+                            <unittitle>Dickinson's messages and notes regarding Indian affairs, prison conditions, loan repayment, etc.</unittitle>
+                            <container id="cid2513" type="Box" label="Text">8</container>
+                            <container parent="cid2513" type="Folder">31</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref231" level="file">
+                        <did>
+                            <unittitle>Essay on continental and state securities, a debtors' petition, and a motion on committee of safety</unittitle>
+                            <container id="cid2512" type="Box" label="Text">8</container>
+                            <container parent="cid2512" type="Folder">32</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref232" level="file">
+                        <did>
+                            <unittitle>Papers regarding the military</unittitle>
+                            <container id="cid2511" type="Box" label="Text">8</container>
+                            <container parent="cid2511" type="Folder">33</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref233" level="file">
+                        <did>
+                            <unittitle>Indian treaty, land office records, and proposal for education of poor children</unittitle>
+                            <container id="cid2510" type="Box" label="Text">8</container>
+                            <container parent="cid2510" type="Folder">34</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref234" level="file">
+                        <did>
+                            <unittitle>Tax and population accounts</unittitle>
+                            <container id="cid2509" type="Box" label="Text">8</container>
+                            <container parent="cid2509" type="Folder">35</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref235" level="file">
+                        <did>
+                            <unittitle>Exports values compared</unittitle>
+                            <container id="cid2508" type="Box" label="Text">8</container>
+                            <container parent="cid2508" type="Folder">36</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref236" level="file">
+                        <did>
+                            <unittitle>Production figures</unittitle>
+                            <container id="cid2507" type="Box" label="Text">8</container>
+                            <container parent="cid2507" type="Folder">37</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref237" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding the Wyoming controversy</unittitle>
+                            <container id="cid2506" type="Box" label="Text">8</container>
+                            <container parent="cid2506" type="Folder">38</container>
+                            <unitdate normal="1782/1783" type="inclusive">1782-1783</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref238" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding the Wyoming controversy</unittitle>
+                            <container id="cid2505" type="Box" label="Text">8</container>
+                            <container parent="cid2505" type="Folder">39</container>
+                            <unitdate>1784, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref239" level="file">
+                        <did>
+                            <unittitle>Papers regarding the Wyoming controversy</unittitle>
+                            <container id="cid2504" type="Box" label="Text">8</container>
+                            <container parent="cid2504" type="Folder">40</container>
+                            <unitdate normal="1782/1784" type="inclusive">1782-1784</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref240" level="subseries">
+                    <did>
+                        <unittitle>Subseries VI. Land and business records</unittitle>
+                    </did>
+                    <c id="ref241" level="otherlevel">
+                        <did>
+                            <unittitle>A. Miscellaneous land and financial papers</unittitle>
+                        </did>
+                        <c id="ref242" level="file">
+                            <did>
+                                <unittitle>Papers concerning the Dickinson property at Poplar Ridge</unittitle>
+                                <container id="cid2503" type="Box" label="Text">9</container>
+                                <container parent="cid2503" type="Folder">1</container>
+                                <unitdate normal="1733/1801" type="inclusive">1733-1801</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref243" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2502" type="Box" label="Text">9</container>
+                                <container parent="cid2502" type="Folder">2</container>
+                                <unitdate normal="1763/1774" type="inclusive">1763-1774</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref244" level="file">
+                            <did>
+                                <unittitle>Indenture, John and Mary Dickinson one party, and Philemon Dickinson, the other</unittitle>
+                                <container id="cid2501" type="Volume" label="Text">1</container>
+                                <unitdate>1774</unitdate>
+                                <physdesc id="ref245" label="General Physical Description note">
+                                    <extent> [oversized]</extent></physdesc>
+                            </did>
+                        </c>
+                        <c id="ref246" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2500" type="Box" label="Text">9</container>
+                                <container parent="cid2500" type="Folder">3</container>
+                                <unitdate normal="1777/1778" type="inclusive">1777-1778</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref247" level="file">
+                            <did>
+                                <unittitle>Receipt and account book</unittitle>
+                                <container id="cid2499" type="Box" label="Text">9</container>
+                                <container parent="cid2499" type="Folder">4</container>
+                                <unitdate normal="1777/1807" type="inclusive">1777-1807</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref248" level="file">
+                            <did>
+                                <unittitle>Notebooks on land business and rentals</unittitle>
+                                <container id="cid2498" type="Box" label="Text">9</container>
+                                <container parent="cid2498" type="Folder">5</container>
+                                <unitdate normal="1779/1795" type="inclusive">1779-1795</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref249" level="file">
+                            <did>
+                                <unittitle>Articles of agreement</unittitle>
+                                <container id="cid2497" type="Box" label="Text">9</container>
+                                <container parent="cid2497" type="Folder">6</container>
+                                <unitdate normal="1780/1785" type="inclusive">1780-1785</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref250" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2496" type="Box" label="Text">9</container>
+                                <container parent="cid2496" type="Folder">7</container>
+                                <unitdate normal="1786/1792" type="inclusive">1786-1792</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref251" level="file">
+                            <did>
+                                <unittitle>Newspaper clippings on agricultural and building topics</unittitle>
+                                <container id="cid2495" type="Box" label="Text">9</container>
+                                <container parent="cid2495" type="Folder">8</container>
+                                <unitdate normal="1787/1804" type="inclusive">1787-1804</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref252" level="file">
+                            <did>
+                                <unittitle>Construction agreements and estimates</unittitle>
+                                <container id="cid2494" type="Box" label="Text">9</container>
+                                <container parent="cid2494" type="Folder">9</container>
+                                <unitdate>1793</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref253" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2493" type="Box" label="Text">9</container>
+                                <container parent="cid2493" type="Folder">10</container>
+                                <unitdate>1794</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref254" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2492" type="Box" label="Text">9</container>
+                                <container parent="cid2492" type="Folder">11</container>
+                                <unitdate>1795</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref255" level="file">
+                            <did>
+                                <unittitle>Delaware rent roll</unittitle>
+                                <container id="cid2491" type="Box" label="Text">9</container>
+                                <container parent="cid2491" type="Folder">12</container>
+                                <unitdate>1796</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref256" level="file">
+                            <did>
+                                <unittitle>"Exemplification patent"</unittitle>
+                                <container id="cid2490" type="Box" label="Text">9</container>
+                                <container parent="cid2490" type="Folder">13</container>
+                                <unitdate>1796</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref257" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2489" type="Box" label="Text">9</container>
+                                <container parent="cid2489" type="Folder">14</container>
+                                <unitdate>1797</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref258" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2488" type="Box" label="Text">9</container>
+                                <container parent="cid2488" type="Folder">15</container>
+                                <unitdate>1798</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref259" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2487" type="Box" label="Text">9</container>
+                                <container parent="cid2487" type="Folder">16</container>
+                                <unitdate>1799 January-May</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref260" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2486" type="Box" label="Text">9</container>
+                                <container parent="cid2486" type="Folder">17</container>
+                                <unitdate>1799 June-December</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref261" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2485" type="Box" label="Text">9</container>
+                                <container parent="cid2485" type="Folder">18</container>
+                                <unitdate>1800</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref262" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2484" type="Box" label="Text">10</container>
+                                <container parent="cid2484" type="Folder">1</container>
+                                <unitdate>1801</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref263" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2483" type="Box" label="Text">10</container>
+                                <container parent="cid2483" type="Folder">2</container>
+                                <unitdate normal="1802/1803" type="inclusive">1802-1803</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref264" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2482" type="Box" label="Text">10</container>
+                                <container parent="cid2482" type="Folder">3</container>
+                                <unitdate normal="1804/1805" type="inclusive">1804-1805</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref265" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2481" type="Box" label="Text">10</container>
+                                <container parent="cid2481" type="Folder">4</container>
+                                <unitdate normal="1806/1807" type="inclusive">1806-1807</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref266" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2480" type="Box" label="Text">10</container>
+                                <container parent="cid2480" type="Folder">5</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref267" level="file">
+                            <did>
+                                <unittitle>Memoranda on construction work</unittitle>
+                                <container id="cid2479" type="Box" label="Text">10</container>
+                                <container parent="cid2479" type="Folder">6</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref268" level="file">
+                            <did>
+                                <unittitle>Newcastle County, Delaware, deed</unittitle>
+                                <container id="cid2478" type="Box" label="Text">10</container>
+                                <container parent="cid2478" type="Folder">7</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref269" level="file">
+                            <did>
+                                <unittitle>A Draught of a Parcel of Land (Jones Neck), purchased by Joshua Gordon by Philemon Dickinson</unittitle>
+                                <container id="cid2477" type="Box" label="Text">13</container>
+                                <container parent="cid2477" type="Folder">1</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc id="ref270" label="General Physical Description note">
+                                    <extent> [oversized]</extent></physdesc>
+                            </did>
+                        </c>
+                        <c id="ref271" level="file">
+                            <did>
+                                <unittitle>An Old Draught of Land in Kent</unittitle>
+                                <container id="cid2476" type="Box" label="Text">13</container>
+                                <container parent="cid2476" type="Folder">2</container>
+                                <unitdate>undated</unitdate>
+                                <physdesc id="ref272" label="General Physical Description note">
+                                    <extent>[oversized]</extent></physdesc>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="ref273" level="otherlevel">
+                        <did>
+                            <unittitle>B. Legal papers</unittitle>
+                        </did>
+                        <c id="ref274" level="file">
+                            <did>
+                                <unittitle>Wills of Dickinson family members</unittitle>
+                                <container id="cid2475" type="Box" label="Text">10</container>
+                                <container parent="cid2475" type="Folder">8</container>
+                                <unitdate>1722, 1730</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref275" level="file">
+                            <did>
+                                <unittitle>Will of John Dickinson's (notes and drafts), with codicils</unittitle>
+                                <container id="cid2474" type="Box" label="Text">10</container>
+                                <container parent="cid2474" type="Folder">9</container>
+                                <unitdate normal="1780/1803" type="inclusive">1780-1803</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref276" level="file">
+                            <did>
+                                <unittitle>Will of Albanus Logan</unittitle>
+                                <container id="cid2473" type="Box" label="Text">10</container>
+                                <container parent="cid2473" type="Folder">10</container>
+                                <unitdate>1854</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref277" level="file">
+                            <did>
+                                <unittitle>Certificate of admission to the Middle Temple</unittitle>
+                                <container id="cid2472" type="Box" label="Text">10</container>
+                                <container parent="cid2472" type="Folder">11</container>
+                                <unitdate>1757</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref278" level="file">
+                            <did>
+                                <unittitle>Dickinson's opinions on the state of the laws in America</unittitle>
+                                <container id="cid2471" type="Box" label="Text">10</container>
+                                <container parent="cid2471" type="Folder">12</container>
+                                <unitdate>[1773]</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref279" level="file">
+                            <did>
+                                <unittitle>Dickinson's management of the Thomas Wilson estate</unittitle>
+                                <container id="cid2470" type="Box" label="Text">10</container>
+                                <container parent="cid2470" type="Folder">13</container>
+                                <unitdate normal="1774/1776" type="inclusive">1774-1776</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref280" level="file">
+                            <did>
+                                <unittitle>Case of the armed sloop 
+                                    <emph render="italic">Argo</emph>, before the High Court of Errors, Pennsylvania</unittitle>
+                                <container id="cid2469" type="Box" label="Text">10</container>
+                                <container parent="cid2469" type="Folder">14</container>
+                                <unitdate>1783</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref281" level="file">
+                            <did>
+                                <unittitle>Case of Matteo Bratelli, before the High Court of Errors, Pennsylvania</unittitle>
+                                <container id="cid2468" type="Box" label="Text">10</container>
+                                <container parent="cid2468" type="Folder">15</container>
+                                <unitdate>1784</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref282" level="file">
+                            <did>
+                                <unittitle>Case of Purviance et al v. Angus, High Court of Errors, Pennsylvania</unittitle>
+                                <container id="cid2467" type="Box" label="Text">10</container>
+                                <container parent="cid2467" type="Folder">16</container>
+                                <unitdate>1785</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref283" level="file">
+                            <did>
+                                <unittitle>Miscellaneous papers concerning Dickinson's legal practice</unittitle>
+                                <container id="cid2466" type="Box" label="Text">10</container>
+                                <container parent="cid2466" type="Folder">17</container>
+                                <unitdate>1782-1804, undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="ref284" level="otherlevel">
+                        <did>
+                            <unittitle>C. Bills and receipts</unittitle>
+                        </did>
+                        <c id="ref285" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2465" type="Box" label="Text">11</container>
+                                <container parent="cid2465" type="Folder">1</container>
+                                <unitdate normal="1755/1776" type="inclusive">1755-1776</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref286" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2464" type="Box" label="Text">11</container>
+                                <container parent="cid2464" type="Folder">2</container>
+                                <unitdate normal="1777/1779" type="inclusive">1777-1779</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref287" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2463" type="Box" label="Text">11</container>
+                                <container parent="cid2463" type="Folder">3</container>
+                                <unitdate normal="1780/1783" type="inclusive">1780-1783</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref288" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2462" type="Box" label="Text">11</container>
+                                <container parent="cid2462" type="Folder">4</container>
+                                <unitdate normal="1784/1789" type="inclusive">1784-1789</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref289" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2461" type="Box" label="Text">11</container>
+                                <container parent="cid2461" type="Folder">5</container>
+                                <unitdate normal="1790/1792" type="inclusive">1790-1792</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref290" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2460" type="Box" label="Text">11</container>
+                                <container parent="cid2460" type="Folder">6</container>
+                                <unitdate>1793</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref291" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2459" type="Box" label="Text">11</container>
+                                <container parent="cid2459" type="Folder">7</container>
+                                <unitdate>1794</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref292" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2458" type="Box" label="Text">11</container>
+                                <container parent="cid2458" type="Folder">8</container>
+                                <unitdate>1795</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref293" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2457" type="Box" label="Text">11</container>
+                                <container parent="cid2457" type="Folder">9</container>
+                                <unitdate>1796</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref294" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2456" type="Box" label="Text">11</container>
+                                <container parent="cid2456" type="Folder">10</container>
+                                <unitdate>1797</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref295" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2455" type="Box" label="Text">11</container>
+                                <container parent="cid2455" type="Folder">11</container>
+                                <unitdate>1798</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref296" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2454" type="Box" label="Text">11</container>
+                                <container parent="cid2454" type="Folder">12</container>
+                                <unitdate>1799 January-July</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref297" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2453" type="Box" label="Text">11</container>
+                                <container parent="cid2453" type="Folder">13</container>
+                                <unitdate>1799 July-December</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref298" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2452" type="Box" label="Text">11</container>
+                                <container parent="cid2452" type="Folder">14</container>
+                                <unitdate>1800</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref299" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2451" type="Box" label="Text">11</container>
+                                <container parent="cid2451" type="Folder">15</container>
+                                <unitdate>1801</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref300" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2450" type="Box" label="Text">11</container>
+                                <container parent="cid2450" type="Folder">16</container>
+                                <unitdate>1802</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref301" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2449" type="Box" label="Text">11</container>
+                                <container parent="cid2449" type="Folder">17</container>
+                                <unitdate>1803</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref302" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2448" type="Box" label="Text">11</container>
+                                <container parent="cid2448" type="Folder">18</container>
+                                <unitdate>1804</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref303" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2447" type="Box" label="Text">11</container>
+                                <container parent="cid2447" type="Folder">19</container>
+                                <unitdate>1805</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref304" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2446" type="Box" label="Text">11</container>
+                                <container parent="cid2446" type="Folder">20</container>
+                                <unitdate>1806</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref305" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2445" type="Box" label="Text">11</container>
+                                <container parent="cid2445" type="Folder">21</container>
+                                <unitdate>1807</unitdate>
+                            </did>
+                        </c>
+                        <c id="ref306" level="file">
+                            <did>
+                                <unittitle></unittitle>
+                                <container id="cid2444" type="Box" label="Text">11</container>
+                                <container parent="cid2444" type="Folder">22</container>
+                                <unitdate>undated</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                </c>
+                <c id="ref307" level="subseries">
+                    <did>
+                        <unittitle>Subseries VII. Collected essays, notes and commonplace books</unittitle>
+                    </did>
+                    <c id="ref308" level="file">
+                        <did>
+                            <unittitle>The Concessions of West Jersey</unittitle>
+                            <container id="cid2443" type="Box" label="Text">12</container>
+                            <container parent="cid2443" type="Folder">1</container>
+                            <unitdate>1676</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref309" level="file">
+                        <did>
+                            <unittitle>Manuscript list of lots in the original draft of Philadelphia, in the hand of Isaac Norris</unittitle>
+                            <container id="cid2442" type="Box" label="Text">12</container>
+                            <container parent="cid2442" type="Folder">2</container>
+                            <unitdate>1683</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref310" level="file">
+                        <did>
+                            <unittitle>Notebook, in the hand of Isaac Norris, on the Penn-Baltimore land dispute</unittitle>
+                            <container id="cid2441" type="Box" label="Text">12</container>
+                            <container parent="cid2441" type="Folder">3</container>
+                            <unitdate>1600s</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref311" level="file">
+                        <did>
+                            <unittitle>Account of land partitioning in Germantown</unittitle>
+                            <container id="cid2440" type="Box" label="Text">12</container>
+                            <container parent="cid2440" type="Folder">4</container>
+                            <unitdate>1715 May 26</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref312" level="file">
+                        <did>
+                            <unittitle>Notes on Dickinson family genealogy</unittitle>
+                            <container id="cid2439" type="Box" label="Text">12</container>
+                            <container parent="cid2439" type="Folder">5</container>
+                            <unitdate>circa 1740, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref313" level="file">
+                        <did>
+                            <unittitle>Copy of Conrad Weiser's journal on Indian Treaty</unittitle>
+                            <container id="cid2438" type="Box" label="Text">12</container>
+                            <container parent="cid2438" type="Folder">6</container>
+                            <unitdate>1754</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref314" level="file">
+                        <did>
+                            <unittitle>Clippings from the 
+                                <emph render="italic">Gentleman's Magazine</emph>, largely regarding the preservation of fruits and grains</unittitle>
+                            <container id="cid2437" type="Box" label="Text">12</container>
+                            <container parent="cid2437" type="Folder">7</container>
+                            <unitdate>1753, 1764, 1769</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref315" level="file">
+                        <did>
+                            <unittitle>"Opinion on the 40 Poll Act in Maryland," essay probably by Dickinson</unittitle>
+                            <container id="cid2436" type="Box" label="Text">12</container>
+                            <container parent="cid2436" type="Folder">8</container>
+                            <unitdate>1773 October 1</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref316" level="file">
+                        <did>
+                            <unittitle>Robert G. Hooper essay on Liberality of Sentiment, including cover letters</unittitle>
+                            <container id="cid2435" type="Box" label="Text">12</container>
+                            <container parent="cid2435" type="Folder">9</container>
+                            <unitdate>1785</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref317" level="file">
+                        <did>
+                            <unittitle>Newspaper clippings of advertisements for Dickinson's political writing and [Dickinson's] comment on Pennsylvania land laws</unittitle>
+                            <container id="cid2434" type="Box" label="Text">12</container>
+                            <container parent="cid2434" type="Folder">10</container>
+                            <unitdate>1799, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref318" level="file">
+                        <did>
+                            <unittitle>Notes on Dickinson's books and papers</unittitle>
+                            <container id="cid2433" type="Box" label="Text">12</container>
+                            <container parent="cid2433" type="Folder">11</container>
+                            <unitdate>1802, 1885, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref319" level="file">
+                        <did>
+                            <unittitle>19th century notes on 
+                                <emph render="italic">Letters from a Farmer in Pennsylvania</emph></unittitle>
+                            <container id="cid2432" type="Box" label="Text">12</container>
+                            <container parent="cid2432" type="Folder">12</container>
+                            <unitdate>circa 1800s</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref320" level="file">
+                        <did>
+                            <unittitle>Anonymous essay on the Nottingham School</unittitle>
+                            <container id="cid2431" type="Box" label="Text">12</container>
+                            <container parent="cid2431" type="Folder">13</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref321" level="file">
+                        <did>
+                            <unittitle>Commonplace book [probably belonging to Dickinson]</unittitle>
+                            <container id="cid2430" type="Box" label="Text">12</container>
+                            <container parent="cid2430" type="Folder">14</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref322" level="file">
+                        <did>
+                            <unittitle>Lloyd and Logan genealogies</unittitle>
+                            <container id="cid2429" type="Box" label="Text">12</container>
+                            <container parent="cid2429" type="Folder">15</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref323" level="file">
+                        <did>
+                            <unittitle>Miscellaneous notes</unittitle>
+                            <container id="cid2428" type="Box" label="Text">12</container>
+                            <container parent="cid2428" type="Folder">16</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref324" level="file">
+                        <did>
+                            <unittitle>"Reflections on the Flag of Truce Trade in America," by an English Merchant [Dickinson manuscript?]</unittitle>
+                            <container id="cid2427" type="Box" label="Text">12</container>
+                            <container parent="cid2427" type="Folder">17</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref325" level="file">
+                        <did>
+                            <unittitle>Society of Cincinnati regulations</unittitle>
+                            <container id="cid2426" type="Box" label="Text">12</container>
+                            <container parent="cid2426" type="Folder">18</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref326" level="file">
+                        <did>
+                            <unittitle>Speech on the founding of Dickinson College</unittitle>
+                            <container id="cid2425" type="Box" label="Text">12</container>
+                            <container parent="cid2425" type="Folder">19</container>
+                            <unitdate>[circa 1783]</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref327" level="subseries">
+                    <did>
+                        <unittitle>Subseries VIII. John Dickinson estate records</unittitle>
+                    </did>
+                    <c id="ref328" level="file">
+                        <did>
+                            <unittitle>Estate journal</unittitle>
+                            <container id="cid2424" type="Volume" label="Text">2</container>
+                            <unitdate normal="1808/1814" type="inclusive">1808-1814</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref329" level="file">
+                        <did>
+                            <unittitle>Estate ledger</unittitle>
+                            <container id="cid2423" type="Volume" label="Text">3</container>
+                            <unitdate normal="1808/1814" type="inclusive">1808-1814</unitdate>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="ref330" level="series">
+                <did>
+                    <unittitle>Series II. Mary Norris Dickinson</unittitle>
+                </did>
+                <c id="ref331" level="file">
+                    <did>
+                        <unittitle>Copies of letters between Hannah Griffitts, Hannah Harrison, and Mary Norris</unittitle>
+                        <container id="cid2422" type="Volume" label="Text">4</container>
+                        <unitdate>circa 1760s</unitdate>
+                    </did>
+                </c>
+                <c id="ref332" level="file">
+                    <did>
+                        <unittitle>Poems</unittitle>
+                        <container id="cid2421" type="Volume" label="Text">5</container>
+                        <unitdate normal="1764/1768" type="inclusive">1764-1768</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Thomas Leiper and family business records
+                    <num>LCP.Leiper</num>
+                </titleproper>
+                <titleproper type="filing">Thomas Leiper and family business records</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Holly Mengel</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2010.10.05</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Letterbooks; Estate records-Leiperville, Pennsylvania; Executor records; Paper, lumber and wood working business records; Quarry business records; Tobacco business records; Miscellaneous and household accounts and receipts</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:09-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Leiper and family business records</unittitle>
+            <unitid>LCP.Leiper</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>47.0 volumes</extent>
+            </physdesc>
+            <unitdate normal="1771/1947" type="inclusive">1771-1947</unitdate>
+            <abstract id="ref2" label="Abstract">Thomas Leiper (1745-1825) was introduced into the business of tobacco shortly after his arrival in Virginia in 1763. Within several years, he moved to Philadelphia where he opened a tobacco shop. During the Revolutionary War, Leiper became the principal tobacco provider in Philadelphia. In 1776, Leiper purchased land in Delaware County that included a mill at a waterfall on the Crum Creek. He established snuff mills and later purchased a stone quarry. The Thomas Leiper and family business records include correspondence, country estate records, and business and financial records of the family's paper, lumber and wood working businesses, quarry business, and tobacco business dating from 1771 to 1947.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Leiper, Thomas, 1745-1825</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <processinfo id="ref5">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box and folder number], Thomas Leiper and family business records, 1771-1947, Library Company of Philadelphia.</p>
+        </prefercite>
+        <relatedmaterial id="ref7">
+            <head>Related Archival Materials note</head>
+            <p>Friends of the Thomas Leiper House.</p>
+        </relatedmaterial>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>On deposit from the Friends of the Thomas Leiper House.</p>
+        </acqinfo>
+        <scopecontent id="ref9">
+            <head>Scope and Contents note</head>
+            <p>The Thomas Leiper family business records include “Letterbooks;” “Estate records;” “Paper, lumber and wood business records;” “Quarry business records;” “Tobacco business records;” and “Miscellaneous and household accounts and receipts,” dating from 1771 to 1947. These volumes document the business efforts of Thomas Leiper and his descendants, including the businesses of Thomas Leiper and Sons, Tobacconists; several quarries; a lumber yard and stable; and the Caldwell and Crosby estates. In addition to his other businesses, Leiper bought and sold real estate.</p>
+            <p>The collection includes six “ 
+                <emph render="bold">Letterbooks</emph>” dating from 1772 to 1829, which discuss to a large degree business, but are also extremely valuable in the documentation of day-to-day events, especially in regards to the Revolutionary War. The first, 
+                <emph render="bold">Volume 1</emph>, dating from 1772 to 1780, concerns the sales of, ordering of, and shipment of tobacco. These letters talk about finding ways to ship tobacco in a safe and secure manner and circumventing the British warships which closed the Delaware River in 1772. These letters also discuss the news of the day, and include statements such as, “The people of Britain are very much mistaken if they think they can cram what Acts they please down our throats,” (December 3, 1774) and “we are fully of the opinion that Anarchy and Confusion will take place all over this continent in the course of a few months unless the people of Britain alter their mode of proceedings,” (April 17, 1775). Letters from 1776 contain news of events of national and personal nature, as Leiper served, at that time, as a trooper in the American Light Horse. While the vast majority of the volume consists of letters from 1771 to 1776, there are several letters that date until October 9, 1800. Tobacco sales include 500 dozen snuff bottles to be imported from Glasgow, Scotland, with sizes specified, and on a separate occasion, in July 1774, 1800 dozen of the London squares, 900 dozen octagon squares, 300 dozen London small squares. 
+                <emph render="bold">Volume 2</emph>, a letterbook regarding tobacco and snuff business, dating from 1776 to 1802 includes letters on prices, shipments, accounts payable, wholesalers, agents, etc. In October 1776, Leiper opened a second grinding mill for snuff and he averaged one hogshead of tobacco per day at the new mill. Also discussed in these letters are prices of tobacco, the rise in workmen’s wages, other potential businesses including a glass house, prices of other commodities, and the status of Continental money (which, according to Leach was up 750%). According to Ken Leach, Leiper was “a very hard, tough business man, [and] from this letterbook alone, one would think the war was won by tobacco and snuff instead of gunpowder.” To one customer alone, Leiper sold 15,653 (pounds (monetary)) of snuff from July 1777 to April 1780. Also during this period of time, Leiper rented a house from Thomas Jefferson, and he describes, in letters to Jefferson, some of the work being done to the house, and requests that Jefferson pay for some repairs. Throughout this volume, there is continued documentation of Leiper’s experience in the American Light Horse and his description of both General Washington's talk on Peace and Liberty and General Howe’s talk of plundering Philadelphia. 
+                <emph render="bold">Volume 3</emph>, dating from 1803 to 1813 contains copies of letters sent by Leiper as a tobacco and snuff merchant and these letters document his personal business and contain long letters on transportation problems and the need for turnpikes and canals across Pennsylvania to the rivers of the south. These letters describe the tobacco industry prices, shipments, etc. Two letters to Thomas Jefferson, of a political nature, are included in this volume. 
+                <emph render="bold">Volume 4</emph>, dating from 1807 to 1831, contains copies of letters received and answered and contains largely, information regarding the property bought and owned by Leiper. Leiper owned much land in Pennsylvania including Venango, Warren, Green, Washington, and Delaware counties. The volume also includes copies of letters from the 1790s regarding the purchase of these lands. There are also several pages on lands of the Ohio Land Company. Also, of interest throughout these letters, are references to current events. From 1813 to 1829, Leiper’s letters, contained in the 
+                <emph render="bold">Volume 5</emph>, discuss the tobacco and snuff business, politics and Leiper’s many lands and properties. In regards to politics, Leiper wrote to President James Madison recommending John Barker as Postmaster in Philadelphia and regarding other issues; and to Thomas Jefferson. The final letterbook ( 
+                <emph render="bold">Volume 6</emph>), dating from 1844, contains only a few letters which are very faded. These letters were not written by Leiper who died in 1825.</p>
+            <p>The “ 
+                <emph render="bold">Estate records</emph>” are the records of the Leiper home, the name of which is uncertain. Records and accounts indicate that the home may have been called Avondale, Strath Haven or “Snuff Mill,” The “Estate records” are contained within 5 volumes dating from 1829 to 1847. All of these materials date after Thomas Leiper’s death in 1825, and are therefore, his descendant’s records. These volumes, 7 to 11, include accounts for: shingling, plastering, wages for workmen, boarding, lumber, blasting, powder from DuPont, supplies, freight, some quarry accounts, bottled water, names of vessels carrying freight, maintenance and repairs, food, sub-rents, cabinetwork, clothing, stovepipes, shoes, lumber, cattle, church dues, furniture, and other necessities for the manor. 
+                <emph render="bold">Volume 7</emph> contains a very broad business accounting of the estate; including information on cattle and sheep, rents, taxes, labor, repairs and maintenance, equipment and produce bought and sold, insurance, etc. 
+                <emph render="bold">Volume 9</emph> provides researchers the ability to match names of the Leipers' workers to their occupations.</p>
+            <p>The “ 
+                <emph render="bold">Executor records</emph>” are records produced for estates of which the Leipers served as executors. 
+                <emph render="bold">Volume 12</emph> contains material regarding the Caldwell estate. Included in this volume are receipts received for money paid out, either hand copied or tipped into the volume. 
+                <emph render="bold">Volume 13</emph>, dating from 1832 to 1833, is a receipt book for bills paid by the Leiper brothers who served as executors of the estate of Robert Crosby.</p>
+            <p>The “ 
+                <emph render="bold">Paper, lumber and wood working business records</emph>” are contained within three volumes. The first documents the Leiper Paper mill accounts and dates from 1828 to 1829. Only 17 pages of the volume are dedicated to the paper mill. The remaining pages document personal accounts from the 1880s. A volume regarding lumber yards and stables, from 1844, includes all the expenses involved, as well as labor and supplies. Finally, from 1844 to 1851, a wood working shop is documented through wages, lumber accounts, and receipts.</p>
+            <p>The Leiper family “ 
+                <emph render="bold">Quarry business records</emph>” is documented in 18 volumes dating from 1812 to 1947. These volumes contain information largely on accounts and wages, in the form of account books, ledgers, daybooks, cashbooks, time books and wage books. Leiper quarries generally quarried granite and included locations such as Ridley Mills and Leiperville. Ridley Mills is documented in 
+                <emph render="bold">volume 17</emph> and includes sales of stone, types of stone, and prices from 1812 to 1832. This volume includes the names of people, companies and places to which the stone was sold and a roster of early American stone masons and builders. 
+                <emph render="bold">Volume 18</emph> is a workman’s time and wage book and includes names, dates, and wages. 
+                <emph render="bold">Volume 19</emph> documents William and Samuel Leiper’s granite quarry business and consists of a sales account book for stone of all types and purposes, such as building, foundation, railroad, perches, curb, and streets. This volume also includes lists of customers, some of which are: the United States (Naval Asylum, forts, etc.), Girard College, and St. John’s Church at Salem Massachusetts. In addition, the names of vessels used to ship the stone and costs to do so are available via this volume. The granite quarry in Leiperville, Pennsylvania is documented from 1833 to 1939 in 
+                <emph render="bold">volume 20</emph>. This volume contains information on boarding for workers, wages, freight bills, vessel charges, and all expenses for the business and the people who supplied those services. 
+                <emph render="bold">Volume 21</emph> provides information on worker’s time and work with wages from 1841 to 1842. 
+                <emph render="bold">Volumes 22 to 24</emph>, dating from 1869 to 1884 and 1899 to 1905, contain expenses and wages for quarrying granite and cutting stone and include workmen's time. 
+                <emph render="bold">Volume 25</emph> includes workmen’s time, but it does not include addresses or any indication of type of work.</p>
+            <p>Thomas Leiper’s earliest business endeavors focused on tobacco and snuff and his work as a merchant in this is documented in the “ 
+                <emph render="bold">Tobacco business records</emph>,” 12 volumes dating from 1776 to 1835. 
+                <emph render="bold">Volumes 35 and 36</emph> are sales books containing an average of fifteen entries per page (volume 35 has over 4,000 entries). Information included is amount of snuff or tobacco sold, type (pigtail, plug, cask, bladder, bottles), to whom the tobacco was sold, and how and where it was delivered. 
+                <emph render="bold">Volume 37</emph> is a “Work Book,” containing the names of people who worked for Leiper, the type of work they did (rollers, spinners, etc), their hours, and their wages from 1776 to 1795. 
+                <emph render="bold">Volume 38</emph> contains sales accounts for snuff and tobacco from 1801 to 1802. 
+                <emph render="bold">Volume 40</emph> documents tobacco sales in 1816. 
+                <emph render="bold">Volume 41</emph> is entitled “Shop Ledger” and contains information on Leiper’s cigar manufactory, names of workers, time, and wages from 1823 to 1827. 
+                <emph render="bold">Volume 42</emph> is an order book containing hundreds of accounts for snuff and tobacco sales. It includes pricing for plug, roll, bladder, pigtail, Glasgow, and pipe, and dates from 1826 to 1831. 
+                <emph render="bold">Volume 43</emph> is a receipt book for the tobacco business and contains information on kegs, making cigars, and sub-contractors who rolled cigars for the Leiper company from 1831 to 1834. Thomas Leiper and Sons ledger, 
+                <emph render="bold">volume 44</emph>, contains accounts daily of sales of snuff and tobacco from 1831 to 1835. Taken as a whole, these volumes provide a very complete picture of the tobacco business during the colonial and early national periods in America. Not only are the records of the business in existence, but also records of shipping, customers and workers.</p>
+            <p>The final three volumes in the Leiper family business records are “Miscellaneous and household account books and receipts.” The first of these dates from 1781 to 1783 and is attributed to Thomas Leiper. Included in this volume ( 
+                <emph render="bold">volume 45</emph>) are sales of merchandise; including “sundries;” metal items, such as callender, ladle, coal shovel, candlesticks, tea kettles, camp kettles, brass clock, silver buckles, brass, tin, pewter, copper and iron; and the repair and maintenance of items. The names of the buyers are often identified as to their professions, such as blacksmiths, tallow chandler, cooper, joiner, shoemaker, etc., as well as their residences. The second miscellaneous account book ( 
+                <emph render="bold">volume 46</emph>) dates from 1814 to 1817 and includes accounts, loose leaves, letter copies, land rents, and supplies for the tobacco business. The last volume in the series ( 
+                <emph render="bold">volume 47</emph>), and the collection, is a receipt book dating from 1825 to 1837. Included in this volume are receipts for Leiper’s barber, postage, subscriptions, labor, advertising, taxes, wine, clothing, freight, printing, billing for shares in the Library Company of Philadelphia, a pair of pistols, a second hand carriage, coal, and groceries. While many of these receipts are copies, there are original receipts tipped in with wax.</p>
+            <p>The collection as a whole provides an outstanding representation of an early American business, which lasted well into the 20th century. According to Ken Leach, appraiser of the collection, “with a major product, tobacco, and being the largest company in the business at the time, this collection brings to light all the facts, figures and correspondence.” The letterbooks should be used with other volumes in order to provide context to the account books, wage books, and other financial records.</p>
+        </scopecontent>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Thomas Leiper was born December 15, 1745 in Strathaven, Lanark, Scotland. He was educated at Glasgow and Edinburgh and immigrated to America in 1763, landing in Virginia where his brother already resided. He was immediately introduced into the business of tobacco, and within several years moved to Philadelphia where he opened a tobacco shop and "engaged in the storing and exportation of tobacco," (Leach). During the Revolutionary War, Leiper became the principal tobacco provider in Philadelphia. In 1776, Leiper purchased land in Delaware County that included a mill at a waterfall on the Crum Creek. He established snuff mills and later purchased a stone quarry. In addition to Leiper’s tobacco business being very successful, over approximately 20 years, he “acquired a total of 728 acres following Crum Creek to the Delaware River,” (Leiper Church). According to Leach, Leiper "amassed a large fortune, which enabled him to subscribe freely to the improvement of Philadelphia and that part of Delaware County in the neighborhood of "Avondale," his country residence."</p>
+            <p>Leiper was one of the founders of the first troop of Light Horse of the City of Philadelphia, and served in the Revolutionary War, seeing action at Trenton, Princeton, Brandywine, Germantown, Monmouth, and York. Along with his troop, he acted as bodyguard for George Washington and as a defender in the "Fort Wilson Riot" which took place at the home of James Wilson. While most sources state that Leiper served as lieutenant and treasurer of that troop, other sources indicate that he served as a private. Politically, Leiper was a democrat. He served as a presidential elector, director of the Banks of Pennsylvania and the United States, and served as President of the Philadelphia City Council from 1802 to 1805. He also served as a member and President of the Common Council of Philadelphia in 1813. He had much interaction with politicians in the early republic including George Washington and Thomas Jefferson, to whom he rented a house in Philadelphia.</p>
+            <p>Leiper’s quarry produced granite for “curbstones in Philadelphia … door steps for city homes, … buildings on the Swarthmore College campus, homes in Swarthmore, and … the Leiper Church,” (Leiper Church). In part due to the success of Leiper’s quarry business, Leiper was faced with a growing problem in transporting the stone to Philadelphia and the surrounding area. According to Leiper Church, “in wet weather, the wagons became bogged down on the dirt roads and since Crum Creek was not navigable, barge transportation was not an option.” Therefore, Leiper first requested permission to build a canal (which was not approved) and approximately 20 years later, built a railroad from his quarries to a spot on Ridley Creek which was navigable.</p>
+            <p>Leiper married Elizabeth Gray, daughter of Speaker of the House of the Pennsylvania State Legislature, in 1778. They had 13 children, 10 of whom lived to adulthood. Leiper died on July 6, 1825.</p>
+            <p>Soon after his death, his descendents started a two vat paper mill which was managed by John Holmes in 1826, and by George G. Leiper in 1829 until it burned in 1836. The two snuff mills were operated, along with the eight mulls and two cutting machines, until 1845. Thomas Leiper had also started "a tilt- or bade-mill, with Nathum Keys as operator, and in 1826, his yearly output was 200 dozens of scythes and straw knives," (Jordan, page 364). George G. Leiper operated it until 1830. In 1843, Leiper's estate was divided.</p>
+            <p>Many of Thomas Leiper's descendents were involved in his business, called Thomas Leiper and Sons, which continued to operate until 1946. Thomas Leiper's sons George Gray Leiper, Samuel McKean Lieper and William J. Leiper appear to have been most involved with the continued operation of Lieper's business. George Gray Leiper was born on February 3, 1786 and educated at the University of Pennsylvania. In addition to building the canal which his father had tried to build, George Leiper served in the Pennsylvania Congress from 1822 to 1823 and in the United States Congress from 1829 to 1831. He was also appointed associate judge of the Delaware County circuit court. George Leiper's family business work included logging, bark mills and stone quarries. He died on November 18, 1868. His son John C. Leiper became involved in the business. George Leiper's brother Samuel McKean Leiper, was born August 20, 1806 and was educated at the University of Pennsylvania, graduating in 1826. His involvement with the family business began "when he attained majority, [and] had direction, in connection with his brothers, of the extensive snuff manufactory and tobacco business established by his father," (Old Chester Pennsylvania). Samuel Leiper died February 17, 1854. Samuel had at least three sons: Captain Thomas Irvine, General Charles Lewis Leiper (both of whom served in the Civil War) and Callender Irvine Leiper. It appears that Callender I. Leiper operated the quarries at Avondale after the death of his father. Throughout the history of the Leiper mills, fire destroyed much and resulted in changes of hand. A full history of the Leiper descendents' involvement in the business is currently unknown.</p>
+            <p>
+                <emph render="italic">Bibliography:</emph></p>
+            <p>Biographical Dictionary of the United States Congress: http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000234 (accessed October 8, 2010).</p>
+            <p>Jordan, John W. 
+                <emph render="italic">A History of Delaware County Pennsylvania and Its People</emph>. New York: Lewis Historical Publishing Company, 1914.</p>
+            <p>Leach, Ken. Appraisal of Thomas Leiper and family business records. 1988</p>
+            <p>Leiper Presbyterian Church. http://leiperchurch1818.tripod.com/id2.html (accessed February 25, 2010).</p>
+            <p>Old Chester Pennsylvania. Biographies. http://www.oldchesterpa.com/biographies.htm (access October 8, 2010).</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Jefferson, Thomas, 1743-1826</persname>
+            <persname source="ingest">Leiper, George Gray, 1786-1868</persname>
+            <persname source="ingest">Leiper, Samuel McKean, 1806-1854</persname>
+            <persname source="ingest">Leiper, Thomas, 1745-1825</persname>
+            <corpname source="ingest">Pennsylvania. Militia. Light Horse of the City of Philadelphia.</corpname>
+            <corpname source="ingest">Thomas Leiper &amp; Sons, Tobacconists.</corpname>
+            <genreform source="aat">Account books</genreform>
+            <genreform source="aat">Business records</genreform>
+            <genreform source="aat">Estate records</genreform>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Letter books</genreform>
+            <geogname source="lcsh">Pennsylvania</geogname>
+            <subject source="lcsh">Pennsylvania--History--Colonial period, ca. 1600-1775</subject>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <subject source="lcsh">Quarries and quarrying</subject>
+            <subject source="lcsh">Railroads</subject>
+            <subject source="lcsh">Real property</subject>
+            <subject source="lcsh">Tobacco industry</subject>
+            <subject source="lcsh">United States--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">United States--History--Revolution, 1775-1783</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Series I. Letter books</unittitle>
+                    <unitdate normal="1772/1844" type="inclusive">1772-1844</unitdate>
+                </did>
+                <c id="ref12" level="file">
+                    <did>
+                        <unittitle>Regarding tobacco sales</unittitle>
+                        <container id="cid3479" type="Volume" label="Text">1</container>
+                        <unitdate normal="1772/1780" type="inclusive">1772-1780</unitdate>
+                    </did>
+                </c>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>Regarding tobacco and snuff business</unittitle>
+                        <container id="cid3478" type="Volume" label="Text">2</container>
+                        <unitdate normal="1776/1802" type="inclusive">1776-1802</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>Regarding tobacco and snuff business</unittitle>
+                        <container id="cid3477" type="Volume" label="Text">3</container>
+                        <unitdate normal="1803/1813" type="inclusive">1803-1813</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Regarding property purchased and owned by Leiper</unittitle>
+                        <container id="cid3476" type="Volume" label="Text">4</container>
+                        <unitdate normal="1807/1831" type="inclusive">1807-1831</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>Regarding tobacco and snuff business and politics</unittitle>
+                        <container id="cid3475" type="Volume" label="Text">5</container>
+                        <unitdate normal="1813/1829" type="inclusive">1813-1829</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container id="cid3474" type="Volume" label="Text">6</container>
+                        <unitdate>1844</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref18" level="series">
+                <did>
+                    <unittitle>Series II. Estate records-Leiperville, Pennsylvania</unittitle>
+                    <unitdate normal="1829/1847" type="inclusive">1829-1847</unitdate>
+                </did>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>"Snuff Mill" ledger</unittitle>
+                        <container id="cid3473" type="Volume" label="Text">7</container>
+                        <unitdate normal="1823/1846" type="inclusive">1823-1846</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>Account book</unittitle>
+                        <container id="cid3472" type="Volume" label="Text">8</container>
+                        <unitdate normal="1829/1845" type="inclusive">1829-1845</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Accounts</unittitle>
+                        <container id="cid3471" type="Volume" label="Text">9</container>
+                        <unitdate>1839</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Receipt book</unittitle>
+                        <container id="cid3470" type="Volume" label="Text">10</container>
+                        <unitdate normal="1841/1854" type="inclusive">1841-1854</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Receipt book</unittitle>
+                        <container id="cid3469" type="Volume" label="Text">11</container>
+                        <unitdate normal="1844/1847" type="inclusive">1844-1847</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref24" level="series">
+                <did>
+                    <unittitle>Series III. Executor records</unittitle>
+                </did>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Receipt book (Caldwell sales)</unittitle>
+                        <container id="cid3468" type="Volume" label="Text">12</container>
+                        <unitdate normal="1801/1805" type="inclusive">1801-1805</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Receipt book, Crosby Estate</unittitle>
+                        <container id="cid3467" type="Volume" label="Text">13</container>
+                        <unitdate normal="1832/1833" type="inclusive">1832-1833</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref27" level="series">
+                <did>
+                    <unittitle>Series IV. Paper, lumber and wood working business records</unittitle>
+                </did>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Paper mill account book</unittitle>
+                        <container id="cid3466" type="Volume" label="Text">14</container>
+                        <unitdate normal="1828/1829" type="inclusive">1828-1829</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Lumber yard and stable account book</unittitle>
+                        <container id="cid3465" type="Volume" label="Text">15</container>
+                        <unitdate>1844</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Wood working shop day book</unittitle>
+                        <container id="cid3464" type="Volume" label="Text">16</container>
+                        <unitdate normal="1844/1851" type="inclusive">1844-1851</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref31" level="series">
+                <did>
+                    <unittitle>Series V. Quarry business records</unittitle>
+                </did>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Accounts</unittitle>
+                        <container id="cid3463" type="Volume" label="Text">17</container>
+                        <unitdate normal="1812/1832" type="inclusive">1812-1832</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Wage book</unittitle>
+                        <container id="cid3462" type="Volume" label="Text">18</container>
+                        <unitdate normal="1824/1833" type="inclusive">1824-1833</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Sales and account book</unittitle>
+                        <container id="cid3461" type="Volume" label="Text">19</container>
+                        <unitdate normal="1830/1838" type="inclusive">1830-1838</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Labor and freight accounts</unittitle>
+                        <container id="cid3460" type="Volume" label="Text">20</container>
+                        <unitdate normal="1833/1839" type="inclusive">1833-1839</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Wage book</unittitle>
+                        <container id="cid3459" type="Volume" label="Text">21</container>
+                        <unitdate normal="1841/1842" type="inclusive">1841-1842</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Daybook</unittitle>
+                        <container id="cid3458" type="Volume" label="Text">22</container>
+                        <unitdate normal="1869/1878" type="inclusive">1869-1878</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Wage book (includes 1839 Ice House Receipts)</unittitle>
+                        <container id="cid3457" type="Volume" label="Text">23</container>
+                        <unitdate normal="1878/1884" type="inclusive">1878-1884</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Cash book</unittitle>
+                        <container id="cid3456" type="Volume" label="Text">24</container>
+                        <unitdate normal="1892/1905" type="inclusive">1892-1905</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Wage book</unittitle>
+                        <container id="cid3455" type="Volume" label="Text">25</container>
+                        <unitdate normal="1899/1905" type="inclusive">1899-1905</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Ledger</unittitle>
+                        <container id="cid3454" type="Volume" label="Text">26</container>
+                        <unitdate normal="1905/1913" type="inclusive">1905-1913</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Journal (cash book)</unittitle>
+                        <container id="cid3453" type="Volume" label="Text">27</container>
+                        <unitdate normal="1908/1927" type="inclusive">1908-1927</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Ledger</unittitle>
+                        <container id="cid3452" type="Volume" label="Text">28</container>
+                        <unitdate normal="1911/1928" type="inclusive">1911-1928</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Time book</unittitle>
+                        <container id="cid3451" type="Volume" label="Text">29</container>
+                        <unitdate normal="1923/1943" type="inclusive">1923-1943</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Ledger</unittitle>
+                        <container id="cid3450" type="Volume" label="Text">30</container>
+                        <unitdate normal="1928/1945" type="inclusive">1928-1945</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Journal</unittitle>
+                        <container id="cid3449" type="Volume" label="Text">31</container>
+                        <unitdate normal="1928/1937" type="inclusive">1928-1937</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Journal</unittitle>
+                        <container id="cid3448" type="Volume" label="Text">32</container>
+                        <unitdate normal="1928/1947" type="inclusive">1928-1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Daybook</unittitle>
+                        <container id="cid3447" type="Volume" label="Text">33</container>
+                        <unitdate normal="1930/1941" type="inclusive">1930-1941</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Daybook</unittitle>
+                        <container id="cid3446" type="Volume" label="Text">34</container>
+                        <unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref50" level="series">
+                <did>
+                    <unittitle>Series VI. Tobacco business records</unittitle>
+                </did>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>Tobacco order book</unittitle>
+                        <container id="cid3445" type="Volume" label="Text">35</container>
+                        <unitdate normal="1776/1790" type="inclusive">1776-1790</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>Tobacco order book (continued)</unittitle>
+                        <container id="cid3444" type="Volume" label="Text">36</container>
+                        <unitdate normal="1790/1795" type="inclusive">1790-1795</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Tobacco work book</unittitle>
+                        <container id="cid3443" type="Volume" label="Text">37</container>
+                        <unitdate normal="1776/1795" type="inclusive">1776-1795</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Account book, snuff sales</unittitle>
+                        <container id="cid3442" type="Volume" label="Text">38</container>
+                        <unitdate normal="1801/1802" type="inclusive">1801-1802</unitdate>
+                    </did>
+                </c>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Tobacco accounts</unittitle>
+                        <container id="cid3441" type="Volume" label="Text">39</container>
+                        <unitdate normal="1815/1820" type="inclusive">1815-1820</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>Tobacco sales book</unittitle>
+                        <container id="cid3440" type="Volume" label="Text">40</container>
+                        <unitdate>1816</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Shop ledger, cigar manufactory</unittitle>
+                        <container id="cid3439" type="Volume" label="Text">41</container>
+                        <unitdate normal="1823/1827" type="inclusive">1823-1827</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Tobacco order book</unittitle>
+                        <container id="cid3438" type="Volume" label="Text">42</container>
+                        <unitdate normal="1826/1831" type="inclusive">1826-1831</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Receipt book, cigars</unittitle>
+                        <container id="cid3437" type="Volume" label="Text">43</container>
+                        <unitdate normal="1831/1834" type="inclusive">1831-1834</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Day book, tobacco</unittitle>
+                        <container id="cid3436" type="Volume" label="Text">44</container>
+                        <unitdate normal="1831/1835" type="inclusive">1831-1835</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref61" level="series">
+                <did>
+                    <unittitle>Series VII. Miscellaneous and household accounts and receipts</unittitle>
+                </did>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>Miscellaneous account book</unittitle>
+                        <container id="cid3435" type="Volume" label="Text">45</container>
+                        <unitdate normal="1781/1783" type="inclusive">1781-1783</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle>Account book, disbound</unittitle>
+                        <container id="cid3434" type="Volume" label="Text">46</container>
+                        <unitdate normal="1814/1817" type="inclusive">1814-1817</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>Household receipt book</unittitle>
+                        <container id="cid3433" type="Volume" label="Text">47</container>
+                        <unitdate normal="1825/1837" type="inclusive">1825-1837</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

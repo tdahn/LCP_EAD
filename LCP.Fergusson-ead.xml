@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Elizabeth Graeme Fegusson papers
+                    <num>LCP.Fergusson</num>
+                </titleproper>
+                <titleproper type="filing">Fergusson, Elizabeth Graeme (papers)</titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Holly Mengel</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2010.11.08</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:09-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Elizabeth Graeme Fergusson papers</unittitle>
+            <unitid>LCP.Fergusson</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 volumes</extent>
+            </physdesc>
+            <unitdate normal="1752/1795" type="inclusive">1752-1795</unitdate>
+            <abstract id="ref2" label="Abstract">Elizabeth Graeme Fergusson (1737-1801), considered to be the outstanding female poet of her place and time, was a leader in the literary world of colonial Pennsylvania and an avid writer, who composed poems, songs, travel accounts and other writings, referencing literature, natural history, religion, politics and current events. This collection consists of six volumes of writings which probably represent all of her work, most of which is unpublished. Researchers interested in Elizabeth Graeme Fergusson, women authors in colonial America and the early United States, or a female commentary on contemporary events will find this collection to be extremely valuable.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Fergusson, Elizabeth Graeme, 1737-1801</persname>
+            </origination>
+        </did>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <prefercite id="ref6">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box/folder number], Elizabeth Graeme Fergusson papers, 1752-1795, Library Company of Philadelphia.</p>
+        </prefercite>
+        <relatedmaterial id="ref7">
+            <head>Related Archival Materials note</head>
+            <p>Library Company of Philadelphia: Rush family papers; John Dickinson papers, 1676-1885 (bulk 1753-1808).</p>
+            <p>Historical Society of Pennsylvania: Elizabeth Graeme Fergusson collection, 1766-1799, Collection 204.</p>
+            <p>Dickinson College Archives and Special Collections: Elizabeth Graeme Fergusson commonplace book, 1770-1778, Collection MC 2006.3.</p>
+        </relatedmaterial>
+        <acqinfo id="ref8">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Psalms purchased in 1962; Laura to a Friend by exchange with the Osborn Collection at Yale, 1978; Poetica Juvenalia, purchased in 1985.</p>
+        </acqinfo>
+        <bioghist id="ref9">
+            <head>Biographical/Historical note</head>
+            <p>Elizabeth Graeme Fergusson (1737-1801) is described by author Elizabeth Fries Ellet as having had “…a mind richly endowed with intellectual gifts…,” (Ellet, p. 220). She was a leading woman in colonial Philadelphia and an avid writer, who composed poems, songs, travel accounts and other writings, referencing literature, natural history, religion, politics and current events. Beginning around 1765, she also hosted Saturday soirees, or salons, in her home, during which she and her friends, who included Benjamin Rush, Jacob Duché, Francis Hopkinson, Nathaniel Evans, John Dickinson, Benjamin West and others, discussed music, literature and politics.</p>
+            <p>Elizabeth was born on February 3, 1737, the youngest daughter of a prosperous Philadelphia physician and his wife, Dr. Thomas Graeme and Ann Diggs Graeme. She was raised both in Philadelphia and on a country estate that was situated twenty miles outside of the city near Horsham, Pennsylvania, called Graeme Park. Elizabeth was educated by her mother and later by private tutors. She developed a keen intellect and was affiliated with some of the brightest minds of the day, including Reverend Richard Peters and William Smith, who were both involved in the creation of the Pennsylvania Academy, which would become the University of Pennsylvania.</p>
+            <p>Elizabeth was engaged to William Franklin, Benjamin Franklin’s son, in 1754. In 1759, while he was away in England, he broke off their engagement and married another woman. Author Martha Slotten argued that this event served as the primary catalyst for Elizabeth’s literary career. It was at this point she began writing poetry in earnest and, in 1760; she translated Abbe Francois Fénelon’s 
+                <emph render="italic"> The Adventures of Télémachus</emph>.</p>
+            <p>From 1764 to 1765, Elizabeth travelled abroad with Reverend Richard Peters of Christ Church. She was well received by London society, and while she was there she met author Laurence Sterne, Thomas and Juliana Penn, Dr. John Fothergill and King George III, among others. She kept an astute journal of her trip. Elizabeth returned to Philadelphia in 1765, when she received word of her mother’s death. Shortly thereafter, her sister Jane died, leaving Elizabeth as guardian of her two children, Anna and John.</p>
+            <p>In 1771, Elizabeth secretly married Henry Hugh Fergusson, a Scotsman, who was an acquaintance of Benjamin Rush. Then, in 1772, her father died, leaving her and Henry his estate. Elizabeth’s relationship with Henry grew problematic when the Revolutionary War broke out, as Henry was a staunch loyalist. In fact, in 1778, he returned to England; leaving Elizabeth who refused to join him behind. Prior to his leaving however, Henry persuaded Elizabeth on two occasions to deliver letters on behalf of the loyalist cause, which brought her own patriotism into question. As a result of Henry’s allegiance, Graeme Park and nearly all of Elizabeth’s other inheritance was confiscated. To get her property back, Elizabeth “…peppered the state legislature with petitions of her own formulation until its members… passed a special act revesting Graeme Park in herself,” (Ousterhout, p. xviii).</p>
+            <p>Despite the personal turmoil she suffered toward the end of the 1770s, around this time Elizabeth entered the most productive period of her literary career. She published her first poem, “Ode to Spring,” in 
+                <emph render="italic">Pennsylvania Magazine</emph> in 1776. Over the next sixteen years, she published an additional twenty-seven poems in various Philadelphia journals and newspapers. She often used the pseudonym Laura.</p>
+            <p>Elizabeth Graeme Fergusson died in 1801, after a long illness. She was buried with her parents at Christ Church Burial Ground.</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>Ellet, Elizabeth Fries. 
+                <emph render="italic">The Women of the American Revolution, Vol. I</emph>. Philadelphia: George W. Jacobs and Co., 1900. (Accessed online via Google Books on July 30, 2010).</p>
+            <p>Library Company of Philadelphia. “A Blue Stocking of Old Philadelphia.” In 
+                <emph render="italic">Annual Report of the Library Company of Philadelphia for the Year 1962</emph>, pp. 38-46. Philadelphia: The Library Company of Philadelphia. (Accessed online via Google Books on August 24, 2010).</p>
+            <p>Ousterhout, Anne M. 
+                <emph render="italic">The Most Learned Woman in America: A Life of Elizabeth Graeme Fergusson</emph>. University Park: The Pennsylvania State University Press, 2004.</p>
+            <p>Slotten, Martha C. “Elizabeth Graeme Fergusson: a Poet in “The Athens of North America”.” In 
+                <emph render="italic">Pennsylvania Magazine of History and Biography</emph>, Vol. 108, No. 3 (July, 1984), pp. 259-288. Philadelphia: Historical Society of Pennsylvania. (accessed via JSTOR)</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of six volumes of writings by Elizabeth Graeme Fergusson who is considered to be the outstanding female poet of her place and time, and a leader in the literary world of colonial Pennsylvania. These volumes, which date from 1752 to 1799, are arranged alphabetically by title.</p>
+            <p>The volume entitled "Laura to a Friend" was written between 1769 and 1795 and includes poetry, prose, letters and memoranda which cover a wide range of political, social, moral, religious and economic subjects, which were either composed or extracted by Fergusson. Although the material dates from 1768, apparently it was recorded from 1790 to 1795. Much of the material is signed “Laura,” which was Fergusson’s most commonly used pseudonym. Records indicate that the spine title of this volume which states “Lania to a Friend” is incorrect and is, in fact, “Laura to a Friend.” The volume includes a contents list, created by Fergusson. Some titles includes: An Allegory in Two parts: the Birth and Life of Cunning; The Dream of the Patriotic Philosophical Farmer, 1768; Eulogy to the Memory of Rebeckah Smith, Wife of the Reverend Dr. Smith who died of the yellow fever that raged in Philadelphia, October 20, 1793; and eulogies to others.</p>
+            <p>The volume "Poemata Juvenilia," written between 1752 and 1772 contains manuscript copies of early poems by Elizabeth Graeme Fergusson. According to a press release issued by the Library Company of Philadelphia at the time of acquiring this volume in 1985, “although it was believed that [Fergusson] wrote poetry in her youth, that work was presumed lost until this volume” was found. Most of the poems in this volume are signed Laura. Included in this volume are copied poems by others, including Benjamin Franklin’s son William, to whom she was engaged from 1752 until 1762 when he married Miss Elizabeth Downes in London. Also included in her poems are descriptions of her friends including Francis Hopkinson, Provost William Smith, Rebecca Moore, Nathaniel Evans, and Jacob Duché. This volume appears to "be Mrs. Fergusson's entire poetic output from 1752 to 1772, from age 15 to 35," ( 
+                <emph render="italic">Occasional Miscellany</emph>, LCP).</p>
+            <p>Elizabeth Graeme Fergusson wrote two volumes of poetic interpretation of the Psalms from 1766 to 1767. The volumes include notations in Fergusson’s hand and an introductory letter addressed to the Reverend Richard Peters, in which she states, “I began them without any kind of intention of going regularly through with them, but I was [illegible] led on farther and farther and the task grew daily more and more pleasing,” In addition to her poetic interpretation of the Psalms, the introductory letter to a close family friend, Reverend Richard Peters, provides valuable insight into her own religion, particularly in regards to the Psalms of David.</p>
+            <p>"Télémachus" is a poetic translation of Fénelon’s 
+                <emph render="italic">Adventures of Télémaque</emph> and is presented by Fergusson in two volumes. Fénelon wrote 
+                <emph render="italic">Télémaque</emph>, a continuation of Book IV of the 
+                <emph render="italic">Odyssey</emph>, around 1695. Fergusson's formal title of the work is: "A Discourse of Epic Poetry and of the Excellence of the Poems of Télémachus by the Chevalier Ramsay, author of the Travels of Cyrus Translated by [M. des MM GRANT FORD]." These two volumes, completed in 1769, include Fergusson’s “translator’s notes” which were added in later years and which include the statement, “Télémachus was a favorite book with her from her childhood; and having a little turn to rhyme entertained herself with endeavoring at a translation of it from the French into English Heroic verse.” These translator’s remarks include a brief overview of her intentions with many segments of the manuscript.</p>
+            <p>This collection will be extremely valuable to any researcher interested in Elizabeth Graeme Fergusson and women poets and writers in colonial America and the early United States. In all probability, this collection represents all of her work, mostly unpublished, including letters in poetic verse within her books of poetry. These volumes provide a female commentary on contemporary events, of which she was likely well versed as she was friends with and respected by many Philadelphia, American, and European intellectuals.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="ingest">Fergusson, Elizabeth Graeme, 1737-1801</persname>
+            <persname source="ingest">Franklin, William, 1731-1813</persname>
+            <persname source="ingest">Fénelon, François de Salignac de La Mothe-, 1651-1715</persname>
+            <persname source="ingest">Peters, Richard, 1704-1776</persname>
+            <subject source="lcsh">Bible. O.T. Psalms</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Pennsylvania--History--Colonial period, ca. 1600-1775</subject>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <genreform source="aat">Poems</genreform>
+            <subject source="lcsh">Poets, American</subject>
+            <subject source="lcsh">Telemachus (Greek mythology)</subject>
+            <genreform source="aat">Translations</genreform>
+            <subject source="lcsh">United States--History--Colonial period, ca. 1600-1775</subject>
+            <subject source="lcsh">United States--History--Revolution, 1775-1783</subject>
+            <subject source="lcsh">Women authors, American</subject>
+            <subject source="lcsh">Women poets, American</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="file">
+                <did>
+                    <unittitle>Laura to a Friend</unittitle>
+                    <container id="cid3432" type="Volume" label="Text">1</container>
+                    <unitdate>circa 1768-1795</unitdate>
+                    <physdesc id="ref12" label="General Physical Description note">
+                        <extent>[13298 Q]</extent></physdesc>
+                </did>
+            </c>
+            <c id="ref13" level="file">
+                <did>
+                    <unittitle>Poemata Juvenilia</unittitle>
+                    <container id="cid3431" type="Volume" label="Text">2</container>
+                    <unitdate>circa 1752-1772</unitdate>
+                    <physdesc id="ref14" label="General Physical Description note">
+                        <extent>[13494 Q]</extent></physdesc>
+                </did>
+            </c>
+            <c id="ref15" level="file">
+                <did>
+                    <unittitle>Psalms, Volume 1</unittitle>
+                    <container id="cid3430" type="Volume" label="Text">3</container>
+                    <unitdate>circa 1766-1767</unitdate>
+                    <physdesc id="ref16" label="General Physical Description note">
+                        <extent>[12716 Q]</extent></physdesc>
+                </did>
+            </c>
+            <c id="ref17" level="file">
+                <did>
+                    <unittitle>Psalms, Volume 2</unittitle>
+                    <container id="cid3429" type="Volume" label="Text">4</container>
+                    <unitdate>circa 1766-1767</unitdate>
+                    <physdesc id="ref18" label="General Physical Description note">
+                        <extent>[12716 Q]</extent></physdesc>
+                </did>
+            </c>
+            <c id="ref19" level="file">
+                <did>
+                    <unittitle>Télémachus, poetic translation of Fénelon's 
+                        <emph render="italic">Télémaque</emph> Volume 1</unittitle>
+                    <container id="cid3428" type="Volume" label="Text">5</container>
+                    <unitdate>circa 1769</unitdate>
+                    <physdesc id="ref20" label="General Physical Description note">
+                        <extent>[2467 Q]</extent></physdesc>
+                </did>
+            </c>
+            <c id="ref21" level="file">
+                <did>
+                    <unittitle>Télémachus, poetic translation of Fénelon's 
+                        <emph render="italic">Télémaque</emph> Volume 2</unittitle>
+                    <container id="cid3427" type="Volume" label="Text">6</container>
+                    <unitdate>circa 1769</unitdate>
+                    <physdesc id="ref22" label="General Physical Description note">
+                        <extent>[2467 Q]</extent></physdesc>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

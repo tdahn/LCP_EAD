@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Peter Renaudet medical apprentice notebook
+                    <num>LCP.Renaudet</num>
+                </titleproper>
+                <titleproper type="filing">Renaudet, Peter (medical apprentice notebook)</titleproper>
+                <sponsor>The creation of this collection level record was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2012.03.12</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:11-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Peter Renaudet medical apprentice notebook</unittitle>
+            <unitid>LCP.Renaudet</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 volume</extent>
+            </physdesc>
+            <unitdate>1741</unitdate>
+            <abstract id="ref2" label="Abstract">This collection consists of a medical apprentice notebook containing the observations of a mid-18th century New York apprentice, Peter Renaudet. It is a record of clinical cases, in which Renaudet describes the patient's ailments, treatments prescribed, and the result of those treatments.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Renaudet, Peter</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <prefercite id="ref5">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], Peter Renaudet medical apprentice notebook, 1741, Library Company of Philadelphia.</p>
+        </prefercite>
+        <scopecontent id="ref6">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of a medical apprentice notebook containing the observations of a mid-18th century New York apprentice, Peter Renaudet. It is a record of clinical cases, in which Renaudet describes the patient's ailments, treatments prescribed and the result of those treatments. Common ailments include dropsy (edema) and costiveness (constipation). Purging, letting and herbal remedies are often recommended remedies.</p>
+        </scopecontent>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Peter Renaudet was a medical apprentice in New York, in 1741. Although physicians in Great Britain, during the same era, were typically educated in universities and medical programs, very few emigrated to the colonies. Until 1756, there were no medical schools in the colonies. The first, the College of Philadelphia (now the University of Pennsylvania) opened in Philadelphia in 1756, and was followed soon after by King's College (now Columbia Univeristy) in New York in 1768. Because of the lack of professional physicians, most of the sick were treated in the home by the women of the family, who relied on family and cultural traditions, medicinal herbs and community advice. However, there were physicians who worked outside the family setting as professionals. According to Raffel, "those who aspired to medical practice apprenticed with established physicians for a number of years, [and] upon completion of the training period, during which time the apprentice would watch and assist his preceptor and read his books, the physician would give the apprentice a signed testimonial that constituted the certificate of proficiency," (Raffel, page 52). Marynita Anderson states that the "medical apprenticeship was an unwieldy, undisciplined, and unregulated institution," in which apprentices were occasionally given the opportunity to see patients, but were more often given tasks such as making pills and mixing powders (Anderson, page 39). The quality of the apprenticeship was reliant upon the physician under whom the apprentice studied.</p>
+            <p>It appears that Renaudet may have been given opportunities to work with patients. He recorded, in his notebook, patients' illnesses, treatments, and the results of treatment.</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>Anderson, Marynita. 
+                <emph render="italic">Physician Heal Thyself: Medical Practioners of Eighteenth Century New York</emph>. New York: Peter Lang Publishing, Inc., 2004.</p>
+            <p>Raffel, Marshal. W., Norma K. Raffel, and Camille K. Barsukiewicz. 
+                <emph render="italic">The U.S. Health System: Origins and Functions</emph>. Albany, NY: Delmar/Thomson Learning, 2002.</p>
+        </bioghist>
+        <controlaccess>
+            <persname source="ingest">Renaudet, Peter</persname>
+            <subject source="lcsh">Medical education</subject>
+            <subject source="lcsh">Medicine</subject>
+            <geogname source="lcsh">New York (State)</geogname>
+            <genreform source="aat">Notebooks</genreform>
+            <subject source="lcsh">Patients</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref8" level="file">
+                <did>
+                    <unittitle>Medical apprentice note book</unittitle>
+                    <container id="cid1002" type="Volume" label="Text">1</container>
+                    <unitdate>1741</unitdate>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

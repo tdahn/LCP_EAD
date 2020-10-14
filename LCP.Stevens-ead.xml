@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Stevens-Cogdell-Sanders-Venning collection
+                    <num>LCP.Stevens</num>
+                </titleproper>
+                <titleproper type="filing">Stevens-Cogdell-Sanders-Venning collection</titleproper>
+                <author>Finding aid prepared by Megan Atkinson and Christiana Dobrzynski Grippe.</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Stevens family papers; Codgell family papers; Sanders family papers; Venning family paper; Unattributed family papers; Scrapbook materials and related ephemera; Hinkson family papers.</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:13-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Stevens-Cogdell-Sanders-Venning collection</unittitle>
+            <unitid>LCP.Stevens</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1734/1982" type="inclusive">1734-1982</unitdate>
+            <abstract id="ref2" label="Abstract">The Stevens-Cogdell-Sanders-Venning family papers document the development of a white family and a prominent middle-class African American family in Philadelphia, Pennsylvania, beginning with the 1760s emigration of John Stevens from England to South Carolina. The materials date from 1734 to 1982 and consist of scrapbooks, ephemera, newspaper clippings, Common Prayer books, invitations, holiday cards, correspondence, business papers, and a variety of personal papers. The materials document the Stevens-Cogdell-Sanders-Venning families’ professional, family, and personal lives as well as the development of a prominent middle-class African American family.</abstract>
+            <origination label="creator">
+                <persname source="naf">Buck, Pearl S. (Pearl Sydenstricker), 1892-1973 </persname>
+            </origination>
+            <origination label="creator">
+                <famname source="ingest">Cogdell</famname>
+            </origination>
+            <origination label="creator">
+                <persname source="local">Holden, Sallie Sanders Venning, 1872-1959</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="local">Jackson, Mary Hinkson, 1928-2014</persname>
+            </origination>
+            <origination label="creator">
+                <famname source="ingest">Sanders</famname>
+            </origination>
+            <origination label="creator">
+                <famname source="ingest">Stevens</famname>
+            </origination>
+            <origination label="creator">
+                <famname source="ingest">Venning</famname>
+            </origination>
+        </did>
+        <processinfo id="ref3">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>The story of the Stevens-Cogdell-Sanders-Venning family, which eventually developed into a prominent middle class African American family in Philadelphia, began in the 1760s, when John Stevens emigrated from England and settled in Georgia. He began as a Georgia planter, owning a plantation until a slave rebellion ended his plantation career. After this setback, he settled in Charleston, South Carolina. There he established the Carolina Coffee House, which became an important establishment and meeting point in the community. He later received a postal appointment, which added to his success. He had a daughter, Mary Ann Elizabeth Stevens, and a son, John (Jack) Stevens. His son John (Jack) Stevens left Charleston, South Carolina and moved to Jamaica, against his father’s wishes. His daughter, Mary Ann Elizabeth Stevens, married George Cogdell.</p>
+            <p>Mary Ann Elizabeth Stevens and George Cogdell had three known sons, John Stephano Cogdell, Clements Stevens Cogdell, and Richard Walpole Cogdell. Their son, Richard Walpole Cogdell (1787-1866) married a woman named Cecilia, and they had three sons, James Gordon Cogdell, George Burgess Cogdell, and John Walpole Cogdell. Although he was married with a family, Richard Walpole Cogdell had a relationship with an enslaved woman, Sarah Martha Sanders (d. 1850). This relationship existed despite the feelings and emotions of his family, particularly his mother, about intimacies between the races. His mother, Mary Elizabeth Stevens wrote in her diary, “the laws of country are imperfect allowing such familiarity [physical intimacy between white men and black women] with impurity, every white man having such connection should be compelled by the laws of humanity to marry the person, black or mulatto, with whom such familiarities have existed, and to have no intercourse with genteel society or to appear in any public place of amusement on an equality with other citizens,” ( 
+                <emph render="italic">Library Company of Philadelphia Annual Report</emph>, p. 27). Mary Elizabeth Stevens passed before her son Richard Walpole Cogdell fathered children with Sarah Martha Sanders.</p>
+            <p>Richard Walpole Cogdell (1787-1866) would father no less than ten children with the enslaved woman Sarah Martha Sanders (Robert, Jacob, Julia E., Sarah Ann, Cordelia, John, Sophia Elizabeth, Miranda, Florence, and Martha J.). Though Richard Walpole Cogdell did not marry Sarah Martha Sanders (he was already married to Cecilia), he appeared to maintain an affectionate relationship with her and their children. He supported them financially and made provisions for them in his will. In the 1850s, Cogdell bought a house in Philadelphia, Pennsylvania and arranged for his children by Sanders to move there in order flee the slave state of South Carolina. Eventually, Richard Walpole Cogdell’s estate languished due to poor fiscal management. He died in Philadelphia in 1866.</p>
+            <p>Despite Richard Walpole Cogdell’s financial misfortunes, Richard Walpole Cogdell and Sarah Martha Sanders’ children and their children’s offspring went on to join Philadelphia’s middle class black citizenry. The children became tradesmen, businessmen, educators, and business professionals. The Sanders were “...dedicated to providing their children with opportunities for education, culture and economically secure professional status,” (
+                <emph render="italic">Library Company of Philadelphia Annual Report</emph>, p. 28). The Sanders family was involved in several prominent local African American institutions, including the St. Thomas P.E. Church, Church of the Crucifixion, Central Presbyterian Church, the Colored Institute of Youth, and the Citizens Republic Club.</p>
+            <p>Cogdell and Sanders’ daughter Julia married a carpenter named Edward Y. Venning who was in business with his father, Edward W. Venning. Together they had ten children, Miranda, Julia Elizabeth, Cordelia Nixon, Sophia, Oliver Casey, Robert, Sallie, George Edward, Martha and Louise. Their daughter Miranda Venning became a teacher and eventually the principal of the Joseph E. Hill School. She was educated at the prestigious Institute for Colored Youth, Robert Forten's private school, and the Vaux School. She was the first black graduate of Philadelphia’s Girls Normal School in 1882. Julia and Edward Venning’s son, George Edward, married Julia Capps and Julia and Edward’s daughter Sallie Sanders married William B. Holden.</p>
+            <p>Cogdell and Sanders’ daughter Cordelia married William H. Chew, a hairdresser and wigmaker. The Chew family, in 1880, sued to abolish racially segregated schools in Pennsylvania. Cordelia and William H. Chew had two sons, Richard Sanders (1871-1962) and Charles Sanders (1873-1954). Their son Richard Sanders Chew, benefited from the Chew family efforts and Richard Sanders Chew studied engineering at the University of Pennsylvania; however, at the supposed advice of a professor there, he moved to the West Coast and lived as a white man. He married a white woman and had a successful career. Their other son, Charles Sanders Chew married Georgine Saunders and had two children, Agnes (1896-1984) and Cordelia (1897-1983).</p>
+            <p>In 1921, Cordelia Chew married Dr. DeHaven Hinkson (1891-1975), with whom she had two daughters, Cordelia “Betty” (b. 1922) and Mary (1925-2014). During World War I, DeHaven Hinkson served in the United States Army Medical Reserve Corps and, during World War II, he became the first black officer to head an Army hospital when he was assigned to the station hospital at the Tuskegee Army Air Field in Alabama. In 1951, Mary Hinkson became one of two African American dancers to join the Martha Graham Dance Company, where she danced until her retirement in 1973. Hinkson also danced with other prominent choreographers including Donald McKayle, John Butler, and Glen Tetly.</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>“Afro-Americana: Family Values, in Black and White” in 
+                <emph render="italic">The Annual Report of the Library Company of Philadelphia for the Year 1991</emph>, pp. 26-31. Philadelphia: The Library Company of Philadelphia.</p>
+            <p>“How America Lives: Meet the Hinksons of Philadelphia, Pa.,” 
+                <emph render="italic"> Ladies Home Journal</emph>, August 1942, 75-79.</p>
+            <p>Walker, M. Lorenzo. “DeHaven Hinkson, M.D., 1891-,” 
+                <emph render="italic"> Journal of the National Medical Association </emph> 66, no. 4 (1974): 339-342.</p>
+            <p></p>
+        </bioghist>
+        <relatedmaterial id="ref5">
+            <head>Related Archival Materials note</head>
+            <p>Library Company of Philadelphia: Stevens-Cogdell-Sanders-Venning family portrait collection.</p>
+        </relatedmaterial>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Cordelia H. Brown, Lillie V. Dickerson, Mary Hinkson Jackson, and Georgine E. Willis in honor of Phil Lapsansky.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Box and folder number], Stevens-Cogdell-Sanders-Venning collection, 1734-1982, Library Company of Philadelphia.</p>
+        </prefercite>
+        <userestrict id="ref8">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <accessrestrict id="ref9">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <scopecontent id="ref10">
+            <head>Scope and Contents note</head>
+            <p>The Stevens-Cogdell-Sanders-Venning family papers document the development of a white family and a prominent middle class African American family in Philadelphia, Pennsylvania, beginning with the 1760s emigration of John Stevens from England to South Carolina. The papers consist of seven series: “Stevens family papers,” “Cogdell family papers,” “Sanders family papers,” “Venning family papers,” “Unattributed family papers,” “Scrapbook materials and related ephemera,” and "Hinkson family papers." The materials date from 1734 to 1976 and consist of scrapbooks, ephemera, newspaper clippings, Common Prayer books, invitations, holiday cards, correspondence, business papers, and a variety of personal papers. The materials document the Stevens-Cogdell-Sanders-Venning families’ professional, family, and personal lives.</p>
+            <p>The series “Stevens family papers” consists of two of John Stevens’ letter books that date from October 20, 1768 to January 11, 1772. The series is arranged in chronological order. The letter books contain over 160 handwritten letters and depict his business activities and daily life at his Carolina Coffee House. Many of the letters are written to his son Jack, chastising him for his irresponsible move to Jamaica, or to other correspondents in Jamaica, including associates of his son. These letter books are an interesting glimpse into the relationship of the father and son. There are also a variety of letters to associates and family in Charleston, London, and Savannah.</p>
+            <p>The series “Cogdell family papers” is comprised of materials from John Steven’s daughter, Mary Anne Elizabeth Stevens and her husband George Cogdell, and two of their three sons, John Stephens Cogdell and Richard Walpole Cogdell. Most of the materials relate to Richard Walpole Cogdell. This series contains receipt books, indentures for land in Georgetown and South Carolina, militia papers, correspondence and wills. The series is arranged in chronological order. Of interest is the diary of Mary Anne Elizabeth Stevens, which contains quotations, poems and writing regarding the mixing of the races. The commonplace books with Richard Walpole Cogdell’s materials consist of business correspondence and Cogdell’s papers compiled by a future family member into a scrapbook volume that contains sheet music and engineering exercises. Included in the volumes are Richard Walpole Cogdell’s directions to the executors of his estate and his children after his death as well as a letter from his son Charles Stevens regarding money. The will of Richard Walpole Cogdell reflects the sentiment that he felt towards Sarah Martha Sanders, and shows the provisions and inheritance that he left for his second family after his death. There are also a number of letters that portray his affection to his children in the Sanders family.</p>
+            <p>The “Sanders family papers” series is comprised of papers relating to the Sanders family, the Chew family and the Saunders family. People documented within the series are Sarah Martha Sanders, Sarah Anne Sanders, Mary E. Saunders, and Georgine Saunders Rex. The papers date from 1852 to 1892 and are arranged in chronological order. The series contains account information, business papers, pew receipts, correspondence, visiting cards and newspaper clippings. There are numerous papers relating to Richard Walpole Cogdell’s death and assets. The papers reflect the business transactions of the family and their existence in the African American middle class community. The papers also show the community involvement of the family through their pew receipts and numerous music recital clippings regarding Mary E. Saunders.</p>
+            <p>The series “Venning family papers” contains papers from the Venning family, the Holden family, and the Capp family. The series dates from 1830 to 1976. The papers include religious documents, birth certificates, documents relating to education, correspondence, obituaries, financial records, broadsides, invitations, programs, pamphlets and Valentine’s Day cards. The series is arranged in chronological order. Of interest is Edward Y. Venning’s “freedom papers,” from 1830, in which a white Charlestonian vouches for his character in a letter of recommendation. An account book by Edward Y. Venning provides information on his construction activities in Philadelphia. The papers of Edward W. Venning include a military draft paper relating to the substitute he afforded to fight in his place in the Civil War, John Diggs. The papers of Miranda Venning include newspaper clippings relating to her education and career, an autograph book, receipts, and school reports. Miranda Cogdell Venning’s newspaper clippings reflect the history of black education. Of note, are rare newspaper clippings from black newspapers, such as the 
+                <emph render="italic">Philadelphia Tribune</emph>, that are not known to have been preserved in any other collection. Numerous pamphlets, brochures, and invitations reflect the family’s activities in Philadelphia. For related materials on the Venning family, consult the series “Scrapbook Materials and Related Ephemera.”</p>
+            <p>The fifth series, “Unattributed family papers,” is comprised of papers that cannot be attributed to any particular family. The series dates from 1792 to circa 1915 and is arranged in chronological order. It consists of Common Prayer books, business cards and newspaper clippings.</p>
+            <p>The sixth series, “Scrapbook materials and related ephemera,” contains a variety of materials collected by family members that were previously placed in a scrapbook as well as complete scrapbooks. The series is arranged in chronological order and dates from 1851 to 1941, with the exception of three complete scrapbooks and photocopies of scrapbooks placed at the end of the series. Much of the ephemera and scrapbook materials were removed from pages of a scrapbook and the original order is not known. Most of the materials were most likely collected by the Venning family; however, the materials contain information on numerous other families. Most notable are Miranda Venning’s scrapbooks and the ephemera. The ephemera present in this series documents numerous events that the family was invited to, participated in or attended, reflecting the family’s prominence and involvement in the African American community of Philadelphia. There are numerous documents and ephemera relating to church events, organization events, musical events, and educational events. Miranda Venning’s scrapbooks also contain numerous materials related to Philadelphia music history, including articles and materials related to Marion Anderson, as well as numerous items related to the education system and the black community. The scrapbooks include various black newspapers clippings, including those of the 
+                <emph render="italic">Philadelphia Tribune</emph>.</p>
+            <p>The seventh series, “Hinkson family papers,” contains papers from and about the Chew family and the Hinkson family. The bulk is comprised of correspondence from Mary Hinkson to her parents while on tour in Europe with the Martha Graham Dance Company. Also notable is correspondence from Pearl Buck to Cordelia Chew Hinkson and a typescript of Buck’s 1942 article “The Dark Shadow,” which described the racial prejudice that the Hinksons faced in Philadelphia and was declined for publication by the 
+                <emph render="italic">Ladies Home Journal</emph>.</p>
+            <p>The Library Company also holds a “Steven-Cogdell and Sanders-Venning family portrait collection” in its prints and photograph department. The photographs are mostly Venning family portraits, but there are also portraits of the Cogdell family and the Capps family. There are group portraits of the Venning family participating in the Philadelphia music community, the Venning family participating in numerous organizations, Venning family vacation photographs, Venning family graduation photographs, and photographs of Mary Hinkson's travels in Europe while touring with the Martha Graham Dance Company in the 1950s. For more information on this collection contact the Library Company’s prints and photographs department.</p>
+            <p>This collection holds a variety of materials and information that would be useful for a multitude of scholarly purposes. The collection, although piecemeal, would serve as appropriate supplementary material to the study of the African American middle class community of Philadelphia and its organizations, activities, and struggles. The collection depicts the struggles of the African American middle class in education, especially the areas of the collection documenting Miranda Venning. The collection also provides information on African American music community in Philadelphia during the late-nineteenth and early-twentieth centuries.</p>
+        </scopecontent>
+        <separatedmaterial id="ref11">
+            <head>Separated Materials note</head>
+            <p>This collection contains material that has been catalogued separately and is stored in the Print Department of the Library Company of Philadelphia. This material can be found by searching in the Library Company's online catalog, WolfPAC.</p>
+        </separatedmaterial>
+        <controlaccess>
+            <persname source="ingest">Bolivar, William C.</persname>
+            <persname source="ingest">Chew, Cordelia Sanders</persname>
+            <persname source="ingest">Chew, Richard Sanders</persname>
+            <persname source="ingest">Chew, William H.</persname>
+            <corpname source="ingest">Citizens' Republic Club.</corpname>
+            <persname source="ingest">Cogdell, Mary Elizabeth Stevens</persname>
+            <persname source="ingest">Cogdell, Richard Walpole, 1787-1866</persname>
+            <persname source="local">Hinkson, Cordelia Chew</persname>
+            <persname source="local">Hinkson, DeHaven</persname>
+            <corpname source="ingest">Institute for Colored Youth (Philadelphia, Pa.).</corpname>
+            <persname source="naf">Martha Graham Dance Company.</persname>
+            <corpname source="ingest">Philadelphia Tribune.</corpname>
+            <persname source="ingest">Sanders, Robert</persname>
+            <persname source="ingest">Sanders, Sarah, d. 1850</persname>
+            <persname source="ingest">Venning, Edward Y.</persname>
+            <persname source="ingest">Venning, Julia Sanders</persname>
+            <persname source="ingest">Venning, Miranda Cogdell</persname>
+            <subject source="lcsh">African American dancers</subject>
+            <subject source="lcsh">African American educators</subject>
+            <subject source="lcsh">African American history</subject>
+            <genreform source="aat">Business records</genreform>
+            <genreform source="local">Clippings</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Ephemera</genreform>
+            <genreform source="aat">Family papers</genreform>
+            <genreform source="aat">Letter books</genreform>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <subject source="lcsh">Racially mixed people</subject>
+            <genreform source="aat">Scrapbooks</genreform>
+        </controlaccess>
+        <dsc>
+            <c id="ref12" level="series">
+                <did>
+                    <unittitle>Series I. Stevens family papers</unittitle>
+                </did>
+                <c id="ref13" level="file">
+                    <did>
+                        <unittitle>Stevens, John: Letterbooks</unittitle>
+                        <container id="cid6803" type="Box" label="Text">1</container>
+                        <container parent="cid6803" type="Folder">1</container>
+                        <unitdate>1768 October 20 - 1770 August 23</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref14" level="series">
+                <did>
+                    <unittitle>Series II. Cogdell family papers</unittitle>
+                </did>
+                <c id="ref173" level="item">
+                    <did>
+                        <unittitle>Stevens, John: Letterbook, 1770 September 11-January 11</unittitle>
+                        <container id="cid28001" type="Box" label="Text">1</container>
+                        <container parent="cid28001" type="Folder">2</container>
+                    </did>
+                </c>
+                <c id="ref15" level="file">
+                    <did>
+                        <unittitle>Land Indentures, mostly to John Cogdell</unittitle>
+                        <container id="cid29002" type="Box" label="Text">8</container>
+                        <container parent="cid29002" type="Folder">16</container>
+                        <container id="cid6802" type="Box" label="Text">1</container>
+                        <container parent="cid6802" type="Folder">3</container>
+                        <unitdate normal="1927/1930" type="inclusive">1734-1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="file">
+                    <did>
+                        <unittitle>Cogdell, Mary Ann Elizabeth Stevens: Watercolor with poem by Cordelia Sanders on back</unittitle>
+                        <container id="cid6801" type="Box" label="Text">1</container>
+                        <container parent="cid6801" type="Folder">4</container>
+                        <unitdate>circa 1800, 1840 June 9</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: South Carolina state militia papers</unittitle>
+                        <container id="cid6800" type="Box" label="Text">1</container>
+                        <container parent="cid6800" type="Folder">5</container>
+                        <container id="cid29006" type="Box" label="Text">8</container>
+                        <container parent="cid29006" type="Folder">17</container>
+                        <unitdate normal="1802/1844" type="inclusive">1802-1844</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="file">
+                    <did>
+                        <unittitle>Cogdell, Mary Ann Stevens: Diary and copybook</unittitle>
+                        <container id="cid6799" type="Box" label="Text">1</container>
+                        <container parent="cid6799" type="Folder">6</container>
+                        <unitdate normal="1805/1823" type="inclusive">1805-1823</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Three receipt books and one receipt/travel book</unittitle>
+                        <container id="cid6798" type="Box" label="Text">1</container>
+                        <container parent="cid6798" type="Folder">7</container>
+                        <unitdate normal="1808/1845" type="inclusive">1808-1845</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Correspondence</unittitle>
+                        <container id="cid6797" type="Box" label="Text">1</container>
+                        <container parent="cid6797" type="Folder">8</container>
+                        <unitdate normal="1818/1866" type="inclusive">1818-1866</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Visiting card, invitations and passport</unittitle>
+                        <container id="cid6796" type="Box" label="Text">1</container>
+                        <container parent="cid6796" type="Folder">9</container>
+                        <unitdate>1822, 1858-1865</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Commonplace book with materials mounted in volume with sheet music</unittitle>
+                        <container id="cid6795" type="Box" label="Text">1</container>
+                        <container parent="cid6795" type="Folder">10</container>
+                        <unitdate>1834-1865, 1894</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Free-Masons membership certificate</unittitle>
+                        <container id="cid6794" type="Box" label="Text">8</container>
+                        <container parent="cid6794" type="Folder">12</container>
+                        <unitdate>1839</unitdate>
+                        <physdesc id="ref24" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Certificate for State Society of Cincinnati</unittitle>
+                        <container id="cid6793" type="Box" label="Text">8</container>
+                        <container parent="cid6793" type="Folder">3</container>
+                        <unitdate>circa 1839</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Cogdell, John Stevens, Richard Walpole Cogdell, and Louise S. Venning: Wills</unittitle>
+                        <container id="cid6792" type="Box" label="Text">1</container>
+                        <container parent="cid6792" type="Folder">11</container>
+                        <unitdate normal="1847/1921" type="inclusive">1847-1921</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Commonplace book with mostly correspondence tipped into a printed music volume</unittitle>
+                        <container id="cid6791" type="Box" label="Text">2</container>
+                        <container parent="cid6791" type="Folder">1</container>
+                        <unitdate normal="1856/1867" type="inclusive">1856-1867</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Correspondence</unittitle>
+                        <container id="cid29001" type="Box" label="Text">8</container>
+                        <container parent="cid29001" type="Folder">18</container>
+                        <container id="cid6790" type="Box" label="Text">2</container>
+                        <container parent="cid6790" type="Folder">2</container>
+                        <unitdate normal="1860/1866" type="inclusive">1860-1866</unitdate>
+                    </did>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Cogdell, Richard Walpole: Estate papers</unittitle>
+                        <container id="cid6789" type="Box" label="Text">2</container>
+                        <container parent="cid6789" type="Folder">3</container>
+                        <unitdate>1866-1868</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref30" level="series">
+                <did>
+                    <unittitle>Series III. Sanders family papers</unittitle>
+                </did>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Sanders-Saunders family papers: Visiting cards, letters, receipts and newspaper clippings</unittitle>
+                        <container id="cid6788" type="Box" label="Text">2</container>
+                        <container parent="cid6788" type="Folder">4</container>
+                        <unitdate normal="1852/1871" type="inclusive">1852-1871</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Saunders, Sarah: Cemetery subscriptions, South Carolina</unittitle>
+                        <container id="cid6787" type="Box" label="Text">8</container>
+                        <container parent="cid6787" type="Folder">4</container>
+                        <unitdate>1843</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Sanders, Cordelia: Scrapbook</unittitle>
+                        <container id="cid6786" type="Box" label="Text">2</container>
+                        <container parent="cid6786" type="Folder">5</container>
+                        <unitdate>circa 1860</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Sanders, Sarah: Gift album</unittitle>
+                        <container id="cid6785" type="Box" label="Text">2</container>
+                        <container parent="cid6785" type="Folder">6</container>
+                        <unitdate>circa 1865</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Sanders, Sarah Ann: Letters, pew receipts and papers related to estate of her father Richard Walpole Cogdell</unittitle>
+                        <container id="cid6784" type="Box" label="Text">2</container>
+                        <container parent="cid6784" type="Folder">7</container>
+                        <unitdate normal="1867/1868" type="inclusive">1867-1868</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Chew family papers</unittitle>
+                        <container id="cid6783" type="Box" label="Text">2</container>
+                        <container parent="cid6783" type="Folder">8</container>
+                        <unitdate normal="1876/1879" type="inclusive">1876-1879</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Rex, Georgine Sanders: Common Prayer book from William H. Chew</unittitle>
+                        <container id="cid6782" type="Box" label="Text">2</container>
+                        <container parent="cid6782" type="Folder">9</container>
+                        <unitdate>1892</unitdate>
+                    </did>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Saunders, Mary E.: Recital newspaper clippings</unittitle>
+                        <container id="cid6781" type="Box" label="Text">2</container>
+                        <container parent="cid6781" type="Folder">10</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref39" level="series">
+                <did>
+                    <unittitle>Series IV. Venning family papers</unittitle>
+                </did>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Venning, Edward Y. and Edward W.: Personal papers</unittitle>
+                        <container id="cid29005" type="Box" label="Text">8</container>
+                        <container parent="cid29005" type="Folder">19</container>
+                        <container id="cid6780" type="Box" label="Text">3</container>
+                        <container parent="cid6780" type="Folder">1</container>
+                        <unitdate normal="1830/1904" type="inclusive">1830-1904</unitdate>
+                    </did>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Venning and Capps families: Bills in equity</unittitle>
+                        <container id="cid6779" type="Box" label="Text">3</container>
+                        <container parent="cid6779" type="Folder">2</container>
+                        <unitdate>1937, 1947</unitdate>
+                    </did>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Venning, Edward J.: Family bible (originally owned by Sarah Martha Sanders)</unittitle>
+                        <container id="cid6778" type="Oversize" label="Text">*Am 1851 Big Eng 17021.Q (SCSVC)</container>
+                        <unitdate>1852</unitdate>
+                    </did>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Venning Family: Valentines cards</unittitle>
+                        <container id="cid6777" type="Box" label="Text">3</container>
+                        <container parent="cid6777" type="Folder">4</container>
+                        <unitdate>1854, 1857, 1938, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Holden family: Stock certificates and business correspondence</unittitle>
+                        <container id="cid6776" type="Box" label="Text">3</container>
+                        <container parent="cid6776" type="Folder">5</container>
+                        <unitdate normal="1860/1930" type="inclusive">1860-1930</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda C.: Birth certificate, educational papers, correspondence and obituaries</unittitle>
+                        <container id="cid6775" type="Box" label="Text">3</container>
+                        <container parent="cid6775" type="Folder">6</container>
+                        <unitdate normal="1862/1900" type="inclusive">1862-1900</unitdate>
+                    </did>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Venning family baptism records</unittitle>
+                        <container id="cid6774" type="Box" label="Text">3</container>
+                        <container parent="cid6774" type="Folder">7</container>
+                        <unitdate>1870</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Venning, George De Reef: Account book and receipt</unittitle>
+                        <container id="cid6773" type="Box" label="Text">3</container>
+                        <container parent="cid6773" type="Folder">8</container>
+                        <unitdate normal="1874/1906" type="inclusive">1874-1906</unitdate>
+                    </did>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Venning family Holy Bible with obituaries tipped in.</unittitle>
+                        <container id="cid6772" type="Object" label="Text">Am 1877 Bib Eng 113279.D (SCSVC)</container>
+                        <unitdate>1877</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda C.: Autograph book</unittitle>
+                        <container id="cid6771" type="Box" label="Text">4</container>
+                        <container parent="cid6771" type="Folder">1</container>
+                        <unitdate normal="1877/1886" type="inclusive">1877-1886</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda C.: Diploma for Girls Normal School</unittitle>
+                        <container id="cid6770" type="Box" label="Text">8</container>
+                        <container parent="cid6770" type="Folder">10</container>
+                        <unitdate>1882</unitdate>
+                        <physdesc id="ref51" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>Venning, Sallie Sanders: Autograph album</unittitle>
+                        <container id="cid6769" type="Box" label="Text">4</container>
+                        <container parent="cid6769" type="Folder">2</container>
+                        <unitdate>1886</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Venning, George: Diploma for Industrial SAA School</unittitle>
+                        <container id="cid6768" type="Box" label="Text">8</container>
+                        <container parent="cid6768" type="Folder">5</container>
+                        <unitdate>1889</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda: Scrapbook (includes original and photocopy of scrapbook</unittitle>
+                        <container id="cid6767" type="Box" label="Text">8</container>
+                        <container parent="cid6767" type="Folder">1-2</container>
+                        <unitdate>circa 1890</unitdate>
+                        <physdesc id="ref55" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>Venning, Sallie Sanders: Diaries (3)</unittitle>
+                        <container id="cid6766" type="Box" label="Text">4</container>
+                        <container parent="cid6766" type="Folder">3</container>
+                        <unitdate normal="1890/1892" type="inclusive">1890-1892</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda: William Carl Bolivar "Hash Book" and related papers</unittitle>
+                        <container id="cid6765" type="Box" label="Text">4</container>
+                        <container parent="cid6765" type="Folder">4</container>
+                        <unitdate normal="1893/1914" type="inclusive">1893-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Venning family papers relating to death of family members</unittitle>
+                        <container id="cid6764" type="Box" label="Text">4</container>
+                        <container parent="cid6764" type="Folder">5</container>
+                        <unitdate normal="1894/1897" type="inclusive">1894-1897</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Venning, Julia E. papers</unittitle>
+                        <container id="cid6763" type="Box" label="Text">4</container>
+                        <container parent="cid6763" type="Folder">6</container>
+                        <unitdate normal="1896/1903" type="inclusive">1896-1903</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Venning, Louise S.: Diploma for Girls High School of Philadelphia</unittitle>
+                        <container id="cid6762" type="Box" label="Text">8</container>
+                        <container parent="cid6762" type="Folder">7</container>
+                        <unitdate>1898</unitdate>
+                        <physdesc id="ref61" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>Venning, Louise S.: Trial Teacher's Certificate for School District of Philadelphia</unittitle>
+                        <container id="cid6761" type="Box" label="Text">8</container>
+                        <container parent="cid6761" type="Folder">8</container>
+                        <unitdate>1900</unitdate>
+                        <physdesc id="ref63" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>Venning, Louise S.: Teacher's certificate for the School District of Philadelphia</unittitle>
+                        <container id="cid6760" type="Box" label="Text">8</container>
+                        <container parent="cid6760" type="Folder">9</container>
+                        <unitdate>1902</unitdate>
+                        <physdesc id="ref65" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle>Venning, Richard DeReef: correspondence</unittitle>
+                        <container id="cid6759" type="Box" label="Text">4</container>
+                        <container parent="cid6759" type="Folder">7</container>
+                        <unitdate>1906</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle>Holden, William B.: Rent book with newspaper clippings</unittitle>
+                        <container id="cid6758" type="Box" label="Text">4</container>
+                        <container parent="cid6758" type="Folder">8</container>
+                        <unitdate>circa 1911</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Venning, Lillie: Diploma for South Philadelphia High School</unittitle>
+                        <container id="cid6757" type="Box" label="Text">8</container>
+                        <container parent="cid6757" type="Folder">6</container>
+                        <unitdate>1921</unitdate>
+                        <physdesc id="ref69" label="General Physical Description note">
+                            <extent>[Oversized]</extent></physdesc>
+                    </did>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle>Venning, George Edward papers</unittitle>
+                        <container id="cid6756" type="Box" label="Text">4</container>
+                        <container parent="cid6756" type="Folder">9</container>
+                        <unitdate normal="1923/1976" type="inclusive">1923-1976</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>Venning, Louise: letter to "Sal" [found with fans, see box 7]</unittitle>
+                        <container id="cid6755" type="Box" label="Text">5</container>
+                        <container parent="cid6755" type="Folder">4</container>
+                        <unitdate>1923 August 29</unitdate>
+                    </did>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Venning, Louise: fans</unittitle>
+                        <container id="cid6754" type="Box" label="Realia">7</container>
+                        <unitdate>circa 1923</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="file">
+                    <did>
+                        <unittitle>Holden, William B.: Pequot Club Annual Dinner at Marion Tea Room invitation</unittitle>
+                        <container id="cid6753" type="Box" label="Text">4</container>
+                        <container parent="cid6753" type="Folder">10</container>
+                        <unitdate>1927</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="file">
+                    <did>
+                        <unittitle>Holden, Sarah Venning: letters received upon the death of her husband</unittitle>
+                        <container id="cid6752" type="Box" label="Text">4</container>
+                        <container parent="cid6752" type="Folder">11</container>
+                        <unitdate>1928 January-March</unitdate>
+                    </did>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>Holden, Sarah Venning: letters received upon the death of her husband</unittitle>
+                        <container id="cid6751" type="Box" label="Text">5</container>
+                        <container parent="cid6751" type="Folder">1</container>
+                        <unitdate>1928 February</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle>Holden, Sallie S.: Common Prayer book</unittitle>
+                        <container id="cid6750" type="Box" label="Text">5</container>
+                        <container parent="cid6750" type="Folder">2</container>
+                        <unitdate>1929</unitdate>
+                    </did>
+                </c>
+                <c id="ref77" level="file">
+                    <did>
+                        <unittitle>Holden, Sarah S.: First Penny Savings Bank, Philadelphia, account book</unittitle>
+                        <container id="cid6749" type="Box" label="Text">5</container>
+                        <container parent="cid6749" type="Folder">3</container>
+                        <unitdate normal="1929/1933" type="inclusive">1929-1933</unitdate>
+                    </did>
+                </c>
+                <c id="ref78" level="file">
+                    <did>
+                        <unittitle>Venning family invitations</unittitle>
+                        <container id="cid6748" type="Box" label="Text">5</container>
+                        <container parent="cid6748" type="Folder">5</container>
+                        <unitdate normal="1932/1937" type="inclusive">1932-1937</unitdate>
+                    </did>
+                </c>
+                <c id="ref79" level="file">
+                    <did>
+                        <unittitle>Venning, Oliver papers</unittitle>
+                        <container id="cid6747" type="Box" label="Text">5</container>
+                        <container parent="cid6747" type="Folder">6</container>
+                        <unitdate>1939, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle>Venning family: Pamphlets and brochures</unittitle>
+                        <container id="cid6746" type="Box" label="Text">5</container>
+                        <container parent="cid6746" type="Folder">7</container>
+                        <unitdate>1939, 1955, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="file">
+                    <did>
+                        <unittitle>Venning, George E. and Sarah S. Holden: Western Savings Fund Society account book</unittitle>
+                        <container id="cid6745" type="Box" label="Text">5</container>
+                        <container parent="cid6745" type="Folder">8</container>
+                        <unitdate normal="1946/1951" type="inclusive">1946-1951</unitdate>
+                    </did>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle>Venning, Miranda: Biography notes</unittitle>
+                        <container id="cid6744" type="Box" label="Text">5</container>
+                        <container parent="cid6744" type="Folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref83" level="file">
+                    <did>
+                        <unittitle>Venning, Sallie Sanders: "The Rose Elf" story</unittitle>
+                        <container id="cid6743" type="Box" label="Text">5</container>
+                        <container parent="cid6743" type="Folder">10</container>
+                        <unitdate>December, 1888</unitdate>
+                    </did>
+                </c>
+                <c id="ref174" level="item">
+                    <did>
+                        <unittitle>State Gazette of South Carolina, 1792</unittitle>
+                        <container id="cid29003" type="Box" label="Text">8</container>
+                        <container parent="cid29003" type="Folder">20</container>
+                        <container id="cid29004" type="Box" label="Text">5</container>
+                        <container parent="cid29004" type="Folder">11</container>
+                        <unitdate normal="1792/1792">1792</unitdate>
+                    </did>
+                </c>
+                <c id="ref168" level="file">
+                    <did>
+                        <unittitle>Deed from Margaret S. Jenson to Richard DeReef Venning for property at 18th and Fitzwater Streets, Philadelphia,</unittitle>
+                        <container id="cid26020" type="Box" label="Text">8</container>
+                        <container parent="cid26020" type="Folder">13</container>
+                        <unitdate>1902</unitdate>
+                        <physdesc id="ref170" label="General Physical Description note">[Oversized]</physdesc>
+                    </did>
+                </c>
+                <c id="ref167" level="file">
+                    <did>
+                        <unittitle>Property documents for Sallie S. Holden, George E. Venning, and Julia Venning [17282.Q]</unittitle>
+                        <container id="cid26019" type="Box" label="Text">8</container>
+                        <container parent="cid26019" type="Folder">14</container>
+                        <unitdate>1946, 1951.</unitdate>
+                        <physdesc id="ref171" label="General Physical Description note">[Oversized]</physdesc>
+                    </did>
+                </c>
+                <c id="ref169" level="file">
+                    <did>
+                        <unittitle>"Victorian African Americans: A Newspaper Education Supplement," Philadelphia Inquirer [17282.Q],</unittitle>
+                        <container id="cid26021" type="Box" label="Text">8</container>
+                        <container parent="cid26021" type="Folder">15</container>
+                        <unitdate>9 February 1988.</unitdate>
+                        <physdesc id="ref172" label="General Physical Description note">[Oversized]</physdesc>
+                    </did>
+                </c>
+            </c>
+            <c id="ref84" level="series">
+                <did>
+                    <unittitle>Series V. Unattributed family papers</unittitle>
+                </did>
+                <c id="ref85" level="file">
+                    <did>
+                        <unittitle>[Venning family papers?]: 
+                            <emph render="italic">State Gazette</emph> of South Carolina</unittitle>
+                        <container id="cid6742" type="Box" label="Text">5</container>
+                        <container parent="cid6742" type="Folder">11</container>
+                        <unitdate>1792</unitdate>
+                    </did>
+                </c>
+                <c id="ref86" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: South Carolina document making Isaac Mott Dark a Justice of the Peace</unittitle>
+                        <container id="cid6741" type="Box" label="Text">8</container>
+                        <container parent="cid6741" type="Folder">11</container>
+                        <unitdate>1802</unitdate>
+                    </did>
+                </c>
+                <c id="ref87" level="file">
+                    <did>
+                        <unittitle>[Venning family papers?]: Miscellaneous papers</unittitle>
+                        <container id="cid6740" type="Box" label="Text">5</container>
+                        <container parent="cid6740" type="Folder">12</container>
+                        <unitdate>1890, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref88" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Common Prayer book</unittitle>
+                        <container id="cid6739" type="Box" label="Text">5</container>
+                        <container parent="cid6739" type="Folder">13</container>
+                        <unitdate>1892</unitdate>
+                    </did>
+                </c>
+                <c id="ref89" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Common Prayer book</unittitle>
+                        <container id="cid6738" type="Box" label="Text">5</container>
+                        <container parent="cid6738" type="Folder">14</container>
+                        <unitdate>1892</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Pocket New Testament League</unittitle>
+                        <container id="cid6737" type="Box" label="Text">5</container>
+                        <container parent="cid6737" type="Folder">15</container>
+                        <unitdate>circa 1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref91" level="file">
+                    <did>
+                        <unittitle>Anonymous: Current opinion for July: "Are We Menaced by a New Race War"</unittitle>
+                        <container id="cid6736" type="Box" label="Text">6</container>
+                        <container parent="cid6736" type="Folder">1</container>
+                        <unitdate>circa 1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Address book listing Richard Chew and three others</unittitle>
+                        <container id="cid6735" type="Box" label="Text">6</container>
+                        <container parent="cid6735" type="Folder">2</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref93" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Autograph Album, "Your Hidden Skeleton"</unittitle>
+                        <container id="cid6734" type="Box" label="Text">6</container>
+                        <container parent="cid6734" type="Folder">3</container>
+                        <unitdate>1910</unitdate>
+                    </did>
+                </c>
+                <c id="ref94" level="file">
+                    <did>
+                        <unittitle>[Venning family papers?]: Business cards</unittitle>
+                        <container id="cid6733" type="Box" label="Text">6</container>
+                        <container parent="cid6733" type="Folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref95" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Daily Journal</unittitle>
+                        <container id="cid6732" type="Box" label="Text">6</container>
+                        <container parent="cid6732" type="Folder">5</container>
+                        <unitdate>1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref96" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: "Minutes on Some Passages from Dr. [Smith's] book on [illegible]</unittitle>
+                        <container id="cid6731" type="Box" label="Text">6</container>
+                        <container parent="cid6731" type="Folder">6</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref97" level="file">
+                    <did>
+                        <unittitle>[Unknown owner]: Poem, "Spring Flowers"</unittitle>
+                        <container id="cid6730" type="Box" label="Text">6</container>
+                        <container parent="cid6730" type="Folder">7</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref98" level="series">
+                <did>
+                    <unittitle>Series VI. Scrapbook materials and related ephemera</unittitle>
+                </did>
+                <c id="ref99" level="file">
+                    <did>
+                        <unittitle>Invitation for St. Valentine's Convivial Association Ball; 
+                            <emph render="italic">Boston Herald</emph> newspaper clipping; program for Grand Concert at Musical Fund Hall</unittitle>
+                        <container id="cid6729" type="Box" label="Text">6</container>
+                        <container parent="cid6729" type="Folder">8</container>
+                        <unitdate>1851, 1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref100" level="file">
+                    <did>
+                        <unittitle>Scrapbook page with newspaper clippings and Union Building and Loan Association officer list</unittitle>
+                        <container id="cid6728" type="Box" label="Text">6</container>
+                        <container parent="cid6728" type="Folder">9</container>
+                        <unitdate>circa 1860</unitdate>
+                    </did>
+                </c>
+                <c id="ref101" level="file">
+                    <did>
+                        <unittitle>Program for Airiolean Quartette Glee Club event</unittitle>
+                        <container id="cid6727" type="Box" label="Text">6</container>
+                        <container parent="cid6727" type="Folder">10</container>
+                        <unitdate>1871 March 13</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="file">
+                    <did>
+                        <unittitle>Scrapbook page with program for Amphion Choral Society's First Public Rehearsal, a Valentine note and a Christmas card</unittitle>
+                        <container id="cid6726" type="Box" label="Text">6</container>
+                        <container parent="cid6726" type="Folder">11</container>
+                        <unitdate>1876</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="file">
+                    <did>
+                        <unittitle>Broadside and program for events with the Sabbath School and the Sons of St. Thomas Society of St. Thomas P.E. Church</unittitle>
+                        <container id="cid6725" type="Box" label="Text">6</container>
+                        <container parent="cid6725" type="Folder">12</container>
+                        <unitdate>1877 May 30, 1908 April 24</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="file">
+                    <did>
+                        <unittitle>Ticket to Mr. C. Samuel Adger for "A Concert and Literary Entertainment" given at Y.M.U.B. Hall in San Francisco</unittitle>
+                        <container id="cid6724" type="Box" label="Text">6</container>
+                        <container parent="cid6724" type="Folder">13</container>
+                        <unitdate>1879 October 9</unitdate>
+                    </did>
+                </c>
+                <c id="ref105" level="file">
+                    <did>
+                        <unittitle>Broadside for operetta by the pupils of Miss Laney's Industrial School at the Market Hall</unittitle>
+                        <container id="cid6723" type="Box" label="Text">6</container>
+                        <container parent="cid6723" type="Folder">14</container>
+                        <unitdate>circa 1880</unitdate>
+                    </did>
+                </c>
+                <c id="ref106" level="file">
+                    <did>
+                        <unittitle>Church of the Crucifixion Young People's Association handbills, programs and broadside</unittitle>
+                        <container id="cid6722" type="Box" label="Text">6</container>
+                        <container parent="cid6722" type="Folder">15</container>
+                        <unitdate normal="1881/1883" type="inclusive">1881-1883</unitdate>
+                    </did>
+                </c>
+                <c id="ref107" level="file">
+                    <did>
+                        <unittitle>Program for Quaker City Circle's Closing Exercises music event</unittitle>
+                        <container id="cid6721" type="Box" label="Text">6</container>
+                        <container parent="cid6721" type="Folder">16</container>
+                        <unitdate>1883 May 26</unitdate>
+                    </did>
+                </c>
+                <c id="ref108" level="file">
+                    <did>
+                        <unittitle>Central Presbyterian Church newspaper and music programs</unittitle>
+                        <container id="cid6720" type="Box" label="Text">6</container>
+                        <container parent="cid6720" type="Folder">17</container>
+                        <unitdate>1884 November 27, 1890 January</unitdate>
+                    </did>
+                </c>
+                <c id="ref109" level="file">
+                    <did>
+                        <unittitle>Broadside for Pinafore at Musical Fund Hall</unittitle>
+                        <container id="cid6719" type="Box" label="Text">6</container>
+                        <container parent="cid6719" type="Folder">18</container>
+                        <unitdate>1884 December 26</unitdate>
+                    </did>
+                </c>
+                <c id="ref110" level="file">
+                    <did>
+                        <unittitle>Programs for concerts by students of House of Refuge</unittitle>
+                        <container id="cid6718" type="Box" label="Text">6</container>
+                        <container parent="cid6718" type="Folder">19</container>
+                        <unitdate>1885 March 3, 1885 November 25</unitdate>
+                    </did>
+                </c>
+                <c id="ref111" level="file">
+                    <did>
+                        <unittitle>Programs for Academy of Music's Great Star Concert featuring Dungee Troubadour Quartette and Amphion Singing Association</unittitle>
+                        <container id="cid6717" type="Box" label="Text">6</container>
+                        <container parent="cid6717" type="Folder">20</container>
+                        <unitdate>1885 March 31</unitdate>
+                    </did>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle>Broadside for South Street Baptist Mission's Grand Complimentary Concert tendered to Mr. Phillip W. Hutchins</unittitle>
+                        <container id="cid6716" type="Box" label="Text">6</container>
+                        <container parent="cid6716" type="Folder">21</container>
+                        <unitdate>1885 May 28</unitdate>
+                    </did>
+                </c>
+                <c id="ref113" level="file">
+                    <did>
+                        <unittitle>Program for Lincoln University's Alumni Association Annual Meeting</unittitle>
+                        <container id="cid6715" type="Box" label="Text">6</container>
+                        <container parent="cid6715" type="Folder">22</container>
+                        <unitdate>1885 June 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref114" level="file">
+                    <did>
+                        <unittitle>Program for Public School #16 graduation</unittitle>
+                        <container id="cid6714" type="Box" label="Text">6</container>
+                        <container parent="cid6714" type="Folder">23</container>
+                        <unitdate>1885 June 30</unitdate>
+                    </did>
+                </c>
+                <c id="ref115" level="file">
+                    <did>
+                        <unittitle>Bachelor-Benedict Club event invitations</unittitle>
+                        <container id="cid6713" type="Box" label="Text">6</container>
+                        <container parent="cid6713" type="Folder">24</container>
+                        <unitdate>1897</unitdate>
+                    </did>
+                </c>
+                <c id="ref116" level="file">
+                    <did>
+                        <unittitle>Broadside for concert at Murray A.M.E Church</unittitle>
+                        <container id="cid6712" type="Box" label="Text">6</container>
+                        <container parent="cid6712" type="Folder">25</container>
+                        <unitdate>1898 May 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref117" level="file">
+                    <did>
+                        <unittitle>Programs for Philadelphia High School for Girls Commencement Exercises</unittitle>
+                        <container id="cid6711" type="Box" label="Text">6</container>
+                        <container parent="cid6711" type="Folder">26</container>
+                        <unitdate>1898 June 15, 1905 June 16</unitdate>
+                    </did>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle>Invitation to Miss Meta Vaux Warrick farewell reception, invitation to Miss Venning, "The Misses Smith," and business card for Dr. Seymour De W. Ludlum's Psychopathic Hospital</unittitle>
+                        <container id="cid6710" type="Box" label="Text">6</container>
+                        <container parent="cid6710" type="Folder">27</container>
+                        <unitdate>1899 September 28, 1909 January 1, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>Scrapbook pages regarding the Venning family</unittitle>
+                        <container id="cid6709" type="Box" label="Text">6</container>
+                        <container parent="cid6709" type="Folder">28</container>
+                        <unitdate>circa 1903-1910</unitdate>
+                    </did>
+                </c>
+                <c id="ref120" level="file">
+                    <did>
+                        <unittitle>Programs for Philadelphia Treble-Clef Mandolin and Guitar Club concerts</unittitle>
+                        <container id="cid6708" type="Box" label="Text">6</container>
+                        <container parent="cid6708" type="Folder">29</container>
+                        <unitdate>1904 May 20, 1906 April 17</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>Century of the Fellowship Society broadside</unittitle>
+                        <container id="cid6707" type="Box" label="Text">6</container>
+                        <container parent="cid6707" type="Folder">30</container>
+                        <unitdate>1904 October 12</unitdate>
+                    </did>
+                </c>
+                <c id="ref122" level="file">
+                    <did>
+                        <unittitle>Scrapbook pages about the Venning family</unittitle>
+                        <container id="cid6706" type="Box" label="Text">6</container>
+                        <container parent="cid6706" type="Folder">31</container>
+                        <unitdate>1886, 1904</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle>Invitations</unittitle>
+                        <container id="cid6705" type="Box" label="Text">6</container>
+                        <container parent="cid6705" type="Folder">32</container>
+                        <unitdate normal="1906/1908" type="inclusive">1906-1908</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>Scrapbook pages about the Venning family</unittitle>
+                        <container id="cid6704" type="Box" label="Text">6</container>
+                        <container parent="cid6704" type="Folder">33</container>
+                        <unitdate normal="1860/1913" type="inclusive">mid-19th century, 1897, 1899, 1906-1913</unitdate>
+                    </did>
+                </c>
+                <c id="ref125" level="file">
+                    <did>
+                        <unittitle>Newspaper clippings and accounting information</unittitle>
+                        <container id="cid6703" type="Box" label="Text">6</container>
+                        <container parent="cid6703" type="Folder">34</container>
+                        <unitdate>circa 1907</unitdate>
+                    </did>
+                </c>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle>Invitation for First Public Rehearsal of the piano pupils of Miss Lillie G. Capps</unittitle>
+                        <container id="cid6702" type="Box" label="Text">6</container>
+                        <container parent="cid6702" type="Folder">35</container>
+                        <unitdate>1908 June 23</unitdate>
+                    </did>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>Program for Song Revue "Who is She?" at the St. Peter's Claver's Auditorium; Invitation for Auxiliary of Day Nursery, 9th annual charity ball</unittitle>
+                        <container id="cid6701" type="Box" label="Text">6</container>
+                        <container parent="cid6701" type="Folder">36</container>
+                        <unitdate>1908 November 25; 1914 April 30</unitdate>
+                    </did>
+                </c>
+                <c id="ref128" level="file">
+                    <did>
+                        <unittitle>Program for Association for the Protection of Colored Women's "A Dream of the Orient"</unittitle>
+                        <container id="cid6700" type="Box" label="Text">6</container>
+                        <container parent="cid6700" type="Folder">37</container>
+                        <unitdate>1909 May 11</unitdate>
+                    </did>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle>American Negro Historical Society Memorial Meetings in honor of Robert Jones and Theophilus J. Minton, Esq.</unittitle>
+                        <container id="cid6699" type="Box" label="Text">6</container>
+                        <container parent="cid6699" type="Folder">38</container>
+                        <unitdate>1909 May 26</unitdate>
+                    </did>
+                </c>
+                <c id="ref130" level="file">
+                    <did>
+                        <unittitle>Program for Mercy Hospital School for Nurses' First Commencement</unittitle>
+                        <container id="cid6698" type="Box" label="Text">6</container>
+                        <container parent="cid6698" type="Folder">39</container>
+                        <unitdate>1909 June 3</unitdate>
+                    </did>
+                </c>
+                <c id="ref131" level="file">
+                    <did>
+                        <unittitle>Programs for Mary Saunders Patterson musical events</unittitle>
+                        <container id="cid6697" type="Box" label="Text">6</container>
+                        <container parent="cid6697" type="Folder">40</container>
+                        <unitdate>1909 December 30, 1918 May 31</unitdate>
+                    </did>
+                </c>
+                <c id="ref132" level="file">
+                    <did>
+                        <unittitle>Citizens Republican Club programs for Soap Box Social Events</unittitle>
+                        <container id="cid6696" type="Box" label="Text">6</container>
+                        <container parent="cid6696" type="Folder">41</container>
+                        <unitdate normal="1911/1922" type="inclusive">1911-1922</unitdate>
+                    </did>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle>Programs for Mendelssohn Musical Association of Philadelphia's Second Annual Concert</unittitle>
+                        <container id="cid6695" type="Box" label="Text">6</container>
+                        <container parent="cid6695" type="Folder">42</container>
+                        <unitdate>1913 February 3</unitdate>
+                    </did>
+                </c>
+                <c id="ref134" level="file">
+                    <did>
+                        <unittitle>Program of Institutional Relief Organization's "International Congress of Women in Pantomime"</unittitle>
+                        <container id="cid6694" type="Box" label="Text">6</container>
+                        <container parent="cid6694" type="Folder">43</container>
+                        <unitdate>1919 December 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>Program for Quaker City Beneficial Associations 35th Annual Sermon and Memorial Service</unittitle>
+                        <container id="cid6693" type="Box" label="Text">6</container>
+                        <container parent="cid6693" type="Folder">44</container>
+                        <unitdate>1921 May 29</unitdate>
+                    </did>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle>Program for Commencement of the Seventh Class of South Philadelphia High School for Girls</unittitle>
+                        <container id="cid6692" type="Box" label="Text">6</container>
+                        <container parent="cid6692" type="Folder">45</container>
+                        <unitdate>1921 June 20</unitdate>
+                    </did>
+                </c>
+                <c id="ref137" level="file">
+                    <did>
+                        <unittitle>Scrapbook pages regarding the Venning Family (including obituaries and cruise information)</unittitle>
+                        <container id="cid6691" type="Box" label="Text">6</container>
+                        <container parent="cid6691" type="Folder">46</container>
+                        <unitdate>circa 1932</unitdate>
+                    </did>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle>Program for Philippa Schuyler piano concert hosted by Associate Committee of Women</unittitle>
+                        <container id="cid6690" type="Box" label="Text">6</container>
+                        <container parent="cid6690" type="Folder">47</container>
+                        <unitdate>1939 February 25</unitdate>
+                    </did>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle>Newsletter for Student Council of St. Simon the Cyrenian Church School</unittitle>
+                        <container id="cid6689" type="Box" label="Text">6</container>
+                        <container parent="cid6689" type="Folder">48</container>
+                        <unitdate>1939 June</unitdate>
+                    </did>
+                </c>
+                <c id="ref140" level="file">
+                    <did>
+                        <unittitle>Programs for Constance Stokes' mezzo soprano recitals</unittitle>
+                        <container id="cid6688" type="Box" label="Text">6</container>
+                        <container parent="cid6688" type="Folder">49</container>
+                        <unitdate>1939 October 19, 1941 October 17</unitdate>
+                    </did>
+                </c>
+                <c id="ref141" level="file">
+                    <did>
+                        <unittitle>Edward W. and Edward Y. Venning, newspaper clippings and scrapbook</unittitle>
+                        <container id="cid6687" type="Box" label="Text">6</container>
+                        <container parent="cid6687" type="Folder">50</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref142" level="file">
+                    <did>
+                        <unittitle>Ephemera, ribbon and visiting card</unittitle>
+                        <container id="cid6686" type="Box" label="Text">6</container>
+                        <container parent="cid6686" type="Folder">51</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref143" level="file">
+                    <did>
+                        <unittitle>Visiting cards</unittitle>
+                        <container id="cid6685" type="Box" label="Text">6</container>
+                        <container parent="cid6685" type="Folder">52</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Edward W. Venning, materials</unittitle>
+                        <container id="cid6684" type="Box" label="Text">6</container>
+                        <container parent="cid6684" type="Folder">53</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref145" level="file">
+                    <did>
+                        <unittitle>Photocopies of newspaper clippings including articles about Jim Crow, lynching, C. Daniel Adger and Marian Anderson</unittitle>
+                        <container id="cid6683" type="Box" label="Text">6</container>
+                        <container parent="cid6683" type="Folder">54</container>
+                        <unitdate>circa 1900-1920</unitdate>
+                    </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>Genealogical information compiled by the Library Company of Philadelphia</unittitle>
+                        <container id="cid6682" type="Box" label="Text">6</container>
+                        <container parent="cid6682" type="Folder">55</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref164" level="file">
+                    <did>
+                        <unittitle>Scrapbook page regarding Edward W. and Edward Y. Venning,</unittitle>
+                        <container id="cid26016" type="Box" label="Text">9</container>
+                        <container parent="cid26016" type="Folder">16</container>
+                        <unitdate>1862, 1869, 1906.</unitdate>
+                    </did>
+                </c>
+                <c id="ref165" level="file">
+                    <did>
+                        <unittitle>Soapbox Social financial reports</unittitle>
+                        <container id="cid26017" type="Box" label="Text">9</container>
+                        <container parent="cid26017" type="Folder">17</container>
+                        <unitdate>1911, 1912.</unitdate>
+                    </did>
+                </c>
+                <c id="ref166" level="file">
+                    <did>
+                        <unittitle>Obituary for Ada "Bricktop" Smith,</unittitle>
+                        <container id="cid26018" type="Box" label="Text">9</container>
+                        <container parent="cid26018" type="Folder">18</container>
+                        <unitdate>circa 1984.</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref147" level="series">
+                <did>
+                    <unittitle>Series VII. Hinkson family papers [12142.F, 12143.F]</unittitle>
+                    <unitdate normal="1954/1960" type="bulk">Bulk, 1954-1960</unitdate>
+                    <unitdate normal="1929/1982" type="inclusive">1929-1982</unitdate>
+                </did>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle>Hinkson, Cordelia: Correspondence from Pearl Buck, copy of Pearl Buck's "The Dark Shadow," and articles and letters regarding "The Dark Shadow,"</unittitle>
+                        <container id="cid26001" type="Box" label="Text">9</container>
+                        <container parent="cid26001" type="Folder">1</container>
+                        <unitdate normal="1942/1964" type="inclusive">1942-1964</unitdate>
+                    </did>
+                </c>
+                <c id="ref149" level="file">
+                    <did>
+                        <unittitle>Hinkson, DeHaven: Correspondence,</unittitle>
+                        <container id="cid26002" type="Box" label="Text">9</container>
+                        <container parent="cid26002" type="Folder">2</container>
+                        <unitdate>1929, 1941, undated.</unitdate>
+                    </did>
+                </c>
+                <c id="ref150" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence from the Dean of the University of Wisconsin,</unittitle>
+                        <container id="cid26003" type="Box" label="Text">9</container>
+                        <container parent="cid26003" type="Folder">3</container>
+                        <unitdate>6 May 1946.</unitdate>
+                    </did>
+                </c>
+                <c id="ref152" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26005" type="Box" label="Text">9</container>
+                        <container parent="cid26005" type="Folder">5</container>
+                        <unitdate>17 May 1954.</unitdate>
+                    </did>
+                </c>
+                <c id="ref151" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26004" type="Box" label="Text">9</container>
+                        <container parent="cid26004" type="Folder">4</container>
+                        <unitdate>February-May 1954.</unitdate>
+                    </did>
+                </c>
+                <c id="ref153" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26006" type="Box" label="Text">9</container>
+                        <container parent="cid26006" type="Folder">6</container>
+                        <unitdate>June-August 1954.</unitdate>
+                    </did>
+                </c>
+                <c id="ref154" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26007" type="Box" label="Text">9</container>
+                        <container parent="cid26007" type="Folder">7</container>
+                        <unitdate>May-June 1960.</unitdate>
+                    </did>
+                </c>
+                <c id="ref155" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26008" type="Box" label="Text">9</container>
+                        <container parent="cid26008" type="Folder">8</container>
+                        <unitdate>July 1960.</unitdate>
+                    </did>
+                </c>
+                <c id="ref156" level="file">
+                    <did>
+                        <unittitle>Jackson, Mary Hinkson: Correspondence to Cordelia and DeHaven Hinkson,</unittitle>
+                        <container id="cid26009" type="Box" label="Text">9</container>
+                        <container parent="cid26009" type="Folder">9</container>
+                        <unitdate>1965, 1972.</unitdate>
+                    </did>
+                </c>
+                <c id="ref157" level="file">
+                    <did>
+                        <unittitle>Postcards to Cordelia Hinkson, Mary Hinkson Jackson, Dede Hinkson,</unittitle>
+                        <container id="cid26010" type="Box" label="Text">9</container>
+                        <container parent="cid26010" type="Folder">10</container>
+                        <unitdate normal="1945/1982" type="inclusive">1945-1982</unitdate>
+                    </did>
+                </c>
+                <c id="ref158" level="file">
+                    <did>
+                        <unittitle>Alumnae Association. The Philadelphia High School for Girls: 150 Years, A Beginning, 1848-1998 [DVD],</unittitle>
+                        <container id="cid26011" type="Box" label="Text">9</container>
+                        <container parent="cid26011" type="Folder">11</container>
+                        <unitdate>1998.</unitdate>
+                    </did>
+                </c>
+                <c id="ref159" level="file">
+                    <did>
+                        <unittitle>Photocopies of articles and notes about the Cogdell, Hinkson, and Chew families,</unittitle>
+                        <container id="cid26012" type="Box" label="Text">9</container>
+                        <container parent="cid26012" type="Folder">12</container>
+                        <unitdate>1959, 1967, undated.</unitdate>
+                    </did>
+                </c>
+                <c id="ref160" level="file">
+                    <did>
+                        <unittitle>Obituary and eulogy for Charles Shelton Brown,</unittitle>
+                        <container id="cid26013" type="Box" label="Text">9</container>
+                        <container parent="cid26013" type="Folder">13</container>
+                        <unitdate>April 2004.</unitdate>
+                    </did>
+                </c>
+                <c id="ref161" level="file">
+                    <did>
+                        <unittitle>Group for the Advancement of Psychiatry. "Psychiatric Aspects of School Desegregation,"</unittitle>
+                        <container id="cid26014" type="Box" label="Text">9</container>
+                        <container parent="cid26014" type="Folder">14</container>
+                        <unitdate>May 1957.</unitdate>
+                    </did>
+                </c>
+                <c id="ref162" level="file">
+                    <did>
+                        <unittitle>Chew, Richard S.: Letter and articles,</unittitle>
+                        <container id="cid26015" type="Box" label="Text">9</container>
+                        <container parent="cid26015" type="Folder">15</container>
+                        <unitdate>1925, undated.</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

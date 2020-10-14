@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Gerard van Swieten dictata in materia medica
+                    <num>LCP.Swieten</num>
+                </titleproper>
+                <titleproper type="filing">Swieten, Gerard van (dictata in materia medica)</titleproper>
+                <sponsor>The creation of this collection level record was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Library Company of Philadelphia</publisher>
+                <date>2012 March 10</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2020-09-02T16:13-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gerard van Swieten dictata in materia medica</unittitle>
+            <unitid>LCP.Swieten</unitid>
+            <repository>
+                <corpname>Library Company of Philadelphia</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="lat"/>
+            </langmaterial>
+            <physdesc>
+                <extent>8.0 volumes</extent>
+            </physdesc>
+            <unitdate normal="1733/1756" type="inclusive">1733-1756</unitdate>
+            <abstract id="ref2" label="Abstract">Gerard van Swieten (1770-1772) was a Dutch-Austrian physician who served as the personal physician to Austrian Empress Maria Theresa in 1745 and transformed the Austrian health services as well as medical university education. This collection consists of eight volumes of medical writings in Latin concerning nutrition, pharmacy, and surgery. Several pages at the beginning of Volume I, and a few pages elsewhere, are translated into English on the facing pages.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Swieten, Gerard, Freiherr van, 1700-1772</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of eight volumes of medical writings in Latin concerning nutrition, pharmacy, and surgery. Several pages at the beginning of Volume I, and a few pages elsewhere, are translated into English on the facing pages.</p>
+        </scopecontent>
+        <prefercite id="ref4">
+            <head>Preferred Citation note</head>
+            <p>[Description and date of item], [Volume number], Gerard van Swieten dictata in materia medica, 1733-1756, Library Company of Philadelphia.</p>
+        </prefercite>
+        <userestrict id="ref5">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library Company of Philadelphia with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <accessrestrict id="ref6">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use, on deposit at the Historical Society of Pennsylvania, 1300 Locust Street, Philadelphia, PA 19107. For access, please contact the Historical Society at 215-732-6200 or visit http://www.hsp.org.</p>
+        </accessrestrict>
+        <bioghist id="ref7">
+            <head>Biographical/Historical note</head>
+            <p>Gerard van Swieten (1700-1772) was a Dutch-Austrian physician who served as the personal physician to Austrian Empress Maria Theresa in 1745 and transformed the Austrian health services as well as medical university education.</p>
+            <p>Born in Leiden, Gerard van Swieten obtained his education at the University of Leiden and was a student of one of the most respected physicians of the time, Hermann Boerhaave. After receiving his degree, van Sweiten lectured and became a respected physician in Leiden. Following the death of the Imperial Court physician, van Sweiten was asked to serve as the personal physician to Austrian Empress Maria Theresa and her family in Vienna.</p>
+            <p>In addition to his duties as court physician, van Sweiten focused his attention on reforming the Austrian health service and medical university education in Vienna. Through his efforts, "the teaching of lower-grade medical personnel such as midwives and barber-surgeons was improved, better-trained physicians were appointed at hospitals throughout Austria ... [and there was the] introduction of stringent control of sanitation by the State," (Kidd, page 448). Because of his efforts, the Vienna Medical School's prominence was established. He continued in his work both as physician to the Empress and her family, and in making sweeping reforms in medical education until his death in 1772. According to Kidd, "although he was an insightful scholar, a respectable scientist, and a gentle and devoted physician, it was his work in elevating the medical school of Austria into eminence that made his name renowned," (Kidd, page 449).</p>
+            <p>Bibliography:</p>
+            <p>Kidd, Mark and Irvin M. Modlin. "Van Swieten and the Renaissance of the Vienna Medical School." 
+                <emph render="italic">World Journal of Surgery</emph>, 2001 (25): 444-450.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Medical education</subject>
+            <subject source="lcsh">Medicine</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
